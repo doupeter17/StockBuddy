@@ -9,23 +9,17 @@ global isWriteHeader
 isWriteHeader = True
 
 
-def fetch_ticker_data(comp_code):
+def get_indicators(comp_code):
     try:
-        # for comp_code in range(600000, 6000011):
-        fetch_obj = yf.Ticker(f"{comp_code}.SS")
-        # blc_sheet = fetch_obj.get_balance_sheet(
-        #     as_dict=True, pretty=True, freq="yearly"
-        # )
-        get_indicators(fetch_obj)
-    except Exception as e:
-        return f"Error: {e}"
-
-
-def get_indicators(ticker: yf.Ticker):
-    try:
+        ticker = yf.Ticker(comp_code)
         income_stmt = ticker.financials
         years = income_stmt.columns  # Get years in fin stm
         balance_sheet = ticker.balance_sheet
+
+        company_name = ticker.info.get("longName", "N/A")
+        sector = ticker.info.get("sector", "N/A")
+        industry = ticker.info.get("industry", "N/A")
+
         for year in years:
 
             net_income = income_stmt.loc["Net Income", year]  # Net Income - worked
@@ -55,71 +49,66 @@ def get_indicators(ticker: yf.Ticker):
             DAR = total_debt[year] / total_assets[year]  # DAR
 
             MB = year_end_prices[year.year] / bvps
+            SIZE = year_end_prices[year.year] * share_outstanding
+
+            DY = dividends_by_year[year.year] / year_end_prices[year.year]
 
             print(f"\nYear: {year.year}")
-            print(f"Net Income: {net_income:.2f}")
-            print(f"Share Outstanding: {share_outstanding:.2f}")
+            print(f"Company Name: {company_name}")
+            print(f"Sector: {sector}")
+            print(f"Industry: {industry}")
+            print(f"Net Income: {net_income}")
+            print(f"Share Outstanding: {share_outstanding}")
             print(f"EPS: {basic_EPS}")
-            print(f"BVPS: {bvps:.2f}")
-            print(f"ROA: {ROA:.2f}")
-            print(f"ROE: {ROE:.2f}")
-            print(f"DIV: {dividends_by_year[year.year]:.2f}")
-            print(f"P/E Ratio {pe_ratio:.2f}")
-            print(f"Closed price: {year_end_prices[year.year]:.2f}")
-            print(f"DAR: {DAR:.2f}")
-            print(f"MB: {MB:.2f}")
+            print(f"BVPS: {bvps}")
+            print(f"ROA: {ROA}")
+            print(f"ROE: {ROE}")
+            print(f"DIV: {dividends_by_year[year.year]}")
+            print(f"P/E Ratio {pe_ratio}")
+            print(f"Closed price: {year_end_prices[year.year]}")
+            print(f"DAR: {DAR}")
+            print(f"MB: {MB}")
+            print(f"SIZE: {SIZE}")
+            print(f"DY: {DY}")
 
+            fin_data = {
+                "Company code": comp_code,
+                "Company Name": company_name,
+                "Sector": sector,
+                "Industry": industry,
+                "Year": year.year,
+                "EPS": f"{basic_EPS}",
+                "BVPS": f"{bvps}",
+                "ROA": f"{ROA}",
+                "ROE": f"{ROE}",
+                "DIV": f"{dividends_by_year[year.year]}",
+                "P/E Ratio": f"{pe_ratio}",
+                "DAR": f"{DAR}",
+                "MB": f"{MB}",
+                "DY": f"{DY}",
+                "Market Cap": f"{SIZE}",
+                "Total Assets": f"{total_assets[year]}",
+            }
+            write_to_csv(fin_data)
     except Exception as e:
         print(f"Idicator error: {e}")
 
 
-# def write_to_csv(financial_data, comp_code):
-#     global isWriteHeader
-#         headers = set()
-#         for date, data in financial_data.items():
-#             headers.update(data.keys())
-#         headers = ["Company Code", "Date"] + sorted(headers)
+def write_to_csv(fin_data):
+    output_file = f"fin_data_{fin_data["Year"]}.csv"
+    with open(output_file, mode="a", newline="") as file:
+        writer = csv.DictWriter(file, fieldnames=fin_data.keys())
+        if isWriteHeader:
+            writer.writeheader()  # Write the header row (column names)
+        writer.writerow(fin_data)
 
-#         for date, data in financial_data.items():
-#             date_str = str(date)  # Convert date to string
-#             year = date_str.split("-")[0]  # Extract year from the date
-#             output_file = f"fin_data_{year}.csv"
-#             with open(output_file, newline="", encoding="utf-8") as csvfile:
-#             reader = csv.reader(csvfile)
-#             first_row = next(
-#                 reader, None
-#             )  # Get the first row or None if the file is empty
-
-#             if first_row is None:
-#                 isWriteHeader = True
-#             else:
-#                 isWriteHeader = False
-#         with open(output_file, mode="a", newline="", encoding="utf-8") as file:
-#             writer = csv.writer(file)
-#             if isWriteHeader:
-#                 writer.writerow(headers)  # Write headers
-#                 isWriteHeader = False
-#             row = [comp_code, date] + [
-#                 (
-#                     data.get(key, None)
-#                     if not (
-#                         isinstance(data.get(key), float) and math.isnan(data.get(key))
-#                     )
-#                     else "NaN"
-#                 )
-#                 for key in headers[2:]
-#             ]
-#             writer.writerow(row)
-
-#         print(f"Data for {year} successfully written to {output_file}")
+    print(f"Data for {fin_data["Year"]} successfully written to {output_file}")
 
 
+isWriteHeader = True
 if __name__ == "__main__":
-    fetch_obj = yf.Ticker("600000.SS")
-    get_indicators(fetch_obj)
-    print("Done")
-    # for comp_code in range(600001, 600003):
-    #     fetch_ticker_data
-    # blc_sheet, icm_stm = fetch_ticker_data(comp_code)
-    # write_to_csv(icm_stm, comp_code)
-    # time.sleep(2)
+    for comp_code in range(600000, 604000):
+        get_indicators(f"{comp_code}.SS")
+        isWriteHeader = False
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        executor.map(get_indicators, comp_code)
