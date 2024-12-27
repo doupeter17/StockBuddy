@@ -6,7 +6,7 @@ import math
 import pandas
 
 global isWriteHeader
-isWriteHeader = True
+isWriteHeader = False
 
 
 def get_indicators(comp_code):
@@ -88,6 +88,7 @@ def get_indicators(comp_code):
                 "DY": f"{DY}",
                 "Market Cap": f"{SIZE}",
                 "Total Assets": f"{total_assets[year]}",
+                "Stock Price":f"{year_end_prices[year.year]}"
             }
             write_to_csv(fin_data)
     except Exception as e:
@@ -105,7 +106,7 @@ def write_to_csv(fin_data):
     print(f"Data for {fin_data["Year"]} successfully written to {output_file}")
 
 
-isWriteHeader = True
+isWriteHeader = False
 if __name__ == "__main__":
     for comp_code in range(600000, 604000):
         get_indicators(f"{comp_code}.SS")
