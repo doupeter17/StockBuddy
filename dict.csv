@@ -1,0 +1,739 @@
+,field_name,name,en_name,type,order,unit,com_type_code
+0,BSA1,TỔNG TÀI SẢN NGẮN HẠN,CURRENT ASSETS,Chỉ tiêu cân đối kế toán,12,tỷ,BH
+1,BSA2,Tiền và tương đương tiền,Cash and cash equivalents,Chỉ tiêu cân đối kế toán,13,tỷ,BH
+2,BSA5,Giá trị thuần đầu tư ngắn hạn,Net Short-term investment,Chỉ tiêu cân đối kế toán,14,tỷ,BH
+3,BSA8,Các khoản phải thu,Accounts Receivables,Chỉ tiêu cân đối kế toán,15,tỷ,BH
+4,BSA15,Hàng tồn kho ròng,Net Inventories,Chỉ tiêu cân đối kế toán,16,tỷ,BH
+5,BSA18,Tài sản lưu động khác,Other current assets,Chỉ tiêu cân đối kế toán,17,tỷ,BH
+6,BSA23,TỔNG TÀI SẢN DÀI HẠN,NON-CURRENT ASSETS,Chỉ tiêu cân đối kế toán,18,tỷ,BH
+7,BSA24,Phải thu dài hạn,Long-term receivables,Chỉ tiêu cân đối kế toán,19,tỷ,BH
+8,BSA29,Tài sản cổ định,Fixed assets,Chỉ tiêu cân đối kế toán,20,tỷ,BH
+9,BSA40,Giá trị ròng tài sản đầu tư,Investment in properties,Chỉ tiêu cân đối kế toán,21,tỷ,BH
+10,BSA43,Đầu tư dài hạn,Long-term investment,Chỉ tiêu cân đối kế toán,22,tỷ,BH
+11,BSA49,Tài sản dài hạn khác,Other non-current assets,Chỉ tiêu cân đối kế toán,24,tỷ,BH
+12,BSA53,TỔNG TÀI SẢN,TOTAL ASSETS,Chỉ tiêu cân đối kế toán,25,tỷ,BH
+13,BSA54,NỢ PHẢI TRẢ,LIABILITIES,Chỉ tiêu cân đối kế toán,26,tỷ,BH
+14,BSA55,Nợ ngắn hạn,Current liabilities,Chỉ tiêu cân đối kế toán,27,tỷ,BH
+15,BSA67,Nợ dài hạn,Long-term liabilities,Chỉ tiêu cân đối kế toán,28,tỷ,BH
+16,BSA78,VỐN CHỦ SỞ HỮU,OWNER'S EQUITY,Chỉ tiêu cân đối kế toán,29,tỷ,BH
+17,BSA79,Vốn và các quỹ,Capital and Reserves,Chỉ tiêu cân đối kế toán,30,tỷ,BH
+18,BSA89,Các quỹ khác,Other Reserves,Chỉ tiêu cân đối kế toán,31,tỷ,BH
+19,BSA90,Lãi chưa phân phối,Undistributed earnings,Chỉ tiêu cân đối kế toán,32,tỷ,BH
+20,BSA94,Vốn Ngân sách nhà nước và quỹ khác,Budget sources and other funds,Chỉ tiêu cân đối kế toán,33,tỷ,BH
+21,BSA95,LỢI ÍCH CỦA CỔ ĐÔNG THIỂU SỐ,MINORITY INTERESTS,Chỉ tiêu cân đối kế toán,34,tỷ,BH
+22,BSA96,TỔNG NGUỒN VỐN,TOTAL OWNER'S EQUITY AND LIABILITIES,Chỉ tiêu cân đối kế toán,35,tỷ,BH
+23,BSA1,TỔNG TÀI SẢN NGẮN HẠN,CURRENT ASSETS,Chỉ tiêu cân đối kế toán,9,tỷ,CK
+24,BSA2,Tiền và tương đương tiền,Cash and cash equivalents,Chỉ tiêu cân đối kế toán,10,tỷ,CK
+25,BSA5,Giá trị thuần đầu tư ngắn hạn,Net Short-term investment,Chỉ tiêu cân đối kế toán,11,tỷ,CK
+26,BSA8,Các khoản phải thu,Accounts Receivables,Chỉ tiêu cân đối kế toán,12,tỷ,CK
+27,BSA15,Hàng tồn kho ròng,Net Inventories,Chỉ tiêu cân đối kế toán,13,tỷ,CK
+28,BSA18,Tài sản lưu động khác,Other current assets,Chỉ tiêu cân đối kế toán,14,tỷ,CK
+29,BSA23,TỔNG TÀI SẢN DÀI HẠN,NON-CURRENT ASSETS,Chỉ tiêu cân đối kế toán,15,tỷ,CK
+30,BSA24,Phải thu dài hạn,Long-term receivables,Chỉ tiêu cân đối kế toán,16,tỷ,CK
+31,BSA29,Tài sản cổ định,Fixed assets,Chỉ tiêu cân đối kế toán,17,tỷ,CK
+32,BSA40,Giá trị ròng tài sản đầu tư,Investment in properties,Chỉ tiêu cân đối kế toán,18,tỷ,CK
+33,BSA43,Đầu tư dài hạn,Long-term investment,Chỉ tiêu cân đối kế toán,19,tỷ,CK
+34,BSA209,Lợi thế thương mại,Goodwill,Chỉ tiêu cân đối kế toán,20,tỷ,CK
+35,BSA49,Tài sản dài hạn khác,Other non-current assets,Chỉ tiêu cân đối kế toán,21,tỷ,CK
+36,BSA53,TỔNG TÀI SẢN,TOTAL ASSETS,Chỉ tiêu cân đối kế toán,22,tỷ,CK
+37,BSA54,NỢ PHẢI TRẢ,LIABILITIES,Chỉ tiêu cân đối kế toán,23,tỷ,CK
+38,BSA55,Nợ ngắn hạn,Current liabilities,Chỉ tiêu cân đối kế toán,24,tỷ,CK
+39,BSA67,Nợ dài hạn,Long-term liabilities,Chỉ tiêu cân đối kế toán,25,tỷ,CK
+40,BSA78,VỐN CHỦ SỞ HỮU,OWNER'S EQUITY,Chỉ tiêu cân đối kế toán,26,tỷ,CK
+41,BSA79,Vốn và các quỹ,Capital and Reserves,Chỉ tiêu cân đối kế toán,27,tỷ,CK
+42,BSA89,Các quỹ khác,Other Reserves,Chỉ tiêu cân đối kế toán,28,tỷ,CK
+43,BSA90,Lãi chưa phân phối,Undistributed earnings,Chỉ tiêu cân đối kế toán,29,tỷ,CK
+44,BSA92,Vốn Ngân sách nhà nước và quỹ khác,Budget sources and other funds,Chỉ tiêu cân đối kế toán,30,tỷ,CK
+45,BSA95,LỢI ÍCH CỦA CỔ ĐÔNG THIỂU SỐ,MINORITY INTERESTS,Chỉ tiêu cân đối kế toán,31,tỷ,CK
+46,BSA96,TỔNG NGUỒN VỐN,TOTAL OWNER'S EQUITY AND LIABILITIES,Chỉ tiêu cân đối kế toán,32,tỷ,CK
+47,BSA1,TỔNG TÀI SẢN NGẮN HẠN,CURRENT ASSETS,Chỉ tiêu cân đối kế toán,1,tỷ,CT
+48,BSA2,Tiền và tương đương tiền,Cash and cash equivalents,Chỉ tiêu cân đối kế toán,2,tỷ,CT
+49,BSA5,Giá trị thuần đầu tư ngắn hạn,Net Short-term investment,Chỉ tiêu cân đối kế toán,3,tỷ,CT
+50,BSA8,Các khoản phải thu,Accounts Receivables,Chỉ tiêu cân đối kế toán,4,tỷ,CT
+51,BSA15,Hàng tồn kho ròng,Net Inventories,Chỉ tiêu cân đối kế toán,5,tỷ,CT
+52,BSA18,Tài sản lưu động khác,Other current assets,Chỉ tiêu cân đối kế toán,6,tỷ,CT
+53,BSA23,TỔNG TÀI SẢN DÀI HẠN,NON-CURRENT ASSETS,Chỉ tiêu cân đối kế toán,7,tỷ,CT
+54,BSA162,Phải thu dài hạn,Long-term receivables,Chỉ tiêu cân đối kế toán,8,tỷ,CT
+55,BSA29,Tài sản cổ định,Fixed assets,Chỉ tiêu cân đối kế toán,9,tỷ,CT
+56,BSA40,Giá trị ròng tài sản đầu tư,Investment in properties,Chỉ tiêu cân đối kế toán,10,tỷ,CT
+57,BSA43,Đầu tư dài hạn,Long-term investment,Chỉ tiêu cân đối kế toán,11,tỷ,CT
+58,BSA48,Lợi thế thương mại,Goodwill,Chỉ tiêu cân đối kế toán,12,tỷ,CT
+59,BSA49,Tài sản dài hạn khác,Other non-current assets,Chỉ tiêu cân đối kế toán,13,tỷ,CT
+60,BSA53,TỔNG TÀI SẢN,TOTAL ASSETS,Chỉ tiêu cân đối kế toán,14,tỷ,CT
+61,BSA54,NỢ PHẢI TRẢ,LIABILITIES,Chỉ tiêu cân đối kế toán,15,tỷ,CT
+62,BSA55,Nợ ngắn hạn,Current liabilities,Chỉ tiêu cân đối kế toán,16,tỷ,CT
+63,BSA67,Nợ dài hạn,Long-term liabilities,Chỉ tiêu cân đối kế toán,17,tỷ,CT
+64,BSA78,VỐN CHỦ SỞ HỮU,OWNER'S EQUITY,Chỉ tiêu cân đối kế toán,18,tỷ,CT
+65,BSA79,Vốn và các quỹ,Capital and Reserves,Chỉ tiêu cân đối kế toán,19,tỷ,CT
+66,BSA82,Các quỹ khác,Other Reserves,Chỉ tiêu cân đối kế toán,20,tỷ,CT
+67,BSA90,Lãi chưa phân phối,Undistributed earnings,Chỉ tiêu cân đối kế toán,21,tỷ,CT
+68,BSA92,Vốn Ngân sách nhà nước và quỹ khác,Budget sources and other funds,Chỉ tiêu cân đối kế toán,22,tỷ,CT
+69,BSA210,LỢI ÍCH CỦA CỔ ĐÔNG THIỂU SỐ,MINORITY INTERESTS,Chỉ tiêu cân đối kế toán,23,tỷ,CT
+70,BSA96,TỔNG NGUỒN VỐN,TOTAL OWNER'S EQUITY AND LIABILITIES,Chỉ tiêu cân đối kế toán,24,tỷ,CT
+71,BSA53,Tổng tài sản,Total Assets,Chỉ tiêu cân đối kế toán,1,tỷ,NH
+72,BSA2,"Tiền mặt, vàng bạc, đá quý",Cash and Precious Metals,Chỉ tiêu cân đối kế toán,2,tỷ,NH
+73,BSB97,Tiền gửi tại ngân hàng nhà nước Việt Nam,Balances with the SBV,Chỉ tiêu cân đối kế toán,3,tỷ,NH
+74,BSB98,Tiền gửi tại các TCTD khác và cho vay các TCTD khác,Placements with and loans to other credit institutions,Chỉ tiêu cân đối kế toán,4,tỷ,NH
+75,BSB99,Chứng khoán kinh doanh,"Trading Securities, net",Chỉ tiêu cân đối kế toán,5,tỷ,NH
+76,BSB100,Chứng khoán kinh doanh,Trading Securities,Chỉ tiêu cân đối kế toán,6,tỷ,NH
+77,BSB101,Dự phòng giảm giá chứng khoán kinh doanh,Provision for diminution in value of Trading Securities,Chỉ tiêu cân đối kế toán,7,tỷ,NH
+78,BSB102,Các công cụ tài chính phái sinh và khoản nợ tài chính khác,Derivatives and other financial liabilities,Chỉ tiêu cân đối kế toán,8,tỷ,NH
+79,BSB103,Cho vay khách hàng,"Loans and advances to customers, net",Chỉ tiêu cân đối kế toán,9,tỷ,NH
+80,BSB104,Cho vay khách hàng,Loans and advances to customers,Chỉ tiêu cân đối kế toán,10,tỷ,NH
+81,BSB105,Dự phòng rủi ro cho vay khách hàng,Less: Provision for losses on loans and advances to customers,Chỉ tiêu cân đối kế toán,11,tỷ,NH
+82,BSB106,Chứng khoán đầu tư,Investment Securities,Chỉ tiêu cân đối kế toán,12,tỷ,NH
+83,BSB107,Chứng khoán đầu tư sẵn sàng để bán,Available-for Sales Securities,Chỉ tiêu cân đối kế toán,13,tỷ,NH
+84,BSB108,Chứng khoán đầu tư giữ đến ngày đáo hạn,Held-to-Maturity Securities,Chỉ tiêu cân đối kế toán,14,tỷ,NH
+85,BSB109,Dự phòng giảm giá chứng khoán đầu tư,Less: Provision for diminution in value of investment securities,Chỉ tiêu cân đối kế toán,15,tỷ,NH
+86,BSA43,"Góp vốn, đầu tư dài hạn",Investment in other entities and long term investments,Chỉ tiêu cân đối kế toán,16,tỷ,NH
+87,BSA44,Đầu tư vào công ty con,Investment in joint ventures,Chỉ tiêu cân đối kế toán,17,tỷ,NH
+88,BSA45,Đầu tư vào công ty liên doanh,Investments in associate companies,Chỉ tiêu cân đối kế toán,18,tỷ,NH
+89,BSA46,Đầu tư dài hạn khác,Other long-term investments,Chỉ tiêu cân đối kế toán,19,tỷ,NH
+90,BSA47,Dự phòng giảm giá đầu tư dài hạn,Less: Provision for diminuation in value of long term investments,Chỉ tiêu cân đối kế toán,20,tỷ,NH
+91,BSA29,Tài sản cổ định,Fixed assets,Chỉ tiêu cân đối kế toán,21,tỷ,NH
+92,BSA30,Tài sản cố định hữu hình,Tangible fixed assets,Chỉ tiêu cân đối kế toán,22,tỷ,NH
+93,BSA33,Tài sản cố định thuê tài chính,Leased assets,Chỉ tiêu cân đối kế toán,23,tỷ,NH
+94,BSA36,Tài sản cố định vô hình,Intagible fixed assets,Chỉ tiêu cân đối kế toán,24,tỷ,NH
+95,BSA40,Giá trị ròng tài sản đầu tư,Investment in properties,Chỉ tiêu cân đối kế toán,25,tỷ,NH
+96,BSB110,Tài sản Có khác,Other Assets,Chỉ tiêu cân đối kế toán,26,tỷ,NH
+97,BSA96,NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,LIABILITIES AND SHAREHOLDER'S EQUITY,Chỉ tiêu cân đối kế toán,27,tỷ,NH
+98,BSA54,Tổng nợ phải trả,Total Liabilities,Chỉ tiêu cân đối kế toán,28,tỷ,NH
+99,BSB111,Các khoản nợ chính phủ và NHNN Việt Nam,Due to Gov and borrowings from SBV,Chỉ tiêu cân đối kế toán,29,tỷ,NH
+100,BSB112,Tiền gửi và vay các Tổ chức tín dụng khác,Deposits and borrowings from other credit institutions,Chỉ tiêu cân đối kế toán,30,tỷ,NH
+101,BSB113,Tiền gửi của khách hàng,Deposits from customers,Chỉ tiêu cân đối kế toán,31,tỷ,NH
+102,BSB114,Các công cụ tài chính phái sinh và khoản nợ tài chính khác,Derivatives and other financial liabilities,Chỉ tiêu cân đối kế toán,32,tỷ,NH
+103,BSB115,"Vốn tài trợ, uỷ thác đầu tư của CP và các tổ chức TD khác","Funds received from Gov, international and other institutions",Chỉ tiêu cân đối kế toán,33,tỷ,NH
+104,BSB116,Phát hành giấy tờ có giá,Convertible bonds/CDs and other valuable papers issued,Chỉ tiêu cân đối kế toán,34,tỷ,NH
+105,BSB117,Các khoản nợ khác,Other liabilities,Chỉ tiêu cân đối kế toán,35,tỷ,NH
+106,BSA78,Vốn chủ sở hữu,Shareholders’ Equity,Chỉ tiêu cân đối kế toán,36,tỷ,NH
+107,BSB118,Vốn của tổ chức tín dụng,Capital,Chỉ tiêu cân đối kế toán,37,tỷ,NH
+108,BSB121,Quỹ của tổ chức tín dụng,Reserves,Chỉ tiêu cân đối kế toán,38,tỷ,NH
+109,BSA85,Chênh lệch tỷ giá hối đoái,Foreign Currency Difference reserve,Chỉ tiêu cân đối kế toán,39,tỷ,NH
+110,BSA84,Chênh lệch đánh giá lại tài sản,Difference upon Assets Revaluation,Chỉ tiêu cân đối kế toán,40,tỷ,NH
+111,BSA90,Lợi nhuận chưa phân phối,Retained Earnings,Chỉ tiêu cân đối kế toán,41,tỷ,NH
+112,BSA95,Cổ đông thiểu số,Minority Interest,Chỉ tiêu cân đối kế toán,42,tỷ,NH
+113,CFA1,Lãi/Lỗ ròng trước thuế,Net Profit/Loss before tax,Chỉ tiêu lưu chuyển tiền tệ,20,tỷ,BH
+114,CFA2,Chi phí khấu hao TSCĐ,Depreciation & Amortization,Chỉ tiêu lưu chuyển tiền tệ,21,tỷ,BH
+115,CFA3,Chi phí dự phòng,Provisions,Chỉ tiêu lưu chuyển tiền tệ,22,tỷ,BH
+116,CFA4,Lãi/Lỗ chênh lệch tỷ giá chưa thực hiện,Unrealized foreign exchange gain/loss,Chỉ tiêu lưu chuyển tiền tệ,23,tỷ,BH
+117,CFA5,Lãi/Lỗ từ thanh lý tài sản cố định,Profit/Loss from disposal of fixed assets,Chỉ tiêu lưu chuyển tiền tệ,24,tỷ,BH
+118,CFA6,Lãi/Lỗ từ hoạt động đầu tư,Profit/Loss from investing activities,Chỉ tiêu lưu chuyển tiền tệ,25,tỷ,BH
+119,CFA7,Thu nhập lãi,Interest Expense,Chỉ tiêu lưu chuyển tiền tệ,26,tỷ,BH
+120,CFA8,Thu lãi và cổ tức,Interest income and dividends,Chỉ tiêu lưu chuyển tiền tệ,27,tỷ,BH
+121,CFA9,Lãi/Lỗ trước những thay đổi vốn cố định,Operating Profit/Loss before changes in WC,Chỉ tiêu lưu chuyển tiền tệ,28,tỷ,BH
+122,CFA10,Tăng/Giảm các khoản phải thu,Increase/Decrease in receivables,Chỉ tiêu lưu chuyển tiền tệ,29,tỷ,BH
+123,CFA11,Tăng/Giảm hàng tồn kho,Increase/Decrease in inventories,Chỉ tiêu lưu chuyển tiền tệ,30,tỷ,BH
+124,CFA12,Tăng/Giảm các khoản phải trả,Increase/Decrease in payables,Chỉ tiêu lưu chuyển tiền tệ,31,tỷ,BH
+125,CFA13,Tăng/Giảm chi phí trả trước,Increase/Decrease in prepaid expenses,Chỉ tiêu lưu chuyển tiền tệ,32,tỷ,BH
+126,CFA14,Chi phí lãi vay đã trả,Interest paid,Chỉ tiêu lưu chuyển tiền tệ,33,tỷ,BH
+127,CFA15,Tiền thu nhập doanh nghiệp đã trả,Business Income Tax paid,Chỉ tiêu lưu chuyển tiền tệ,34,tỷ,BH
+128,CFA16,Tiền thu khác từ các hoạt động kinh doanh,Other receipts from operating activities,Chỉ tiêu lưu chuyển tiền tệ,35,tỷ,BH
+129,CFA17,Tiền chi khác từ các hoạt động kinh doanh,Other payments on operating activities,Chỉ tiêu lưu chuyển tiền tệ,36,tỷ,BH
+130,CFA18,Lưu chuyển tiền tệ ròng từ các hoạt động SXKD,Net cash inflows/outflows from operating activities,Chỉ tiêu lưu chuyển tiền tệ,37,tỷ,BH
+131,CFA19,Tiền mua tài sản cố định và các tài sản dài hạn khác,Purchase of fixed assets and other long-term assets,Chỉ tiêu lưu chuyển tiền tệ,38,tỷ,BH
+132,CFA20,Tiền thu được từ thanh lý tài sản cố định,Proceeds from disposal of fixed assets,Chỉ tiêu lưu chuyển tiền tệ,39,tỷ,BH
+133,CFA21,Tiền cho vay hoặc mua công cụ nợ,"Loans granted, purchases of debt instruments",Chỉ tiêu lưu chuyển tiền tệ,40,tỷ,BH
+134,CFA22,Tiền thu từ cho vay hoặc thu từ phát hành công cụ nợ,"Collection of loans, proceeds from sales of debts instruments",Chỉ tiêu lưu chuyển tiền tệ,41,tỷ,BH
+135,CFA23,Đầu tư vào các doanh nghiệp khác,Investment in other entities,Chỉ tiêu lưu chuyển tiền tệ,42,tỷ,BH
+136,CFA24,Tiền thu từ việc bán các khoản đầu tư vào doanh nghiệp khác,Proceeds from divestment in other entities,Chỉ tiêu lưu chuyển tiền tệ,43,tỷ,BH
+137,CFA25,Cổ tức và tiền lãi nhận được,Dividends and interest received,Chỉ tiêu lưu chuyển tiền tệ,44,tỷ,BH
+138,CFA26,Lưu chuyển tiền tệ ròng từ hoạt động đầu tư,Net cash inflows/outflows from investing activities,Chỉ tiêu lưu chuyển tiền tệ,45,tỷ,BH
+139,CFA27,Tiền thu từ phát hành cổ phiếu và vốn góp,Proceeds from shares issue,Chỉ tiêu lưu chuyển tiền tệ,46,tỷ,BH
+140,CFA28,"Chi trả cho việc mua lại, trả cổ phiếu",Payments for share repurchases,Chỉ tiêu lưu chuyển tiền tệ,47,tỷ,BH
+141,CFA29,Tiền thu được các khoản đi vay,Proceeds from borrowings,Chỉ tiêu lưu chuyển tiền tệ,48,tỷ,BH
+142,CFA30,Tiền trả các khoản đi vay,Repayment of borrowings,Chỉ tiêu lưu chuyển tiền tệ,49,tỷ,BH
+143,CFA31,Tiền thanh toán vốn gốc đi thuê tài chính,Finance lease principal payments,Chỉ tiêu lưu chuyển tiền tệ,50,tỷ,BH
+144,CFA32,Cổ tức đã trả,Dividends paid,Chỉ tiêu lưu chuyển tiền tệ,51,tỷ,BH
+145,CFA33,Cố tức đã nhận,Dividends received,Chỉ tiêu lưu chuyển tiền tệ,52,tỷ,BH
+146,CFA34,Lưu chuyển tiền tệ từ hoạt động tài chính,Net cash inflows/outflows from financing activities,Chỉ tiêu lưu chuyển tiền tệ,53,tỷ,BH
+147,CFA35,Lưu chuyển tiền thuần trong kỳ,Net increase/decrease in cash and cash equivalents,Chỉ tiêu lưu chuyển tiền tệ,54,tỷ,BH
+148,CFA36,Tiền và tương đương tiền đầu kỳ,Cash and cash equivalents at the beginning of period,Chỉ tiêu lưu chuyển tiền tệ,55,tỷ,BH
+149,CFA37,Ảnh hưởng của chênh lệch tỷ giá,Foreign exchange differences Adjustment,Chỉ tiêu lưu chuyển tiền tệ,56,tỷ,BH
+150,CFA38,Tiền và tương đương tiền cuối kỳ,Cash and Cash Equivalents at the end of period,Chỉ tiêu lưu chuyển tiền tệ,57,tỷ,BH
+151,CFA1,Lãi/Lỗ ròng trước thuế,Net Profit/Loss before tax,Chỉ tiêu lưu chuyển tiền tệ,19,tỷ,CK
+152,CFA2,Chi phí khấu hao TSCĐ,Depreciation & Amortization,Chỉ tiêu lưu chuyển tiền tệ,20,tỷ,CK
+153,CFA3,Chi phí dự phòng,Provisions,Chỉ tiêu lưu chuyển tiền tệ,21,tỷ,CK
+154,CFA4,Lãi/Lỗ chênh lệch tỷ giá chưa thực hiện,Unrealized foreign exchange gain/loss,Chỉ tiêu lưu chuyển tiền tệ,22,tỷ,CK
+155,CFS191,Lãi/Lỗ từ thanh lý tài sản cố định,Profit/Loss from disposal of fixed assets,Chỉ tiêu lưu chuyển tiền tệ,23,tỷ,CK
+156,CFA6,Lãi/Lỗ từ hoạt động đầu tư,Profit/Loss from investing activities,Chỉ tiêu lưu chuyển tiền tệ,24,tỷ,CK
+157,CFA7,Thu nhập lãi,Interest Expense,Chỉ tiêu lưu chuyển tiền tệ,25,tỷ,CK
+158,CFA8,Thu lãi và cổ tức,Interest income and dividends,Chỉ tiêu lưu chuyển tiền tệ,26,tỷ,CK
+159,CFA9,Lãi/Lỗ trước những thay đổi vốn cố định,Operating Profit/Loss before changes in WC,Chỉ tiêu lưu chuyển tiền tệ,27,tỷ,CK
+160,CFS200,Tăng/Giảm các khoản phải thu,Increase/Decrease in receivables,Chỉ tiêu lưu chuyển tiền tệ,28,tỷ,CK
+161,CFA11,Tăng/Giảm hàng tồn kho,Increase/Decrease in inventories,Chỉ tiêu lưu chuyển tiền tệ,29,tỷ,CK
+162,CFS210,Tăng/Giảm các khoản phải trả,Increase/Decrease in payables,Chỉ tiêu lưu chuyển tiền tệ,30,tỷ,CK
+163,CFA13,Tăng/Giảm chi phí trả trước,Increase/Decrease in prepaid expenses,Chỉ tiêu lưu chuyển tiền tệ,31,tỷ,CK
+164,CFA14,Chi phí lãi vay đã trả,Interest paid,Chỉ tiêu lưu chuyển tiền tệ,32,tỷ,CK
+165,CFA15,Tiền thu nhập doanh nghiệp đã trả,Business Income Tax paid,Chỉ tiêu lưu chuyển tiền tệ,33,tỷ,CK
+166,CFA16,Tiền thu khác từ các hoạt động kinh doanh,Other receipts from operating activities,Chỉ tiêu lưu chuyển tiền tệ,34,tỷ,CK
+167,CFA17,Tiền chi khác từ các hoạt động kinh doanh,Other payments on operating activities,Chỉ tiêu lưu chuyển tiền tệ,35,tỷ,CK
+168,CFA18,Lưu chuyển tiền tệ ròng từ các hoạt động SXKD,Net cash inflows/outflows from operating activities,Chỉ tiêu lưu chuyển tiền tệ,36,tỷ,CK
+169,CFA19,Tiền mua tài sản cố định và các tài sản dài hạn khác,Purchase of fixed assets and other long-term assets,Chỉ tiêu lưu chuyển tiền tệ,37,tỷ,CK
+170,CFA20,Tiền thu được từ thanh lý tài sản cố định,Proceeds from disposal of fixed assets,Chỉ tiêu lưu chuyển tiền tệ,38,tỷ,CK
+171,CFA21,Tiền cho vay hoặc mua công cụ nợ,"Loans granted, purchases of debt instruments",Chỉ tiêu lưu chuyển tiền tệ,39,tỷ,CK
+172,CFA22,Tiền thu từ cho vay hoặc thu từ phát hành công cụ nợ,"Collection of loans, proceeds from sales of debts instruments",Chỉ tiêu lưu chuyển tiền tệ,40,tỷ,CK
+173,CFA23,Đầu tư vào các doanh nghiệp khác,Investment in other entities,Chỉ tiêu lưu chuyển tiền tệ,41,tỷ,CK
+174,CFA24,Tiền thu từ việc bán các khoản đầu tư vào doanh nghiệp khác,Proceeds from divestment in other entities,Chỉ tiêu lưu chuyển tiền tệ,42,tỷ,CK
+175,CFA25,Cổ tức và tiền lãi nhận được,Dividends and interest received,Chỉ tiêu lưu chuyển tiền tệ,43,tỷ,CK
+176,CFA26,Lưu chuyển tiền tệ ròng từ hoạt động đầu tư,Net cash inflows/outflows from investing activities,Chỉ tiêu lưu chuyển tiền tệ,44,tỷ,CK
+177,CFA27,Tiền thu từ phát hành cổ phiếu và vốn góp,Proceeds from shares issue,Chỉ tiêu lưu chuyển tiền tệ,45,tỷ,CK
+178,CFA28,"Chi trả cho việc mua lại, trả cổ phiếu",Payments for share repurchases,Chỉ tiêu lưu chuyển tiền tệ,46,tỷ,CK
+179,CFA29,Tiền thu được các khoản đi vay,Proceeds from borrowings,Chỉ tiêu lưu chuyển tiền tệ,47,tỷ,CK
+180,CFA30,Tiền trả các khoản đi vay,Repayment of borrowings,Chỉ tiêu lưu chuyển tiền tệ,48,tỷ,CK
+181,CFA31,Tiền thanh toán vốn gốc đi thuê tài chính,Finance lease principal payments,Chỉ tiêu lưu chuyển tiền tệ,49,tỷ,CK
+182,CFA32,Cổ tức đã trả,Dividends paid,Chỉ tiêu lưu chuyển tiền tệ,50,tỷ,CK
+183,CFA33,Cố tức đã nhận,Dividends received,Chỉ tiêu lưu chuyển tiền tệ,51,tỷ,CK
+184,CFA34,Lưu chuyển tiền tệ từ hoạt động tài chính,Net cash inflows/outflows from financing activities,Chỉ tiêu lưu chuyển tiền tệ,52,tỷ,CK
+185,CFA35,Lưu chuyển tiền thuần trong kỳ,Net increase/decrease in cash and cash equivalents,Chỉ tiêu lưu chuyển tiền tệ,53,tỷ,CK
+186,CFA36,Tiền và tương đương tiền đầu kỳ,Cash and cash equivalents at the beginning of period,Chỉ tiêu lưu chuyển tiền tệ,54,tỷ,CK
+187,CFA37,Ảnh hưởng của chênh lệch tỷ giá,Foreign exchange differences Adjustment,Chỉ tiêu lưu chuyển tiền tệ,55,tỷ,CK
+188,CFA38,Tiền và tương đương tiền cuối kỳ,Cash and Cash Equivalents at the end of period,Chỉ tiêu lưu chuyển tiền tệ,56,tỷ,CK
+189,CFA1,Lãi/Lỗ ròng trước thuế,Net Profit/Loss before tax,Chỉ tiêu lưu chuyển tiền tệ,15,tỷ,CT
+190,CFA2,Chi phí khấu hao TSCĐ,Depreciation & Amortization,Chỉ tiêu lưu chuyển tiền tệ,16,tỷ,CT
+191,CFA3,Chi phí dự phòng,Provisions,Chỉ tiêu lưu chuyển tiền tệ,17,tỷ,CT
+192,CFA4,Lãi/Lỗ chênh lệch tỷ giá chưa thực hiện,Unrealized foreign exchange gain/loss,Chỉ tiêu lưu chuyển tiền tệ,18,tỷ,CT
+193,CFA5,Lãi/Lỗ từ thanh lý tài sản cố định,Profit/Loss from disposal of fixed assets,Chỉ tiêu lưu chuyển tiền tệ,19,tỷ,CT
+194,CFA6,Lãi/Lỗ từ hoạt động đầu tư,Profit/Loss from investing activities,Chỉ tiêu lưu chuyển tiền tệ,20,tỷ,CT
+195,CFA7,Thu nhập lãi,Interest Expense,Chỉ tiêu lưu chuyển tiền tệ,21,tỷ,CT
+196,CFA8,Thu lãi và cổ tức,Interest income and dividends,Chỉ tiêu lưu chuyển tiền tệ,22,tỷ,CT
+197,CFA9,Lãi/Lỗ trước những thay đổi vốn cố định,Operating Profit/Loss before changes in WC,Chỉ tiêu lưu chuyển tiền tệ,23,tỷ,CT
+198,CFA10,Tăng/Giảm các khoản phải thu,Increase/Decrease in receivables,Chỉ tiêu lưu chuyển tiền tệ,24,tỷ,CT
+199,CFA11,Tăng/Giảm hàng tồn kho,Increase/Decrease in inventories,Chỉ tiêu lưu chuyển tiền tệ,25,tỷ,CT
+200,CFA12,Tăng/Giảm các khoản phải trả,Increase/Decrease in payables,Chỉ tiêu lưu chuyển tiền tệ,26,tỷ,CT
+201,CFA13,Tăng/Giảm chi phí trả trước,Increase/Decrease in prepaid expenses,Chỉ tiêu lưu chuyển tiền tệ,27,tỷ,CT
+202,CFA14,Chi phí lãi vay đã trả,Interest paid,Chỉ tiêu lưu chuyển tiền tệ,28,tỷ,CT
+203,CFA15,Tiền thu nhập doanh nghiệp đã trả,Business Income Tax paid,Chỉ tiêu lưu chuyển tiền tệ,29,tỷ,CT
+204,CFA16,Tiền thu khác từ các hoạt động kinh doanh,Other receipts from operating activities,Chỉ tiêu lưu chuyển tiền tệ,30,tỷ,CT
+205,CFA17,Tiền chi khác từ các hoạt động kinh doanh,Other payments on operating activities,Chỉ tiêu lưu chuyển tiền tệ,31,tỷ,CT
+206,CFA18,Lưu chuyển tiền tệ ròng từ các hoạt động SXKD,Net cash inflows/outflows from operating activities,Chỉ tiêu lưu chuyển tiền tệ,32,tỷ,CT
+207,CFA19,Tiền mua tài sản cố định và các tài sản dài hạn khác,Purchase of fixed assets and other long-term assets,Chỉ tiêu lưu chuyển tiền tệ,33,tỷ,CT
+208,CFA20,Tiền thu được từ thanh lý tài sản cố định,Proceeds from disposal of fixed assets,Chỉ tiêu lưu chuyển tiền tệ,34,tỷ,CT
+209,CFA21,Tiền cho vay hoặc mua công cụ nợ,"Loans granted, purchases of debt instruments",Chỉ tiêu lưu chuyển tiền tệ,35,tỷ,CT
+210,CFA22,Tiền thu từ cho vay hoặc thu từ phát hành công cụ nợ,"Collection of loans, proceeds from sales of debts instruments",Chỉ tiêu lưu chuyển tiền tệ,36,tỷ,CT
+211,CFA23,Đầu tư vào các doanh nghiệp khác,Investment in other entities,Chỉ tiêu lưu chuyển tiền tệ,37,tỷ,CT
+212,CFA24,Tiền thu từ việc bán các khoản đầu tư vào doanh nghiệp khác,Proceeds from divestment in other entities,Chỉ tiêu lưu chuyển tiền tệ,38,tỷ,CT
+213,CFA25,Cổ tức và tiền lãi nhận được,Dividends and interest received,Chỉ tiêu lưu chuyển tiền tệ,39,tỷ,CT
+214,CFA26,Lưu chuyển tiền tệ ròng từ hoạt động đầu tư,Net cash inflows/outflows from investing activities,Chỉ tiêu lưu chuyển tiền tệ,40,tỷ,CT
+215,CFA27,Tiền thu từ phát hành cổ phiếu và vốn góp,Proceeds from shares issue,Chỉ tiêu lưu chuyển tiền tệ,41,tỷ,CT
+216,CFA28,"Chi trả cho việc mua lại, trả cổ phiếu",Payments for share repurchases,Chỉ tiêu lưu chuyển tiền tệ,42,tỷ,CT
+217,CFA29,Tiền thu được các khoản đi vay,Proceeds from borrowings,Chỉ tiêu lưu chuyển tiền tệ,43,tỷ,CT
+218,CFA30,Tiền trả các khoản đi vay,Repayment of borrowings,Chỉ tiêu lưu chuyển tiền tệ,44,tỷ,CT
+219,CFA31,Tiền thanh toán vốn gốc đi thuê tài chính,Finance lease principal payments,Chỉ tiêu lưu chuyển tiền tệ,45,tỷ,CT
+220,CFA32,Cổ tức đã trả,Dividends paid,Chỉ tiêu lưu chuyển tiền tệ,46,tỷ,CT
+221,CFA33,Cố tức đã nhận,Dividends received,Chỉ tiêu lưu chuyển tiền tệ,47,tỷ,CT
+222,CFA34,Lưu chuyển tiền tệ từ hoạt động tài chính,Net cash inflows/outflows from financing activities,Chỉ tiêu lưu chuyển tiền tệ,48,tỷ,CT
+223,CFA35,Lưu chuyển tiền thuần trong kỳ,Net increase/decrease in cash and cash equivalents,Chỉ tiêu lưu chuyển tiền tệ,49,tỷ,CT
+224,CFA36,Tiền và tương đương tiền đầu kỳ,Cash and cash equivalents at the beginning of period,Chỉ tiêu lưu chuyển tiền tệ,50,tỷ,CT
+225,CFA37,Ảnh hưởng của chênh lệch tỷ giá,Foreign exchange differences Adjustment,Chỉ tiêu lưu chuyển tiền tệ,51,tỷ,CT
+226,CFA38,Tiền và tương đương tiền cuối kỳ,Cash and Cash Equivalents at the end of period,Chỉ tiêu lưu chuyển tiền tệ,52,tỷ,CT
+227,CFA1,Lãi/Lỗ ròng trước thuế,Net Profit/Loss before tax,Chỉ tiêu lưu chuyển tiền tệ,1,tỷ,NH
+228,CFA2,Khấu hao TSCĐ,Depreciation and Amortisation,Chỉ tiêu lưu chuyển tiền tệ,2,tỷ,NH
+229,CFA3,Dự phòng RR tín dụng,Provision for credit losses,Chỉ tiêu lưu chuyển tiền tệ,3,tỷ,NH
+230,CFB80,(Lãi)/lỗ các hoạt động khác,Profits from other activities,Chỉ tiêu lưu chuyển tiền tệ,4,tỷ,NH
+231,CFA9,Lưu chuyển tiền thuần từ HĐKD trước thay đổi VLĐ,Operating profit before changes in working capital,Chỉ tiêu lưu chuyển tiền tệ,5,tỷ,NH
+232,CFB64,Lưu chuyển tiền thuần từ HĐKD trước thuế,Net Cash Flows from Operating Activities before BIT,Chỉ tiêu lưu chuyển tiền tệ,7,tỷ,NH
+233,CFA15,Tiền thu nhập doanh nghiệp đã trả,Business Income Tax paid,Chỉ tiêu lưu chuyển tiền tệ,8,tỷ,NH
+234,CFB65,Chi từ các quỹ của TCTD,Payment from reserves,Chỉ tiêu lưu chuyển tiền tệ,9,tỷ,NH
+235,CFA19,Mua sắm TSCĐ,Purchase of fixed assets,Chỉ tiêu lưu chuyển tiền tệ,11,tỷ,NH
+236,CFA25,Tiền thu cổ tức và lợi nhuận được chia,Gain on Dividend,Chỉ tiêu lưu chuyển tiền tệ,12,tỷ,NH
+237,CFA26,Lưu chuyển từ hoạt động đầu tư,Net Cash Flows from Investing Activities,Chỉ tiêu lưu chuyển tiền tệ,13,tỷ,NH
+238,revenueGrowth,Tăng trưởng doanh thu (%),Revenue YoY (%),Chỉ tiêu kết quả kinh doanh,2,%,CT
+239,CFA27,Tăng vốn cổ phần từ góp vốn và/hoặc phát hành cổ phiếu,Increase in charter captial,Chỉ tiêu lưu chuyển tiền tệ,14,tỷ,NH
+240,CFA34,Lưu chuyển tiền từ hoạt động tài chính,Cash flows from financial activities,Chỉ tiêu lưu chuyển tiền tệ,15,tỷ,NH
+241,CFA35,Lưu chuyển tiền thuần trong kỳ,Net increase/decrease in cash and cash equivalents,Chỉ tiêu lưu chuyển tiền tệ,16,tỷ,NH
+242,CFA36,Tiền và tương đương tiền,Cash and cash equivalents,Chỉ tiêu lưu chuyển tiền tệ,17,tỷ,NH
+243,CFA37,Ảnh hưởng của chênh lệch tỷ giá,Foreign exchange differences Adjustment,Chỉ tiêu lưu chuyển tiền tệ,18,tỷ,NH
+244,pb,P/B,P/B,Chỉ tiêu định giá,17,index,CK
+245,CFA38,Tiền và tương đương tiền cuối kỳ,Cash and Cash Equivalents at the end of period,Chỉ tiêu lưu chuyển tiền tệ,19,tỷ,NH
+246,revenue,Doanh thu (Tỷ đồng),Revenue (Bn. VND),Chỉ tiêu kết quả kinh doanh,1,tỷ,BH
+247,revenueGrowth,Tăng trưởng doanh thu (%),Revenue YoY (%),Chỉ tiêu kết quả kinh doanh,2,%,BH
+248,netProfit,Lợi nhuận sau thuế của Cổ đông công ty mẹ (Tỷ đồng),Attribute to parent company (Bn. VND),Chỉ tiêu kết quả kinh doanh,3,tỷ,BH
+249,netProfitGrowth,Tăng trưởng lợi nhuận (%),Attribute to parent company YoY (%),Chỉ tiêu kết quả kinh doanh,4,%,BH
+250,ebitMargin,EBIT Margin (%),Biên EBIT (%),Chỉ tiêu khả năng sinh lợi,7,%,BH
+251,grossMargin,Biên lợi nhuận gộp (%),Gross Profit Margin (%),Chỉ tiêu khả năng sinh lợi,8,%,BH
+252,netProfitMargin,Biên lợi nhuận ròng (%),Net Profit Margin (%),Chỉ tiêu khả năng sinh lợi,9,%,BH
+253,roe,ROE (%),ROE (%),Chỉ tiêu khả năng sinh lợi,10,%,BH
+254,roic,ROIC (%),ROIC (%),Chỉ tiêu khả năng sinh lợi,11,%,BH
+255,roa,ROA (%),ROA (%),Chỉ tiêu khả năng sinh lợi,12,%,BH
+256,ev,Vốn hóa (Tỷ đồng),Market Capital (Bn. VND),Chỉ tiêu định giá,14,tỷ,BH
+257,issueShare,Số CP lưu hành (Triệu CP),Outstanding Share (Mil. Shares),Chỉ tiêu định giá,15,triệu,BH
+258,pe,P/E,P/E,Chỉ tiêu định giá,16,index,BH
+259,pb,P/B,P/B,Chỉ tiêu định giá,17,index,BH
+260,ps,P/S,P/S,Chỉ tiêu định giá,18,index,BH
+261,pcf,P/Cash Flow,P/Cash Flow,Chỉ tiêu định giá,19,index,BH
+262,eps,EPS (VND),EPS (VND),Chỉ tiêu định giá,20,index,BH
+263,bvps,BVPS (VND),BVPS (VND),Chỉ tiêu định giá,21,index,BH
+264,evPerEbitda,EV/EBITDA,EV/EBITDA,Chỉ tiêu định giá,22,index,BH
+265,currentRatio,Chỉ số thanh toán hiện thời,Current Ratio,Chỉ tiêu thanh khoản,23,index,BH
+266,cashRatio,Chỉ số thanh toán tiền mặt,Cash Ratio,Chỉ tiêu thanh khoản,24,index,BH
+267,quickRatio,Chỉ số thanh toán nhanh,Quick Ratio,Chỉ tiêu thanh khoản,25,index,BH
+268,interestCoverage,Khả năng chi trả lãi vay,Interest Coverage,Chỉ tiêu thanh khoản,26,index,BH
+269,ae,Đòn bẩy tài chính,Financial Leverage,Chỉ tiêu thanh khoản,27,index,BH
+270,at,Vòng quay tài sản,Asset Turnover,Chỉ tiêu hiệu quả hoạt động,29,index,BH
+271,fat,Vòng quay TSCĐ,Fixed Asset Turnover,Chỉ tiêu hiệu quả hoạt động,30,index,BH
+272,acp,Số ngày thu tiền bình quân,Days Sales Outstanding,Chỉ tiêu hiệu quả hoạt động,31,index,BH
+273,dso,Số ngày tồn kho bình quân,Days Inventory Outstanding,Chỉ tiêu hiệu quả hoạt động,32,index,BH
+274,dpo,Số ngày thanh toán bình quân,Days Payable Outstanding,Chỉ tiêu hiệu quả hoạt động,33,index,BH
+275,ccc,Chu kỳ tiền,Cash Cycle,Chỉ tiêu hiệu quả hoạt động,34,index,BH
+276,le,(Vay NH+DH)/VCSH,(ST+LT borrowings)/Equity,Chỉ tiêu cơ cấu nguồn vốn,35,index,BH
+277,de,Nợ / Vốn CSH,Debt/Equity,Chỉ tiêu cơ cấu nguồn vốn,37,index,BH
+278,revenue,Doanh thu (Tỷ đồng),Revenue (Bn. VND),Chỉ tiêu kết quả kinh doanh,1,tỷ,CK
+279,revenueGrowth,Tăng trưởng doanh thu (%),Revenue YoY (%),Chỉ tiêu kết quả kinh doanh,2,%,CK
+280,netProfit,Lợi nhuận sau thuế của Cổ đông công ty mẹ (Tỷ đồng),Attribute to parent company (Bn. VND),Chỉ tiêu kết quả kinh doanh,3,tỷ,CK
+281,netProfitGrowth,Tăng trưởng lợi nhuận (%),Attribute to parent company YoY (%),Chỉ tiêu kết quả kinh doanh,4,%,CK
+282,ebitMargin,EBIT Margin (%),Biên EBIT (%),Chỉ tiêu khả năng sinh lợi,7,%,CK
+283,grossMargin,Biên lợi nhuận gộp (%),Gross Profit Margin (%),Chỉ tiêu khả năng sinh lợi,8,%,CK
+284,netProfitMargin,Biên lợi nhuận ròng (%),Net Profit Margin (%),Chỉ tiêu khả năng sinh lợi,9,%,CK
+285,roe,ROE (%),ROE (%),Chỉ tiêu khả năng sinh lợi,10,%,CK
+286,roic,ROIC (%),ROIC (%),Chỉ tiêu khả năng sinh lợi,11,%,CK
+287,roa,ROA (%),ROA (%),Chỉ tiêu khả năng sinh lợi,12,%,CK
+288,ev,Vốn hóa (Tỷ đồng),Market Capital (Bn. VND),Chỉ tiêu định giá,14,tỷ,CK
+289,issueShare,Số CP lưu hành (Triệu CP),Outstanding Share (Mil. Shares),Chỉ tiêu định giá,15,triệu,CK
+290,pe,P/E,P/E,Chỉ tiêu định giá,16,index,CK
+291,ps,P/S,P/S,Chỉ tiêu định giá,18,index,CK
+292,pcf,P/Cash Flow,P/Cash Flow,Chỉ tiêu định giá,19,index,CK
+293,eps,EPS (VND),EPS (VND),Chỉ tiêu định giá,20,index,CK
+294,bvps,BVPS (VND),BVPS (VND),Chỉ tiêu định giá,21,index,CK
+295,evPerEbitda,EV/EBITDA,EV/EBITDA,Chỉ tiêu định giá,22,index,CK
+296,currentRatio,Chỉ số thanh toán hiện thời,Current Ratio,Chỉ tiêu thanh khoản,23,index,CK
+297,cashRatio,Chỉ số thanh toán tiền mặt,Cash Ratio,Chỉ tiêu thanh khoản,24,index,CK
+298,quickRatio,Chỉ số thanh toán nhanh,Quick Ratio,Chỉ tiêu thanh khoản,25,index,CK
+299,interestCoverage,Khả năng chi trả lãi vay,Interest Coverage,Chỉ tiêu thanh khoản,26,index,CK
+300,ae,Đòn bẩy tài chính,Financial Leverage,Chỉ tiêu thanh khoản,27,index,CK
+301,at,Vòng quay tài sản,Asset Turnover,Chỉ tiêu hiệu quả hoạt động,29,index,CK
+302,fat,Vòng quay TSCĐ,Fixed Asset Turnover,Chỉ tiêu hiệu quả hoạt động,30,index,CK
+303,acp,Số ngày thu tiền bình quân,Days Sales Outstanding,Chỉ tiêu hiệu quả hoạt động,31,index,CK
+304,dso,Số ngày tồn kho bình quân,Days Inventory Outstanding,Chỉ tiêu hiệu quả hoạt động,32,index,CK
+305,dpo,Số ngày thanh toán bình quân,Days Payable Outstanding,Chỉ tiêu hiệu quả hoạt động,33,index,CK
+306,ccc,Chu kỳ tiền,Cash Cycle,Chỉ tiêu hiệu quả hoạt động,34,index,CK
+307,le,(Vay NH+DH)/VCSH,(ST+LT borrowings)/Equity,Chỉ tiêu cơ cấu nguồn vốn,35,index,CK
+308,de,Nợ/VCSH,Debt/Equity,Chỉ tiêu cơ cấu nguồn vốn,37,index,CK
+309,revenue,Doanh thu (Tỷ đồng),Revenue (Bn. VND),Chỉ tiêu kết quả kinh doanh,1,tỷ,CT
+310,revenueGrowth,Tăng trưởng doanh thu (%),Revenue YoY (%),Chỉ tiêu kết quả kinh doanh,2,%,CT
+311,netProfit,Lợi nhuận sau thuế của Cổ đông công ty mẹ (Tỷ đồng),Attribute to parent company (Bn. VND),Chỉ tiêu kết quả kinh doanh,3,tỷ,CT
+312,netProfitGrowth,Tăng trưởng lợi nhuận (%),Attribute to parent company YoY (%),Chỉ tiêu kết quả kinh doanh,4,%,CT
+313,ebitMargin,EBIT Margin (%),Biên EBIT (%),Chỉ tiêu khả năng sinh lợi,7,%,CT
+314,grossMargin,Biên lợi nhuận gộp (%),Gross Profit Margin (%),Chỉ tiêu khả năng sinh lợi,8,%,CT
+315,netProfitMargin,Biên lợi nhuận ròng (%),Net Profit Margin (%),Chỉ tiêu khả năng sinh lợi,9,%,CT
+316,roe,ROE (%),ROE (%),Chỉ tiêu khả năng sinh lợi,10,%,CT
+317,roic,ROIC (%),ROIC (%),Chỉ tiêu khả năng sinh lợi,11,%,CT
+318,roa,ROA (%),ROA (%),Chỉ tiêu khả năng sinh lợi,12,%,CT
+319,ev,Vốn hóa (Tỷ đồng),Market Capital (Bn. VND),Chỉ tiêu định giá,14,tỷ,CT
+320,issueShare,Số CP lưu hành (Triệu CP),Outstanding Share (Mil. Shares),Chỉ tiêu định giá,15,triệu,CT
+321,pe,P/E,P/E,Chỉ tiêu định giá,16,index,CT
+322,pb,P/B,P/B,Chỉ tiêu định giá,17,index,CT
+323,ps,P/S,P/S,Chỉ tiêu định giá,18,index,CT
+324,pcf,P/Cash Flow,P/Cash Flow,Chỉ tiêu định giá,19,index,CT
+325,eps,EPS (VND),EPS (VND),Chỉ tiêu định giá,20,index,CT
+326,bvps,BVPS (VND),BVPS (VND),Chỉ tiêu định giá,21,index,CT
+327,evPerEbitda,EV/EBITDA,EV/EBITDA,Chỉ tiêu định giá,22,index,CT
+328,currentRatio,Chỉ số thanh toán hiện thời,Current Ratio,Chỉ tiêu thanh khoản,23,index,CT
+329,cashRatio,Chỉ số thanh toán tiền mặt,Cash Ratio,Chỉ tiêu thanh khoản,24,index,CT
+330,quickRatio,Chỉ số thanh toán nhanh,Quick Ratio,Chỉ tiêu thanh khoản,25,index,CT
+331,interestCoverage,Khả năng chi trả lãi vay,Interest Coverage,Chỉ tiêu thanh khoản,26,index,CT
+332,ae,Đòn bẩy tài chính,Financial Leverage,Chỉ tiêu thanh khoản,27,index,CT
+333,at,Vòng quay tài sản,Asset Turnover,Chỉ tiêu hiệu quả hoạt động,29,index,CT
+334,fat,Vòng quay TSCĐ,Fixed Asset Turnover,Chỉ tiêu hiệu quả hoạt động,30,index,CT
+335,acp,Số ngày thu tiền bình quân,Days Sales Outstanding,Chỉ tiêu hiệu quả hoạt động,31,index,CT
+336,dso,Số ngày tồn kho bình quân,Days Inventory Outstanding,Chỉ tiêu hiệu quả hoạt động,32,index,CT
+337,dpo,Số ngày thanh toán bình quân,Days Payable Outstanding,Chỉ tiêu hiệu quả hoạt động,33,index,CT
+338,ps,P/S,P/S,Chỉ tiêu định giá,14,index,BH
+339,ccc,Chu kỳ tiền,Cash Cycle,Chỉ tiêu hiệu quả hoạt động,34,index,CT
+340,le,(Vay NH+DH)/VCSH,(ST+LT borrowings)/Equity,Chỉ tiêu cơ cấu nguồn vốn,35,index,CT
+341,de,Nợ/VCSH,Debt/Equity,Chỉ tiêu cơ cấu nguồn vốn,37,index,CT
+342,revenue,Doanh thu (Tỷ đồng),Revenue (Bn. VND),Chỉ tiêu kết quả kinh doanh,1,tỷ,NH
+343,revenueGrowth,Tăng trưởng doanh thu (%),Revenue YoY (%),Chỉ tiêu kết quả kinh doanh,2,%,NH
+344,netProfit,Lợi nhuận sau thuế của Cổ đông công ty mẹ (Tỷ đồng),Attribute to parent company (Bn. VND),Chỉ tiêu kết quả kinh doanh,3,tỷ,NH
+345,netProfitGrowth,Tăng trưởng lợi nhuận (%),Attribute to parent company YoY (%),Chỉ tiêu kết quả kinh doanh,4,%,NH
+346,ebitMargin,EBIT Margin (%),Biên EBIT (%),Chỉ tiêu khả năng sinh lợi,7,%,NH
+347,grossMargin,Biên lợi nhuận gộp (%),Gross Profit Margin (%),Chỉ tiêu khả năng sinh lợi,8,%,NH
+348,netProfitMargin,Biên lợi nhuận ròng (%),Net Profit Margin (%),Chỉ tiêu khả năng sinh lợi,9,%,NH
+349,roe,ROE (%),ROE (%),Chỉ tiêu khả năng sinh lợi,10,%,NH
+350,roic,ROIC (%),ROIC (%),Chỉ tiêu khả năng sinh lợi,11,%,NH
+351,roa,ROA (%),ROA (%),Chỉ tiêu khả năng sinh lợi,12,%,NH
+352,ev,Vốn hóa (Tỷ đồng),Market Capital (Bn. VND),Chỉ tiêu định giá,14,tỷ,NH
+353,issueShare,Số CP lưu hành (Triệu CP),Outstanding Share (Mil. Shares),Chỉ tiêu định giá,15,triệu,NH
+354,pe,P/E,P/E,Chỉ tiêu định giá,16,index,NH
+355,pb,P/B,P/B,Chỉ tiêu định giá,17,index,NH
+356,ps,P/S,P/S,Chỉ tiêu định giá,18,index,NH
+357,pcf,P/Cash Flow,P/Cash Flow,Chỉ tiêu định giá,19,index,NH
+358,eps,EPS (VND),EPS (VND),Chỉ tiêu định giá,20,index,NH
+359,bvps,BVPS (VND),BVPS (VND),Chỉ tiêu định giá,21,index,NH
+360,evPerEbitda,EV/EBITDA,EV/EBITDA,Chỉ tiêu định giá,22,index,NH
+361,currentRatio,Chỉ số thanh toán hiện thời,Current Ratio,Chỉ tiêu thanh khoản,23,index,NH
+362,cashRatio,Chỉ số thanh toán tiền mặt,Cash Ratio,Chỉ tiêu thanh khoản,24,index,NH
+363,quickRatio,Chỉ số thanh toán nhanh,Quick Ratio,Chỉ tiêu thanh khoản,25,index,NH
+364,interestCoverage,Khả năng chi trả lãi vay,Interest Coverage,Chỉ tiêu thanh khoản,26,index,NH
+365,ae,Đòn bẩy tài chính,Financial Leverage,Chỉ tiêu thanh khoản,27,index,NH
+366,at,Vòng quay tài sản,Asset Turnover,Chỉ tiêu hiệu quả hoạt động,29,index,NH
+367,fat,Vòng quay TSCĐ,Fixed Asset Turnover,Chỉ tiêu hiệu quả hoạt động,30,index,NH
+368,acp,Số ngày thu tiền bình quân,Days Sales Outstanding,Chỉ tiêu hiệu quả hoạt động,31,index,NH
+369,dso,Số ngày tồn kho bình quân,Days Inventory Outstanding,Chỉ tiêu hiệu quả hoạt động,32,index,NH
+370,dpo,Số ngày thanh toán bình quân,Days Payable Outstanding,Chỉ tiêu hiệu quả hoạt động,33,index,NH
+371,ccc,Chu kỳ tiền,Cash Cycle,Chỉ tiêu hiệu quả hoạt động,34,index,NH
+372,le,(Vay NH+DH)/VCSH,(ST+LT borrowings)/Equity,Chỉ tiêu cơ cấu nguồn vốn,35,index,NH
+373,de,Nợ/VCSH,Debt/Equity,Chỉ tiêu cơ cấu nguồn vốn,37,index,NH
+374,revenue,Doanh thu (Tỷ đồng),Revenue (Bn. VND),Chỉ tiêu kết quả kinh doanh,1,tỷ,BH
+375,revenueGrowth,Tăng trưởng doanh thu (%),Revenue YoY (%),Chỉ tiêu kết quả kinh doanh,2,%,BH
+376,netProfit,Lợi nhuận sau thuế của Cổ đông công ty mẹ (Tỷ đồng),Attribute to parent company (Bn. VND),Chỉ tiêu kết quả kinh doanh,3,tỷ,BH
+377,netProfitGrowth,Tăng trưởng lợi nhuận (%),Attribute to parent company YoY (%),Chỉ tiêu kết quả kinh doanh,4,%,BH
+378,ebitMargin,Biên EBIT (%),EBIT Margin (%),Chỉ tiêu khả năng sinh lợi,5,%,BH
+379,netProfitMargin,Biên lợi nhuận ròng (%),Net Profit Margin (%),Chỉ tiêu khả năng sinh lợi,6,%,BH
+380,grossMargin,Biên lợi nhuận gộp (%),Gross Profit Margin (%),Chỉ tiêu khả năng sinh lợi,7,%,BH
+381,roe,ROE (%),ROE (%),Chỉ tiêu khả năng sinh lợi,8,%,BH
+382,roic,ROIC (%),ROIC (%),Chỉ tiêu khả năng sinh lợi,9,%,BH
+383,roa,ROA (%),ROA (%),Chỉ tiêu khả năng sinh lợi,10,%,BH
+384,pe,P/E,P/E,Chỉ tiêu định giá,12,index,BH
+385,pb,P/B,P/B,Chỉ tiêu định giá,13,index,BH
+386,pcf,P/Cash Flow,P/Cash Flow,Chỉ tiêu định giá,15,index,BH
+387,eps,EPS (VND),EPS (VND),Chỉ tiêu định giá,16,index,BH
+388,bvps,BVPS (VND),BVPS (VND),Chỉ tiêu định giá,17,index,BH
+389,evPerEbitda,EV/EBITDA,EV/EBITDA,Chỉ tiêu định giá,18,index,BH
+390,issueShare,Số CP lưu hành (Triệu CP),Outstanding Share (Mil. Shares),Chỉ tiêu định giá,19,triệu,BH
+391,ev,Vốn hóa (Tỷ đồng),Market Capital (Bn. VND),Chỉ tiêu định giá,20,tỷ,BH
+392,BSA1,TÀI SẢN NGẮN HẠN (Tỷ đồng),CURRENT ASSETS (Bn. VND),Chỉ tiêu cân đối kế toán,21,tỷ,BH
+393,BSA2,Tiền và tương đương tiền (Tỷ đồng),Cash and cash equivalents (Bn. VND),Chỉ tiêu cân đối kế toán,22,tỷ,BH
+394,BSA5,Giá trị thuần đầu tư ngắn hạn (Tỷ đồng),Short-term investments (Bn. VND),Chỉ tiêu cân đối kế toán,23,tỷ,BH
+395,BSA8,Các khoản phải thu ngắn hạn (Tỷ đồng),Accounts receivable (Bn. VND),Chỉ tiêu cân đối kế toán,24,tỷ,BH
+396,BSA10,Trả trước cho người bán ngắn hạn (Tỷ đồng),Prepayments to suppliers (Bn. VND),Chỉ tiêu cân đối kế toán,25,tỷ,BH
+397,BSA159,Phải thu về cho vay ngắn hạn (Tỷ đồng),Short-term loans receivables (Bn. VND),Chỉ tiêu cân đối kế toán,26,tỷ,BH
+398,BSA16,"Hàng tồn kho, ròng (Tỷ đồng)","Inventories, Net (Bn. VND)",Chỉ tiêu cân đối kế toán,27,tỷ,BH
+399,BSA22,Tài sản lưu động khác (Tỷ đồng),Other current assets (Bn. VND),Chỉ tiêu cân đối kế toán,28,tỷ,BH
+400,BSA23,TÀI SẢN DÀI HẠN (Tỷ đồng),LONG-TERM ASSETS (Bn. VND),Chỉ tiêu cân đối kế toán,29,tỷ,BH
+401,le,(Vay NH+DH)/VCSH,(ST+LT borrowings)/Equity,Chỉ tiêu cơ cấu nguồn vốn,30,index,BH
+402,de,Nợ/VCSH,Debt/Equity,Chỉ tiêu cơ cấu nguồn vốn,31,index,BH
+403,ccc,Chu kỳ tiền,Cash Cycle,Chỉ tiêu hiệu quả hoạt động,32,index,BH
+404,dpo,Số ngày thanh toán bình quân,Days Payable Outstanding,Chỉ tiêu hiệu quả hoạt động,33,index,BH
+405,dso,Số ngày tồn kho bình quân,Days Inventory Outstanding,Chỉ tiêu hiệu quả hoạt động,34,index,BH
+406,acp,Số ngày thu tiền bình quân,Days Sales Outstanding,Chỉ tiêu hiệu quả hoạt động,35,index,BH
+407,fat,Vòng quay TSCĐ,Fixed Asset Turnover,Chỉ tiêu hiệu quả hoạt động,36,index,BH
+408,at,Vòng quay tài sản,Asset Turnover,Chỉ tiêu hiệu quả hoạt động,37,index,BH
+409,ae,Đòn bẩy tài chính,Financial Leverage,Chỉ tiêu thanh khoản,38,index,BH
+410,interestCoverage,Khả năng chi trả lãi vay,Interest Coverage,Chỉ tiêu thanh khoản,39,index,BH
+411,quickRatio,Chỉ số thanh toán nhanh,Quick Ratio,Chỉ tiêu thanh khoản,40,index,BH
+412,cashRatio,Chỉ số thanh toán tiền mặt,Cash Ratio,Chỉ tiêu thanh khoản,41,index,BH
+413,currentRatio,Chỉ số thanh toán hiện thời,Current Ratio,Chỉ tiêu thanh khoản,42,index,BH
+414,CFA22,"Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác (Tỷ đồng)","Collection of loans, proceeds from sales of debts instruments (Bn. VND)",Chỉ tiêu lưu chuyển tiền tệ,43,tỷ,BH
+415,CFA21,"Tiền chi cho vay, mua công cụ nợ của đơn vị khác (Tỷ đồng)","Loans granted, purchases of debt instruments (Bn. VND)",Chỉ tiêu lưu chuyển tiền tệ,44,tỷ,BH
+416,BSA96,TỔNG CỘNG NGUỒN VỐN (Tỷ đồng),TOTAL RESOURCES (Bn. VND),Chỉ tiêu cân đối kế toán,45,tỷ,BH
+417,BSA90,Lãi chưa phân phối (Tỷ đồng),Undistributed earnings (Bn. VND),Chỉ tiêu cân đối kế toán,46,tỷ,BH
+418,BSA86,Quỹ đầu tư và phát triển (Tỷ đồng),Investment and development funds (Bn. VND),Chỉ tiêu cân đối kế toán,47,tỷ,BH
+419,BSA175,Cổ phiếu phổ thông (Tỷ đồng),Common shares (Bn. VND),Chỉ tiêu cân đối kế toán,48,tỷ,BH
+420,BSA80,Vốn góp của chủ sở hữu (Tỷ đồng),Paid-in capital (Bn. VND),Chỉ tiêu cân đối kế toán,49,tỷ,BH
+421,BSA79,Vốn và các quỹ (Tỷ đồng),Capital and reserves (Bn. VND),Chỉ tiêu cân đối kế toán,50,tỷ,BH
+422,BSA78,VỐN CHỦ SỞ HỮU (Tỷ đồng),OWNER'S EQUITY(Bn.VND),Chỉ tiêu cân đối kế toán,51,tỷ,BH
+423,BSA173,Trái phiếu chuyển đổi (Tỷ đồng),Convertible bonds (Bn. VND),Chỉ tiêu cân đối kế toán,52,tỷ,BH
+424,ISA6,Thu nhập tài chính,Financial Income,Chỉ tiêu kết quả kinh doanh,6,tỷ,CT
+425,BSA71,Vay và nợ thuê tài chính dài hạn (Tỷ đồng),Long-term borrowings (Bn. VND),Chỉ tiêu cân đối kế toán,53,tỷ,BH
+426,BSA67,Nợ dài hạn (Tỷ đồng),Long-term liabilities (Bn. VND),Chỉ tiêu cân đối kế toán,54,tỷ,BH
+427,BSA58,Người mua trả tiền trước ngắn hạn (Tỷ đồng),Advances from customers (Bn. VND),Chỉ tiêu cân đối kế toán,55,tỷ,BH
+428,BSA56,Vay và nợ thuê tài chính ngắn hạn (Tỷ đồng),Short-term borrowings (Bn. VND),Chỉ tiêu cân đối kế toán,56,tỷ,BH
+429,BSA55,Nợ ngắn hạn (Tỷ đồng),Current liabilities (Bn. VND),Chỉ tiêu cân đối kế toán,57,tỷ,BH
+430,BSA54,NỢ PHẢI TRẢ (Tỷ đồng),LIABILITIES (Bn. VND),Chỉ tiêu cân đối kế toán,58,tỷ,BH
+431,BSA53,TỔNG CỘNG TÀI SẢN (Tỷ đồng),TOTAL ASSETS (Bn. VND),Chỉ tiêu cân đối kế toán,59,tỷ,BH
+432,BSA209,Lợi thế thương mại (Tỷ đồng),Good will (Bn. VND),Chỉ tiêu cân đối kế toán,60,tỷ,BH
+433,BSA50,Trả trước dài hạn (Tỷ đồng),Long-term prepayments (Bn. VND),Chỉ tiêu cân đối kế toán,61,tỷ,BH
+434,BSA46,Tài sản dài hạn khác (Tỷ đồng),Other long-term assets (Bn. VND),Chỉ tiêu cân đối kế toán,62,tỷ,BH
+435,BSA43,Đầu tư dài hạn (Tỷ đồng),Long-term investments (Bn. VND),Chỉ tiêu cân đối kế toán,63,tỷ,BH
+436,BSA29,Tài sản cố định (Tỷ đồng),Fixed assets (Bn. VND),Chỉ tiêu cân đối kế toán,64,tỷ,BH
+437,BSA27,Phải thu dài hạn khác (Tỷ đồng),Other long-term receivables (Bn. VND),Chỉ tiêu cân đối kế toán,65,tỷ,BH
+438,BSA162,Phải thu về cho vay dài hạn (Tỷ đồng),Long-term loans receivables (Bn. VND),Chỉ tiêu cân đối kế toán,66,tỷ,BH
+439,BSA24,Phải thu dài hạn (Tỷ đồng),Long-term trade receivables (Bn. VND),Chỉ tiêu cân đối kế toán,67,tỷ,BH
+440,revenue,Doanh thu (Tỷ đồng),Revenue (Bn. VND),Chỉ tiêu kết quả kinh doanh,1,tỷ,CK
+441,revenueGrowth,Tăng trưởng doanh thu (%),Revenue YoY (%),Chỉ tiêu kết quả kinh doanh,2,%,CK
+442,netProfit,Lợi nhuận sau thuế của Cổ đông công ty mẹ (Tỷ đồng),Attribute to parent company (Bn. VND),Chỉ tiêu kết quả kinh doanh,3,tỷ,CK
+443,netProfitGrowth,Tăng trưởng lợi nhuận (%),Attribute to parent company YoY (%),Chỉ tiêu kết quả kinh doanh,4,%,CK
+444,ebitMargin,Biên EBIT (%),EBIT Margin (%),Chỉ tiêu khả năng sinh lợi,5,%,CK
+445,netProfitMargin,Biên lợi nhuận ròng (%),Net Profit Margin (%),Chỉ tiêu khả năng sinh lợi,6,%,CK
+446,grossMargin,Biên lợi nhuận gộp (%),Gross Profit Margin (%),Chỉ tiêu khả năng sinh lợi,7,%,CK
+447,roe,ROE (%),ROE (%),Chỉ tiêu khả năng sinh lợi,8,%,CK
+448,roic,ROIC (%),ROIC (%),Chỉ tiêu khả năng sinh lợi,9,%,CK
+449,roa,ROA (%),ROA (%),Chỉ tiêu khả năng sinh lợi,10,%,CK
+450,pe,P/E,P/E,Chỉ tiêu định giá,12,index,CK
+451,pb,P/B,P/B,Chỉ tiêu định giá,13,index,CK
+452,ps,P/S,P/S,Chỉ tiêu định giá,14,index,CK
+453,pcf,P/Cash Flow,P/Cash Flow,Chỉ tiêu định giá,15,index,CK
+454,eps,EPS (VND),EPS (VND),Chỉ tiêu định giá,16,index,CK
+455,bvps,BVPS (VND),BVPS (VND),Chỉ tiêu định giá,17,index,CK
+456,evPerEbitda,EV/EBITDA,EV/EBITDA,Chỉ tiêu định giá,18,index,CK
+457,issueShare,Số CP lưu hành (Triệu CP),Outstanding Share (Mil. Shares),Chỉ tiêu định giá,19,triệu,CK
+458,ev,Vốn hóa (Tỷ đồng),Market Capital (Bn. VND),Chỉ tiêu định giá,20,tỷ,CK
+459,BSA1,TÀI SẢN NGẮN HẠN (Tỷ đồng),CURRENT ASSETS (Bn. VND),Chỉ tiêu cân đối kế toán,21,tỷ,CK
+460,BSA2,Tiền và tương đương tiền (Tỷ đồng),Cash and cash equivalents (Bn. VND),Chỉ tiêu cân đối kế toán,22,tỷ,CK
+461,BSA5,Giá trị thuần đầu tư ngắn hạn (Tỷ đồng),Short-term investments (Bn. VND),Chỉ tiêu cân đối kế toán,23,tỷ,CK
+462,BSA8,Các khoản phải thu ngắn hạn (Tỷ đồng),Accounts receivable (Bn. VND),Chỉ tiêu cân đối kế toán,24,tỷ,CK
+463,BSA10,Trả trước cho người bán ngắn hạn (Tỷ đồng),Prepayments to suppliers (Bn. VND),Chỉ tiêu cân đối kế toán,25,tỷ,CK
+464,BSA159,Phải thu về cho vay ngắn hạn (Tỷ đồng),Short-term loans receivables (Bn. VND),Chỉ tiêu cân đối kế toán,26,tỷ,CK
+465,BSA16,"Hàng tồn kho, ròng (Tỷ đồng)","Inventories, Net (Bn. VND)",Chỉ tiêu cân đối kế toán,27,tỷ,CK
+466,BSA22,Tài sản lưu động khác (Tỷ đồng),Other current assets (Bn. VND),Chỉ tiêu cân đối kế toán,28,tỷ,CK
+467,BSA23,TÀI SẢN DÀI HẠN (Tỷ đồng),LONG-TERM ASSETS (Bn. VND),Chỉ tiêu cân đối kế toán,29,tỷ,CK
+468,le,(Vay NH+DH)/VCSH,(ST+LT borrowings)/Equity,Chỉ tiêu cơ cấu nguồn vốn,30,index,CK
+469,de,Nợ/VCSH,Debt/Equity,Chỉ tiêu cơ cấu nguồn vốn,31,index,CK
+470,ccc,Chu kỳ tiền,Cash Cycle,Chỉ tiêu hiệu quả hoạt động,32,index,CK
+471,dpo,Số ngày thanh toán bình quân,Days Payable Outstanding,Chỉ tiêu hiệu quả hoạt động,33,index,CK
+472,dso,Số ngày tồn kho bình quân,Days Inventory Outstanding,Chỉ tiêu hiệu quả hoạt động,34,index,CK
+473,acp,Số ngày thu tiền bình quân,Days Sales Outstanding,Chỉ tiêu hiệu quả hoạt động,35,index,CK
+474,fat,Vòng quay TSCĐ,Fixed Asset Turnover,Chỉ tiêu hiệu quả hoạt động,36,index,CK
+475,at,Vòng quay tài sản,Asset Turnover,Chỉ tiêu hiệu quả hoạt động,37,index,CK
+476,ae,Đòn bẩy tài chính,Financial Leverage,Chỉ tiêu thanh khoản,38,index,CK
+477,interestCoverage,Khả năng chi trả lãi vay,Interest Coverage,Chỉ tiêu thanh khoản,39,index,CK
+478,quickRatio,Chỉ số thanh toán nhanh,Quick Ratio,Chỉ tiêu thanh khoản,40,index,CK
+479,cashRatio,Chỉ số thanh toán tiền mặt,Cash Ratio,Chỉ tiêu thanh khoản,41,index,CK
+480,currentRatio,Chỉ số thanh toán hiện thời,Current Ratio,Chỉ tiêu thanh khoản,42,index,CK
+481,CFA22,"Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác (Tỷ đồng)","Collection of loans, proceeds from sales of debts instruments (Bn. VND)",Chỉ tiêu lưu chuyển tiền tệ,43,tỷ,CK
+482,CFA21,"Tiền chi cho vay, mua công cụ nợ của đơn vị khác (Tỷ đồng)","Loans granted, purchases of debt instruments (Bn. VND)",Chỉ tiêu lưu chuyển tiền tệ,44,tỷ,CK
+483,BSA96,TỔNG CỘNG NGUỒN VỐN (Tỷ đồng),TOTAL RESOURCES (Bn. VND),Chỉ tiêu cân đối kế toán,45,tỷ,CK
+484,BSA90,Lãi chưa phân phối (Tỷ đồng),Undistributed earnings (Bn. VND),Chỉ tiêu cân đối kế toán,46,tỷ,CK
+485,BSA86,Quỹ đầu tư và phát triển (Tỷ đồng),Investment and development funds (Bn. VND),Chỉ tiêu cân đối kế toán,47,tỷ,CK
+486,BSA175,Cổ phiếu phổ thông (Tỷ đồng),Common shares (Bn. VND),Chỉ tiêu cân đối kế toán,48,tỷ,CK
+487,BSA80,Vốn góp của chủ sở hữu (Tỷ đồng),Paid-in capital (Bn. VND),Chỉ tiêu cân đối kế toán,49,tỷ,CK
+488,BSA79,Vốn và các quỹ (Tỷ đồng),Capital and reserves (Bn. VND),Chỉ tiêu cân đối kế toán,50,tỷ,CK
+489,BSA78,VỐN CHỦ SỞ HỮU (Tỷ đồng),OWNER'S EQUITY(Bn.VND),Chỉ tiêu cân đối kế toán,51,tỷ,CK
+490,BSA173,Trái phiếu chuyển đổi (Tỷ đồng),Convertible bonds (Bn. VND),Chỉ tiêu cân đối kế toán,52,tỷ,CK
+491,BSA71,Vay và nợ thuê tài chính dài hạn (Tỷ đồng),Long-term borrowings (Bn. VND),Chỉ tiêu cân đối kế toán,53,tỷ,CK
+492,BSA67,Nợ dài hạn (Tỷ đồng),Long-term liabilities (Bn. VND),Chỉ tiêu cân đối kế toán,54,tỷ,CK
+493,BSA58,Người mua trả tiền trước ngắn hạn (Tỷ đồng),Advances from customers (Bn. VND),Chỉ tiêu cân đối kế toán,55,tỷ,CK
+494,BSA56,Vay và nợ thuê tài chính ngắn hạn (Tỷ đồng),Short-term borrowings (Bn. VND),Chỉ tiêu cân đối kế toán,56,tỷ,CK
+495,BSA55,Nợ ngắn hạn (Tỷ đồng),Current liabilities (Bn. VND),Chỉ tiêu cân đối kế toán,57,tỷ,CK
+496,BSA54,NỢ PHẢI TRẢ (Tỷ đồng),LIABILITIES (Bn. VND),Chỉ tiêu cân đối kế toán,58,tỷ,CK
+497,BSA53,TỔNG CỘNG TÀI SẢN (Tỷ đồng),TOTAL ASSETS (Bn. VND),Chỉ tiêu cân đối kế toán,59,tỷ,CK
+498,BSA209,Lợi thế thương mại (Tỷ đồng),Good will (Bn. VND),Chỉ tiêu cân đối kế toán,60,tỷ,CK
+499,BSA50,Trả trước dài hạn (Tỷ đồng),Long-term prepayments (Bn. VND),Chỉ tiêu cân đối kế toán,61,tỷ,CK
+500,BSA46,Tài sản dài hạn khác (Tỷ đồng),Other long-term assets (Bn. VND),Chỉ tiêu cân đối kế toán,62,tỷ,CK
+501,BSA43,Đầu tư dài hạn (Tỷ đồng),Long-term investments (Bn. VND),Chỉ tiêu cân đối kế toán,63,tỷ,CK
+502,BSA29,Tài sản cố định (Tỷ đồng),Fixed assets (Bn. VND),Chỉ tiêu cân đối kế toán,64,tỷ,CK
+503,BSA27,Phải thu dài hạn khác (Tỷ đồng),Other long-term receivables (Bn. VND),Chỉ tiêu cân đối kế toán,65,tỷ,CK
+504,BSA162,Phải thu về cho vay dài hạn (Tỷ đồng),Long-term loans receivables (Bn. VND),Chỉ tiêu cân đối kế toán,66,tỷ,CK
+505,BSA24,Phải thu dài hạn (Tỷ đồng),Long-term trade receivables (Bn. VND),Chỉ tiêu cân đối kế toán,67,tỷ,CK
+506,revenue,Doanh thu (Tỷ đồng),Revenue (Bn. VND),Chỉ tiêu kết quả kinh doanh,1,tỷ,CT
+507,netProfit,Lợi nhuận sau thuế của Cổ đông công ty mẹ (Tỷ đồng),Attribute to parent company (Bn. VND),Chỉ tiêu kết quả kinh doanh,3,tỷ,CT
+508,netProfitGrowth,Tăng trưởng lợi nhuận (%),Attribute to parent company YoY (%),Chỉ tiêu kết quả kinh doanh,4,%,CT
+509,ebitMargin,Biên EBIT (%),EBIT Margin (%),Chỉ tiêu khả năng sinh lợi,5,%,CT
+510,netProfitMargin,Biên lợi nhuận ròng (%),Net Profit Margin (%),Chỉ tiêu khả năng sinh lợi,6,%,CT
+511,grossMargin,Biên lợi nhuận gộp (%),Gross Profit Margin (%),Chỉ tiêu khả năng sinh lợi,7,%,CT
+512,roe,ROE (%),ROE (%),Chỉ tiêu khả năng sinh lợi,8,%,CT
+513,roic,ROIC (%),ROIC (%),Chỉ tiêu khả năng sinh lợi,9,%,CT
+514,roa,ROA (%),ROA (%),Chỉ tiêu khả năng sinh lợi,10,%,CT
+515,pe,P/E,P/E,Chỉ tiêu định giá,12,index,CT
+516,pb,P/B,P/B,Chỉ tiêu định giá,13,index,CT
+517,ps,P/S,P/S,Chỉ tiêu định giá,14,index,CT
+518,pcf,P/Cash Flow,P/Cash Flow,Chỉ tiêu định giá,15,index,CT
+519,eps,EPS (VND),EPS (VND),Chỉ tiêu định giá,16,index,CT
+520,bvps,BVPS (VND),BVPS (VND),Chỉ tiêu định giá,17,index,CT
+521,evPerEbitda,EV/EBITDA,EV/EBITDA,Chỉ tiêu định giá,18,index,CT
+522,issueShare,Số CP lưu hành (Triệu CP),Outstanding Share (Mil. Shares),Chỉ tiêu định giá,19,triệu,CT
+523,ev,Vốn hóa (Tỷ đồng),Market Capital (Bn. VND),Chỉ tiêu định giá,20,tỷ,CT
+524,BSA1,TÀI SẢN NGẮN HẠN (Tỷ đồng),CURRENT ASSETS (Bn. VND),Chỉ tiêu cân đối kế toán,21,tỷ,CT
+525,BSA2,Tiền và tương đương tiền (Tỷ đồng),Cash and cash equivalents (Bn. VND),Chỉ tiêu cân đối kế toán,22,tỷ,CT
+526,BSA5,Giá trị thuần đầu tư ngắn hạn (Tỷ đồng),Short-term investments (Bn. VND),Chỉ tiêu cân đối kế toán,23,tỷ,CT
+527,BSA8,Các khoản phải thu ngắn hạn (Tỷ đồng),Accounts receivable (Bn. VND),Chỉ tiêu cân đối kế toán,24,tỷ,CT
+528,BSA10,Trả trước cho người bán ngắn hạn (Tỷ đồng),Prepayments to suppliers (Bn. VND),Chỉ tiêu cân đối kế toán,25,tỷ,CT
+529,BSA159,Phải thu về cho vay ngắn hạn (Tỷ đồng),Short-term loans receivables (Bn. VND),Chỉ tiêu cân đối kế toán,26,tỷ,CT
+530,BSA16,"Hàng tồn kho, ròng (Tỷ đồng)","Inventories, Net (Bn. VND)",Chỉ tiêu cân đối kế toán,27,tỷ,CT
+531,BSA22,Tài sản lưu động khác (Tỷ đồng),Other current assets (Bn. VND),Chỉ tiêu cân đối kế toán,28,tỷ,CT
+532,BSA23,TÀI SẢN DÀI HẠN (Tỷ đồng),LONG-TERM ASSETS (Bn. VND),Chỉ tiêu cân đối kế toán,29,tỷ,CT
+533,le,(Vay NH+DH)/VCSH,(ST+LT borrowings)/Equity,Chỉ tiêu cơ cấu nguồn vốn,30,index,CT
+534,de,Nợ/VCSH,Debt/Equity,Chỉ tiêu cơ cấu nguồn vốn,31,index,CT
+535,ccc,Chu kỳ tiền,Cash Cycle,Chỉ tiêu hiệu quả hoạt động,32,index,CT
+536,dpo,Số ngày thanh toán bình quân,Days Payable Outstanding,Chỉ tiêu hiệu quả hoạt động,33,index,CT
+537,dso,Số ngày tồn kho bình quân,Days Inventory Outstanding,Chỉ tiêu hiệu quả hoạt động,34,index,CT
+538,acp,Số ngày thu tiền bình quân,Days Sales Outstanding,Chỉ tiêu hiệu quả hoạt động,35,index,CT
+539,fat,Vòng quay TSCĐ,Fixed Asset Turnover,Chỉ tiêu hiệu quả hoạt động,36,index,CT
+540,at,Vòng quay tài sản,Asset Turnover,Chỉ tiêu hiệu quả hoạt động,37,index,CT
+541,ae,Đòn bẩy tài chính,Financial Leverage,Chỉ tiêu thanh khoản,38,index,CT
+542,interestCoverage,Khả năng chi trả lãi vay,Interest Coverage,Chỉ tiêu thanh khoản,39,index,CT
+543,quickRatio,Chỉ số thanh toán nhanh,Quick Ratio,Chỉ tiêu thanh khoản,40,index,CT
+544,cashRatio,Chỉ số thanh toán tiền mặt,Cash Ratio,Chỉ tiêu thanh khoản,41,index,CT
+545,currentRatio,Chỉ số thanh toán hiện thời,Current Ratio,Chỉ tiêu thanh khoản,42,index,CT
+546,CFA22,"Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác (Tỷ đồng)","Collection of loans, proceeds from sales of debts instruments (Bn. VND)",Chỉ tiêu lưu chuyển tiền tệ,43,tỷ,CT
+547,CFA21,"Tiền chi cho vay, mua công cụ nợ của đơn vị khác (Tỷ đồng)","Loans granted, purchases of debt instruments (Bn. VND)",Chỉ tiêu lưu chuyển tiền tệ,44,tỷ,CT
+548,BSA96,TỔNG CỘNG NGUỒN VỐN (Tỷ đồng),TOTAL RESOURCES (Bn. VND),Chỉ tiêu cân đối kế toán,45,tỷ,CT
+549,BSA90,Lãi chưa phân phối (Tỷ đồng),Undistributed earnings (Bn. VND),Chỉ tiêu cân đối kế toán,46,tỷ,CT
+550,BSA86,Quỹ đầu tư và phát triển (Tỷ đồng),Investment and development funds (Bn. VND),Chỉ tiêu cân đối kế toán,47,tỷ,CT
+551,BSA175,Cổ phiếu phổ thông (Tỷ đồng),Common shares (Bn. VND),Chỉ tiêu cân đối kế toán,48,tỷ,CT
+552,BSA80,Vốn góp của chủ sở hữu (Tỷ đồng),Paid-in capital (Bn. VND),Chỉ tiêu cân đối kế toán,49,tỷ,CT
+553,BSA79,Vốn và các quỹ (Tỷ đồng),Capital and reserves (Bn. VND),Chỉ tiêu cân đối kế toán,50,tỷ,CT
+554,BSA78,VỐN CHỦ SỞ HỮU (Tỷ đồng),OWNER'S EQUITY(Bn.VND),Chỉ tiêu cân đối kế toán,51,tỷ,CT
+555,BSA173,Trái phiếu chuyển đổi (Tỷ đồng),Convertible bonds (Bn. VND),Chỉ tiêu cân đối kế toán,52,tỷ,CT
+556,BSA71,Vay và nợ thuê tài chính dài hạn (Tỷ đồng),Long-term borrowings (Bn. VND),Chỉ tiêu cân đối kế toán,53,tỷ,CT
+557,BSA67,Nợ dài hạn (Tỷ đồng),Long-term liabilities (Bn. VND),Chỉ tiêu cân đối kế toán,54,tỷ,CT
+558,BSA58,Người mua trả tiền trước ngắn hạn (Tỷ đồng),Advances from customers (Bn. VND),Chỉ tiêu cân đối kế toán,55,tỷ,CT
+559,BSA56,Vay và nợ thuê tài chính ngắn hạn (Tỷ đồng),Short-term borrowings (Bn. VND),Chỉ tiêu cân đối kế toán,56,tỷ,CT
+560,BSA55,Nợ ngắn hạn (Tỷ đồng),Current liabilities (Bn. VND),Chỉ tiêu cân đối kế toán,57,tỷ,CT
+561,BSA54,NỢ PHẢI TRẢ (Tỷ đồng),LIABILITIES (Bn. VND),Chỉ tiêu cân đối kế toán,58,tỷ,CT
+562,BSA53,TỔNG CỘNG TÀI SẢN (Tỷ đồng),TOTAL ASSETS (Bn. VND),Chỉ tiêu cân đối kế toán,59,tỷ,CT
+563,BSA209,Lợi thế thương mại (Tỷ đồng),Good will (Bn. VND),Chỉ tiêu cân đối kế toán,60,tỷ,CT
+564,BSA50,Trả trước dài hạn (Tỷ đồng),Long-term prepayments (Bn. VND),Chỉ tiêu cân đối kế toán,61,tỷ,CT
+565,BSA46,Tài sản dài hạn khác (Tỷ đồng),Other long-term assets (Bn. VND),Chỉ tiêu cân đối kế toán,62,tỷ,CT
+566,BSA43,Đầu tư dài hạn (Tỷ đồng),Long-term investments (Bn. VND),Chỉ tiêu cân đối kế toán,63,tỷ,CT
+567,BSA29,Tài sản cố định (Tỷ đồng),Fixed assets (Bn. VND),Chỉ tiêu cân đối kế toán,64,tỷ,CT
+568,BSA27,Phải thu dài hạn khác (Tỷ đồng),Other long-term receivables (Bn. VND),Chỉ tiêu cân đối kế toán,65,tỷ,CT
+569,BSA162,Phải thu về cho vay dài hạn (Tỷ đồng),Long-term loans receivables (Bn. VND),Chỉ tiêu cân đối kế toán,66,tỷ,CT
+570,BSA24,Phải thu dài hạn (Tỷ đồng),Long-term trade receivables (Bn. VND),Chỉ tiêu cân đối kế toán,67,tỷ,CT
+571,revenue,Doanh thu (Tỷ đồng),Revenue (Bn. VND),Chỉ tiêu kết quả kinh doanh,1,tỷ,NH
+572,revenueGrowth,Tăng trưởng doanh thu (%),Revenue YoY (%),Chỉ tiêu kết quả kinh doanh,2,%,NH
+573,netProfit,Lợi nhuận sau thuế của Cổ đông công ty mẹ (Tỷ đồng),Attribute to parent company (Bn. VND),Chỉ tiêu kết quả kinh doanh,3,tỷ,NH
+574,netProfitGrowth,Tăng trưởng lợi nhuận (%),Attribute to parent company YoY (%),Chỉ tiêu kết quả kinh doanh,4,%,NH
+575,ebitMargin,Biên EBIT (%),EBIT Margin (%),Chỉ tiêu khả năng sinh lợi,5,%,NH
+576,netProfitMargin,Biên lợi nhuận ròng (%),Net Profit Margin (%),Chỉ tiêu khả năng sinh lợi,6,%,NH
+577,grossMargin,Biên lợi nhuận gộp (%),Gross Profit Margin (%),Chỉ tiêu khả năng sinh lợi,7,%,NH
+578,roe,ROE (%),ROE (%),Chỉ tiêu khả năng sinh lợi,8,%,NH
+579,roic,ROIC (%),ROIC (%),Chỉ tiêu khả năng sinh lợi,9,%,NH
+580,roa,ROA (%),ROA (%),Chỉ tiêu khả năng sinh lợi,10,%,NH
+581,pe,P/E,P/E,Chỉ tiêu định giá,12,index,NH
+582,pb,P/B,P/B,Chỉ tiêu định giá,13,index,NH
+583,ps,P/S,P/S,Chỉ tiêu định giá,14,index,NH
+584,pcf,P/Cash Flow,P/Cash Flow,Chỉ tiêu định giá,15,index,NH
+585,eps,EPS (VND),EPS (VND),Chỉ tiêu định giá,16,index,NH
+586,bvps,BVPS (VND),BVPS (VND),Chỉ tiêu định giá,17,index,NH
+587,evPerEbitda,EV/EBITDA,EV/EBITDA,Chỉ tiêu định giá,18,index,NH
+588,issueShare,Số CP lưu hành (Triệu CP),Outstanding Share (Mil. Shares),Chỉ tiêu định giá,19,triệu,NH
+589,ev,Vốn hóa (Tỷ đồng),Market Capital (Bn. VND),Chỉ tiêu định giá,20,tỷ,NH
+590,BSA1,TÀI SẢN NGẮN HẠN (Tỷ đồng),CURRENT ASSETS (Bn. VND),Chỉ tiêu cân đối kế toán,21,tỷ,NH
+591,BSA2,Tiền và tương đương tiền (Tỷ đồng),Cash and cash equivalents (Bn. VND),Chỉ tiêu cân đối kế toán,22,tỷ,NH
+592,BSA5,Giá trị thuần đầu tư ngắn hạn (Tỷ đồng),Short-term investments (Bn. VND),Chỉ tiêu cân đối kế toán,23,tỷ,NH
+593,BSA8,Các khoản phải thu ngắn hạn (Tỷ đồng),Accounts receivable (Bn. VND),Chỉ tiêu cân đối kế toán,24,tỷ,NH
+594,BSA10,Trả trước cho người bán ngắn hạn (Tỷ đồng),Prepayments to suppliers (Bn. VND),Chỉ tiêu cân đối kế toán,25,tỷ,NH
+595,BSA159,Phải thu về cho vay ngắn hạn (Tỷ đồng),Short-term loans receivables (Bn. VND),Chỉ tiêu cân đối kế toán,26,tỷ,NH
+596,BSA16,"Hàng tồn kho, ròng (Tỷ đồng)","Inventories, Net (Bn. VND)",Chỉ tiêu cân đối kế toán,27,tỷ,NH
+597,BSA22,Tài sản lưu động khác (Tỷ đồng),Other current assets (Bn. VND),Chỉ tiêu cân đối kế toán,28,tỷ,NH
+598,BSA23,TÀI SẢN DÀI HẠN (Tỷ đồng),LONG-TERM ASSETS (Bn. VND),Chỉ tiêu cân đối kế toán,29,tỷ,NH
+599,le,(Vay NH+DH)/VCSH,(ST+LT borrowings)/Equity,Chỉ tiêu cơ cấu nguồn vốn,30,index,NH
+600,de,Nợ/VCSH,Debt/Equity,Chỉ tiêu cơ cấu nguồn vốn,31,index,NH
+601,ccc,Chu kỳ tiền,Cash Cycle,Chỉ tiêu hiệu quả hoạt động,32,index,NH
+602,dpo,Số ngày thanh toán bình quân,Days Payable Outstanding,Chỉ tiêu hiệu quả hoạt động,33,index,NH
+603,dso,Số ngày tồn kho bình quân,Days Inventory Outstanding,Chỉ tiêu hiệu quả hoạt động,34,index,NH
+604,acp,Số ngày thu tiền bình quân,Days Sales Outstanding,Chỉ tiêu hiệu quả hoạt động,35,index,NH
+605,fat,Vòng quay TSCĐ,Fixed Asset Turnover,Chỉ tiêu hiệu quả hoạt động,36,index,NH
+606,at,Vòng quay tài sản,Asset Turnover,Chỉ tiêu hiệu quả hoạt động,37,index,NH
+607,ae,Đòn bẩy tài chính,Financial Leverage,Chỉ tiêu thanh khoản,38,index,NH
+608,interestCoverage,Khả năng chi trả lãi vay,Interest Coverage,Chỉ tiêu thanh khoản,39,index,NH
+609,quickRatio,Chỉ số thanh toán nhanh,Quick Ratio,Chỉ tiêu thanh khoản,40,index,NH
+610,cashRatio,Chỉ số thanh toán tiền mặt,Cash Ratio,Chỉ tiêu thanh khoản,41,index,NH
+611,currentRatio,Chỉ số thanh toán hiện thời,Current Ratio,Chỉ tiêu thanh khoản,42,index,NH
+612,CFA22,"Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác (Tỷ đồng)","Collection of loans, proceeds from sales of debts instruments (Bn. VND)",Chỉ tiêu lưu chuyển tiền tệ,43,tỷ,NH
+613,CFA21,"Tiền chi cho vay, mua công cụ nợ của đơn vị khác (Tỷ đồng)","Loans granted, purchases of debt instruments (Bn. VND)",Chỉ tiêu lưu chuyển tiền tệ,44,tỷ,NH
+614,BSA96,TỔNG CỘNG NGUỒN VỐN (Tỷ đồng),TOTAL RESOURCES (Bn. VND),Chỉ tiêu cân đối kế toán,45,tỷ,NH
+615,BSA90,Lãi chưa phân phối (Tỷ đồng),Undistributed earnings (Bn. VND),Chỉ tiêu cân đối kế toán,46,tỷ,NH
+616,BSA86,Quỹ đầu tư và phát triển (Tỷ đồng),Investment and development funds (Bn. VND),Chỉ tiêu cân đối kế toán,47,tỷ,NH
+617,BSA175,Cổ phiếu phổ thông (Tỷ đồng),Common shares (Bn. VND),Chỉ tiêu cân đối kế toán,48,tỷ,NH
+618,BSA80,Vốn góp của chủ sở hữu (Tỷ đồng),Paid-in capital (Bn. VND),Chỉ tiêu cân đối kế toán,49,tỷ,NH
+619,BSA79,Vốn và các quỹ (Tỷ đồng),Capital and reserves (Bn. VND),Chỉ tiêu cân đối kế toán,50,tỷ,NH
+620,BSA78,VỐN CHỦ SỞ HỮU (Tỷ đồng),OWNER'S EQUITY(Bn.VND),Chỉ tiêu cân đối kế toán,51,tỷ,NH
+621,BSA173,Trái phiếu chuyển đổi (Tỷ đồng),Convertible bonds (Bn. VND),Chỉ tiêu cân đối kế toán,52,tỷ,NH
+622,BSA71,Vay và nợ thuê tài chính dài hạn (Tỷ đồng),Long-term borrowings (Bn. VND),Chỉ tiêu cân đối kế toán,53,tỷ,NH
+623,BSA67,Nợ dài hạn (Tỷ đồng),Long-term liabilities (Bn. VND),Chỉ tiêu cân đối kế toán,54,tỷ,NH
+624,BSA58,Người mua trả tiền trước ngắn hạn (Tỷ đồng),Advances from customers (Bn. VND),Chỉ tiêu cân đối kế toán,55,tỷ,NH
+625,BSA56,Vay và nợ thuê tài chính ngắn hạn (Tỷ đồng),Short-term borrowings (Bn. VND),Chỉ tiêu cân đối kế toán,56,tỷ,NH
+626,BSA55,Nợ ngắn hạn (Tỷ đồng),Current liabilities (Bn. VND),Chỉ tiêu cân đối kế toán,57,tỷ,NH
+627,BSA54,NỢ PHẢI TRẢ (Tỷ đồng),LIABILITIES (Bn. VND),Chỉ tiêu cân đối kế toán,58,tỷ,NH
+628,BSA53,TỔNG CỘNG TÀI SẢN (Tỷ đồng),TOTAL ASSETS (Bn. VND),Chỉ tiêu cân đối kế toán,59,tỷ,NH
+629,BSA209,Lợi thế thương mại (Tỷ đồng),Good will (Bn. VND),Chỉ tiêu cân đối kế toán,60,tỷ,NH
+630,BSA50,Trả trước dài hạn (Tỷ đồng),Long-term prepayments (Bn. VND),Chỉ tiêu cân đối kế toán,61,tỷ,NH
+631,BSA46,Tài sản dài hạn khác (Tỷ đồng),Other long-term assets (Bn. VND),Chỉ tiêu cân đối kế toán,62,tỷ,NH
+632,ISA8,Chi phí tiền lãi vay,Interest Expenses,Chỉ tiêu kết quả kinh doanh,8,tỷ,CT
+633,BSA43,Đầu tư dài hạn (Tỷ đồng),Long-term investments (Bn. VND),Chỉ tiêu cân đối kế toán,63,tỷ,NH
+634,BSA29,Tài sản cố định (Tỷ đồng),Fixed assets (Bn. VND),Chỉ tiêu cân đối kế toán,64,tỷ,NH
+635,BSA27,Phải thu dài hạn khác (Tỷ đồng),Other long-term receivables (Bn. VND),Chỉ tiêu cân đối kế toán,65,tỷ,NH
+636,BSA162,Phải thu về cho vay dài hạn (Tỷ đồng),Long-term loans receivables (Bn. VND),Chỉ tiêu cân đối kế toán,66,tỷ,NH
+637,BSA24,Phải thu dài hạn (Tỷ đồng),Long-term trade receivables (Bn. VND),Chỉ tiêu cân đối kế toán,67,tỷ,NH
+638,ISI64,Doanh thu thuần,Net Sales,Chỉ tiêu kết quả kinh doanh,1,tỷ,BH
+639,ISI87,Lãi gộp,Gross Profit,Chỉ tiêu kết quả kinh doanh,2,tỷ,BH
+640,ISA6,Thu nhập tài chính,Financial Income,Chỉ tiêu kết quả kinh doanh,3,tỷ,BH
+641,ISA7,Chi phí tài chính,Financial Expenses,Chỉ tiêu kết quả kinh doanh,4,tỷ,BH
+642,ISA10,Chi phí quản lý DN,General & Admin Expenses,Chỉ tiêu kết quả kinh doanh,5,tỷ,BH
+643,ISI97,Lãi/Lỗ từ hoạt động kinh doanh,Operating Profit/Loss,Chỉ tiêu kết quả kinh doanh,6,tỷ,BH
+644,ISA102,"Lãi lỗ trong công ty liên doanh, liên kết",Net income from associated companies,Chỉ tiêu kết quả kinh doanh,7,tỷ,BH
+645,ISA14,Thu nhập/Chi phí khác,Other Income/Expenses,Chỉ tiêu kết quả kinh doanh,8,tỷ,BH
+646,ISA16,Lãi/Lỗ ròng trước thuế,Net Profit/Loss before tax,Chỉ tiêu kết quả kinh doanh,9,tỷ,BH
+647,ISA17,Thuế TNDN - hiện thời,Current Income Tax,Chỉ tiêu kết quả kinh doanh,10,tỷ,BH
+648,ISA18,Thuế TNDN - Hoãn lại,Deferred Income Tax,Chỉ tiêu kết quả kinh doanh,11,tỷ,BH
+649,ISA20,Lãi/Lỗ ròng sau thuế,Profit/Loss after tax,Chỉ tiêu kết quả kinh doanh,12,tỷ,BH
+650,ISA21,Lợi ích của cổ đông thiểu số,Minority Interests,Chỉ tiêu kết quả kinh doanh,13,tỷ,BH
+651,ISA22,Lãi/Lỗ thuần của cổ đông công ty mẹ,Profit to parent company,Chỉ tiêu kết quả kinh doanh,14,tỷ,BH
+652,ISA3,Doanh thu thuần,Net Sales,Chỉ tiêu kết quả kinh doanh,1,tỷ,CK
+653,ISA4,Giá vốn hàng bán,Cost of Sales,Chỉ tiêu kết quả kinh doanh,2,tỷ,CK
+654,ISA5,Lãi gộp,Gross Profit,Chỉ tiêu kết quả kinh doanh,3,tỷ,CK
+655,ISS141,Thu nhập tài chính,Financial Income,Chỉ tiêu kết quả kinh doanh,4,tỷ,CK
+656,ISS146,Chi phí tài chính,Financial Expenses,Chỉ tiêu kết quả kinh doanh,5,tỷ,CK
+657,ISS148,Chi phí tiền lãi vay,Interest Expenses,Chỉ tiêu kết quả kinh doanh,6,tỷ,CK
+658,ISS152,Chi phí bán hàng,Selling Expenses,Chỉ tiêu kết quả kinh doanh,7,tỷ,CK
+659,ISA10,Chi phí quản lý DN,General & Admin Expenses,Chỉ tiêu kết quả kinh doanh,8,tỷ,CK
+660,ISA11,Lãi/Lỗ từ hoạt động kinh doanh,Operating Profit/Loss,Chỉ tiêu kết quả kinh doanh,9,tỷ,CK
+661,ISA102,"Lãi lỗ trong công ty liên doanh, liên kết",Net income from associated companies,Chỉ tiêu kết quả kinh doanh,10,tỷ,CK
+662,ISA14,Thu nhập/Chi phí khác,Other Income/Expenses,Chỉ tiêu kết quả kinh doanh,11,tỷ,CK
+663,ISA16,Lãi/Lỗ ròng trước thuế,Net Profit/Loss before tax,Chỉ tiêu kết quả kinh doanh,12,tỷ,CK
+664,ISA17,Thuế TNDN - hiện thời,Current Income Tax,Chỉ tiêu kết quả kinh doanh,13,tỷ,CK
+665,ISA18,Thuế TNDN - Hoãn lại,Deferred Income Tax,Chỉ tiêu kết quả kinh doanh,14,tỷ,CK
+666,ISA20,Lãi/Lỗ ròng sau thuế,Profit/Loss after tax,Chỉ tiêu kết quả kinh doanh,15,tỷ,CK
+667,ISA21,Lợi ích của cổ đông thiểu số,Minority Interests,Chỉ tiêu kết quả kinh doanh,16,tỷ,CK
+668,ISA22,Lãi/Lỗ thuần của cổ đông công ty mẹ,Profit to parent company,Chỉ tiêu kết quả kinh doanh,17,tỷ,CK
+669,ISA1,Doanh thu bán hàng và cung cấp dịch vụ,Sales,Chỉ tiêu kết quả kinh doanh,1,tỷ,CT
+670,ISA2,Các khoản giảm trừ doanh thu,Sales deductions,Chỉ tiêu kết quả kinh doanh,2,tỷ,CT
+671,ISA3,Doanh thu thuần,Net Sales,Chỉ tiêu kết quả kinh doanh,3,tỷ,CT
+672,ISA4,Giá vốn hàng bán,Cost of Sales,Chỉ tiêu kết quả kinh doanh,4,tỷ,CT
+673,ISA5,Lãi gộp,Gross Profit,Chỉ tiêu kết quả kinh doanh,5,tỷ,CT
+674,ISA7,Chi phí tài chính,Financial Expenses,Chỉ tiêu kết quả kinh doanh,7,tỷ,CT
+675,ISA102,Lãi/lỗ từ công ty liên doanh,Gain/(loss) from joint ventures,Chỉ tiêu kết quả kinh doanh,9,tỷ,CT
+676,ISA9,Chi phí bán hàng,Selling Expenses,Chỉ tiêu kết quả kinh doanh,10,tỷ,CT
+677,ISA10,Chi phí quản lý DN,General & Admin Expenses,Chỉ tiêu kết quả kinh doanh,11,tỷ,CT
+678,ISA11,Lãi/Lỗ từ hoạt động kinh doanh,Operating Profit/Loss,Chỉ tiêu kết quả kinh doanh,12,tỷ,CT
+679,ISA12,Thu nhập khác,Other income,Chỉ tiêu kết quả kinh doanh,13,tỷ,CT
+680,ISA15,"Lãi lỗ trong công ty liên doanh, liên kết",Net income from associated companies,Chỉ tiêu kết quả kinh doanh,14,tỷ,CT
+681,ISA13,Thu nhập/Chi phí khác,Other Income/Expenses,Chỉ tiêu kết quả kinh doanh,15,tỷ,CT
+682,ISA14,Lợi nhuận khác,Net other income/expenses,Chỉ tiêu kết quả kinh doanh,16,tỷ,CT
+683,ISA16,Lãi/Lỗ ròng trước thuế,Net Profit/Loss before tax,Chỉ tiêu kết quả kinh doanh,17,tỷ,CT
+684,ISA17,Thuế TNDN - hiện thời,Current Income Tax,Chỉ tiêu kết quả kinh doanh,18,tỷ,CT
+685,ISA18,Thuế TNDN - Hoãn lại,Deferred Income Tax,Chỉ tiêu kết quả kinh doanh,19,tỷ,CT
+686,ISA20,Lãi/Lỗ ròng sau thuế,Profit/Loss after tax,Chỉ tiêu kết quả kinh doanh,20,tỷ,CT
+687,ISA21,Lợi ích của cổ đông thiểu số,Minority Interests,Chỉ tiêu kết quả kinh doanh,21,tỷ,CT
+688,ISA22,Lãi/Lỗ thuần của cổ đông công ty mẹ,Profit to parent company,Chỉ tiêu kết quả kinh doanh,22,tỷ,CT
+689,ISB25,Thu nhập lãi và các khoản tương tự,Interest and Similar Income,Chỉ tiêu kết quả kinh doanh,1,tỷ,NH
+690,ISB26,Chi phí lãi và các khoản tương tự,Interest and Similar Expenses,Chỉ tiêu kết quả kinh doanh,2,tỷ,NH
+691,ISB27,Thu nhập lãi thuần,Net Interest Income,Chỉ tiêu kết quả kinh doanh,3,tỷ,NH
+692,ISB28,Thu nhập từ hoạt động dịch vụ,Fees and Comission Income,Chỉ tiêu kết quả kinh doanh,4,tỷ,NH
+693,ISB29,Chi phí hoạt động dịch vụ,Fees and Comission Expenses,Chỉ tiêu kết quả kinh doanh,5,tỷ,NH
+694,ISB30,Lãi thuần từ hoạt động dịch vụ,Net Fee and Commission Income,Chỉ tiêu kết quả kinh doanh,6,tỷ,NH
+695,ISB31,Kinh doanh ngoại hối và vàng,Net gain (loss) from foreign currency and gold dealings,Chỉ tiêu kết quả kinh doanh,7,tỷ,NH
+696,ISB32,Chứng khoán kinh doanh,Net gain (loss) from trading of trading securities,Chỉ tiêu kết quả kinh doanh,8,tỷ,NH
+697,ISB33,Chứng khoán đầu tư,Net gain (loss) from disposal of investment securities,Chỉ tiêu kết quả kinh doanh,9,tỷ,NH
+698,ISB34,Hoạt động khác,Net Other income/(expenses),Chỉ tiêu kết quả kinh doanh,10,tỷ,NH
+699,ISB35,Chi phí hoạt động khác,Other expenses,Chỉ tiêu kết quả kinh doanh,11,tỷ,NH
+700,ISB36,Lãi/lỗ thuần từ hoạt động khác,Net Other income/expenses,Chỉ tiêu kết quả kinh doanh,12,tỷ,NH
+701,ISB37,Cố tức đã nhận,Dividends received,Chỉ tiêu kết quả kinh doanh,13,tỷ,NH
+702,ISB38,Tổng thu nhập hoạt động,Total operating revenue,Chỉ tiêu kết quả kinh doanh,14,tỷ,NH
+703,ISB39,Chi phí quản lý DN,General & Admin Expenses,Chỉ tiêu kết quả kinh doanh,15,tỷ,NH
+704,ISB40,LN từ HĐKD trước CF dự phòng,Operating Profit before Provision,Chỉ tiêu kết quả kinh doanh,16,tỷ,NH
+705,ISB41,Chi phí dự phòng rủi ro tín dụng,Provision for credit losses,Chỉ tiêu kết quả kinh doanh,17,tỷ,NH
+706,ISA16,LN trước thuế,Profit before tax,Chỉ tiêu kết quả kinh doanh,18,tỷ,NH
+707,ISA19,Thuế TNDN,Tax For the Year,Chỉ tiêu kết quả kinh doanh,19,tỷ,NH
+708,ISA17,Chi phí thuế TNDN hiện hành,Business income tax - current,Chỉ tiêu kết quả kinh doanh,20,tỷ,NH
+709,ISA18,Chi phí thuế TNDN hoãn lại,Business income tax - deferred,Chỉ tiêu kết quả kinh doanh,21,tỷ,NH
+710,ISA21,Cổ đông thiểu số,Minority Interest,Chỉ tiêu kết quả kinh doanh,22,tỷ,NH
+711,ISA20,Lợi nhuận thuần,Net Profit For the Year,Chỉ tiêu kết quả kinh doanh,23,tỷ,NH
+712,ISA22,Cổ đông của Công ty mẹ,Attributable to parent company,Chỉ tiêu kết quả kinh doanh,24,tỷ,NH
+713,ISA23,Lãi cơ bản trên cổ phiếu,EPS_basis,Chỉ tiêu kết quả kinh doanh,25,tỷ,NH
+714,ebitda,EBITDA (Tỷ đồng),EBITDA (Bn. VND),Chỉ tiêu khả năng sinh lợi,5,tỷ,BH
+715,ebit,EBIT (Tỷ đồng),EBIT (Bn. VND),Chỉ tiêu khả năng sinh lợi,6,tỷ,BH
+716,dividend,Tỷ suất cổ tức (%),Dividend yield (%),Chỉ tiêu khả năng sinh lợi,13,%,BH
+717,RTQ17,Vòng quay hàng tồn kho,Inventory Turnover,Chỉ tiêu hiệu quả hoạt động,28,index,BH
+718,fae,TSCĐ / Vốn CSH,Fixed Asset-To-Equity,Chỉ tiêu cơ cấu nguồn vốn,36,index,BH
+719,charterCapitalRatio,Vốn CSH/Vốn điều lệ,Owners' Equity/Charter Capital,Chỉ tiêu cơ cấu nguồn vốn,38,index,BH
+720,ebitda,EBITDA (Tỷ đồng),EBITDA (Bn. VND),Chỉ tiêu khả năng sinh lợi,5,tỷ,CK
+721,ebit,EBIT (Tỷ đồng),EBIT (Bn. VND),Chỉ tiêu khả năng sinh lợi,6,tỷ,CK
+722,dividend,Tỷ suất cổ tức (%),Dividend yield (%),Chỉ tiêu khả năng sinh lợi,13,%,CK
+723,RTQ17,Vòng quay hàng tồn kho,Inventory Turnover,Chỉ tiêu hiệu quả hoạt động,28,index,CK
+724,fae,TSCĐ / Vốn CSH,Fixed Asset-To-Equity,Chỉ tiêu cơ cấu nguồn vốn,36,index,CK
+725,charterCapitalRatio,Vốn CSH/Vốn điều lệ,Owners' Equity/Charter Capital,Chỉ tiêu cơ cấu nguồn vốn,38,index,CK
+726,ebitda,EBITDA (Tỷ đồng),EBITDA (Bn. VND),Chỉ tiêu khả năng sinh lợi,5,tỷ,CT
+727,ebit,EBIT (Tỷ đồng),EBIT (Bn. VND),Chỉ tiêu khả năng sinh lợi,6,tỷ,CT
+728,dividend,Tỷ suất cổ tức (%),Dividend yield (%),Chỉ tiêu khả năng sinh lợi,13,%,CT
+729,RTQ17,Vòng quay hàng tồn kho,Inventory Turnover,Chỉ tiêu hiệu quả hoạt động,28,index,CT
+730,fae,TSCĐ / Vốn CSH,Fixed Asset-To-Equity,Chỉ tiêu cơ cấu nguồn vốn,36,index,CT
+731,charterCapitalRatio,Vốn CSH/Vốn điều lệ,Owners' Equity/Charter Capital,Chỉ tiêu cơ cấu nguồn vốn,38,index,CT
+732,ebitda,EBITDA (Tỷ đồng),EBITDA (Bn. VND),Chỉ tiêu khả năng sinh lợi,5,tỷ,NH
+733,ebit,EBIT (Tỷ đồng),EBIT (Bn. VND),Chỉ tiêu khả năng sinh lợi,6,tỷ,NH
+734,dividend,Tỷ suất cổ tức (%),Dividend yield (%),Chỉ tiêu khả năng sinh lợi,13,%,NH
+735,RTQ17,Vòng quay hàng tồn kho,Inventory Turnover,Chỉ tiêu hiệu quả hoạt động,28,index,NH
+736,fae,TSCĐ / Vốn CSH,Fixed Asset-To-Equity,Chỉ tiêu cơ cấu nguồn vốn,36,index,NH
+737,charterCapitalRatio,Vốn CSH/Vốn điều lệ,Owners' Equity/Charter Capital,Chỉ tiêu cơ cấu nguồn vốn,38,index,NH

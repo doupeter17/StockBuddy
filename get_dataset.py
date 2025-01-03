@@ -88,7 +88,7 @@ def get_indicators(comp_code):
                 "DY": f"{DY}",
                 "Market Cap": f"{SIZE}",
                 "Total Assets": f"{total_assets[year]}",
-                "Stock Price":f"{year_end_prices[year.year]}"
+                "Stock Price": f"{year_end_prices[year.year]}",
             }
             write_to_csv(fin_data)
     except Exception as e:

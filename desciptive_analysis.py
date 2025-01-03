@@ -2,7 +2,7 @@ import pandas as pd
 import statsmodels.api as sm
 
 # Load the dataset
-df = pd.read_csv("shangHai_2023_cleaned.csv")
+df = pd.read_csv("shangHai_2020_cleaned.csv")
 
 # Define dependent variable (Year End Price) and independent variables
 y = df["Year End Price"]  # Dependent variable
@@ -12,7 +12,6 @@ x = df[
         "BVPS",
         "ROA",
         "ROE",
-        "DIV",
         "DAR",
         "MB",
         "DY",
