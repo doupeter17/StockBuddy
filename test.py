@@ -3,168 +3,140 @@ import requests
 from lxml import html
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import yfinance as yf
+from datetime import datetime
 
 
-def get_eps_from_income_stmt(ticker):
+def get_income_stmt(ticker):
     try:
+        print(f"{ticker}: Fetching income statement......")
         page = requests.get(
             f"https://stockanalysis.com/quote/sha/{ticker}/financials/?p=quarterly"
         )
-        content = html.fromstring(page.content)
-        table = content.xpath('//*[@id="main-table"]')
         dt = pd.read_html(page.text)
-        pattern = r"^Q[1-4] \d{4}$"
-        matching_columns = [
-            col
-            for col in dt[0].columns
-            if pd.Series(col).str.match(pattern, na=False).any()
-        ]
-        matches = [item[0] for item in matching_columns if re.match(pattern, item[0])]
         df = dt[0]
-        arr_eps = (
-            df.loc[
-                df[("Fiscal Quarter", "Period Ending")] == "EPS (Basic)",
-                time,
-            ].values[0]
-            for time in matching_columns
-        )
-        income_stm = pd.DataFrame({"DateTime": matches, "EPS": arr_eps})
-        return income_stm
-    except:
-        print("Error: Get incm stmt")
+        print(f"{ticker}: Succesfully get income statement")
+        return df
+    except Exception as e:
+        print(f"Error: Get income statement failed:\n {e}")
 
 
 def get_balance_sheet(ticker):
     try:
+        print(f"{ticker}: Fetching balance sheet......")
         page = requests.get(
             f"https://stockanalysis.com/quote/sha/{ticker}/financials/balance-sheet/?p=quarterly"
         )
-        content = html.fromstring(page.content)
-        table = content.xpath('//*[@id="main-table"]')
         dt = pd.read_html(page.text)
         pattern = r"^Q[1-4] \d{4}$"
-        matching_columns = [
-            col
-            for col in dt[0].columns
-            if pd.Series(col).str.match(pattern, na=False).any()
-        ]
-        matches = [item[0] for item in matching_columns if re.match(pattern, item[0])]
-        # print(dt[0])
         df = dt[0]
-        total_debt = [
-            df.loc[
-                df[("Fiscal Quarter", "Period Ending")] == "Total Liabilities",
-                time,
-            ].values[0]
-            for time in matching_columns
-        ]  # Create list for total_debt
-        total_asset = [
-            df.loc[
-                df[("Fiscal Quarter", "Period Ending")] == "Total Assets",
-                time,
-            ].values[0]
-            for time in matching_columns
-        ]  # Create list for total_asset
-        bvps = [
-            df.loc[
-                df[("Fiscal Quarter", "Period Ending")] == "Book Value Per Share",
-                time,
-            ].values[0]
-            for time in matching_columns
-        ]  # Create list for bvps
-        # print(total_debt)
-        balanced_sheet = pd.DataFrame(
-            {
-                "DateTime": matches,
-                "Total Liability": total_debt,
-                "Total Asset": total_asset,
-                "BVPS": bvps,
-            }
-        )
-        return balanced_sheet
-    except:
-        print("Error: Get balanced sheet")
+        print(f"{ticker}: Succesfully get balance sheet")
+        return df
+    except Exception as e:
+        print(f"Error: Get balance sheet failed:\n {e}")
 
 
-def get_ratio(ticker):
+def get_ratios(ticker):
     try:
+        print(f"{ticker}: Fetching ratios page")
         page = requests.get(
             f"https://stockanalysis.com/quote/sha/{ticker}/financials/ratios/?p=quarterly"
         )
-        content = html.fromstring(page.content)
-        table = content.xpath('//*[@id="main-table"]')
         dt = pd.read_html(page.text)
         pattern = r"^Q[1-4] \d{4}$"
-        matching_columns = [
-            col
-            for col in dt[0].columns
-            if pd.Series(col).str.match(pattern, na=False).any()
-        ]
-        matches = [item[0] for item in matching_columns if re.match(pattern, item[0])]
-
         df = dt[0]
-        # print(df.columns)
-        roa = [
-            df.loc[
-                df[("Fiscal Quarter", "Period Ending")] == "Return on Assets (ROA)",
-                time,
-            ].values[0]
-            for time in matching_columns
-        ]  # Create list for roa
-        roe = [
-            df.loc[
-                df[("Fiscal Quarter", "Period Ending")] == "Return on Equity (ROE)",
-                time,
-            ].values[0]
-            for time in matching_columns
-        ]
-        div = [
-            df.loc[
-                df[("Fiscal Quarter", "Period Ending")] == "Dividend Yield", time
-            ].values[0]
-            for time in matching_columns
-        ]  # Create list for div
-        size = [
-            df.loc[
-                df[("Fiscal Quarter", "Period Ending")] == "Market Capitalization", time
-            ].values[0]
-            for time in matching_columns
-        ]
-        ratio = pd.DataFrame(
-            {
-                "DateTime": matches,
-                "ROA": roa,
-                "ROE": roe,
-                "div": div,
-                "size": size,
-            }
-        )
-        # print(ratio)
-        return ratio
+        print(f"{ticker}: Successfully get ratios page")
+        return df
+    except Exception as e:
+        print(f"Error: Get balance sheet failed:\n {e}")
 
-    except:
-        print("Error: Get ratio")
+
+def date_format(date_string):
+    pattern = r"(?:\b[A-Za-z]{3} '\d{2}\b )?(?P<full_date>[A-Za-z]{3} \d{2}, \d{4})"  # Define regex for get date like 'Jun 30, 2020'
+    match = re.search(pattern, date_string)
+    if match:
+        full_date = match.group("full_date")
+        date_obj = datetime.strptime(full_date, "%b %d, %Y")
+        formatted_date = date_obj.strftime("%Y-%m-%d")
+        return formatted_date
+    else:
+        return pd.NA
+
+
+def get_price_at_time(ticker, time):
+
+    # Parse the end date into a datetime object
+    end_date_obj = datetime.strptime(time, "%Y-%m-%d")
+
+    # Calculate the start date (first day of the same month)
+    start_date_obj = end_date_obj.replace(day=1)
+
+    # Format the start and end dates as strings
+    start_date = start_date_obj.strftime("%Y-%m-%d")
+    end_date = end_date_obj.strftime("%Y-%m-%d")
+    data = yf.download(ticker, start=start_date, end=end_date)
+    if not data.empty:
+        last_date = data.index[-1]  # Get the last date from the index
+    return data.loc[last_date, "Close"][0]
+
+
+def get_data_cell(source, row_name, column_name):
+    try:
+        cell = [
+            source.loc[
+                source[("Fiscal Quarter", "Period Ending")] == row_name, column_name
+            ].values[0]
+        ]
+        return cell
+    except Exception as e:
+        print(f"Error: Cannot get row {row_name}\n {e}")
 
 
 def get_company_ratio(ticker):
-    try:
-        income_stmt = get_eps_from_income_stmt(ticker)
-        balance_sheet = get_balance_sheet(ticker)
-        ratio = get_ratio(ticker)
-        merged_df1 = pd.merge(income_stmt, balance_sheet, on="DateTime", how="inner")
-        merged_df2 = pd.merge(merged_df1, ratio, on="DateTime", how="inner")
-        merged_df2.insert(0, "Company Code", ticker)
-        print(income_stmt)
-        print(balance_sheet)
-        print(ratio)
-        merged_df2.to_csv("shanghai.csv", mode="a", header=False, index=False)
-        print(f"Successfully Write {ticker} to CSV")
-    except Exception as e:
-        print(f"Indicator error: {e}")
+    # try:
+    print(f"System is getting company: {ticker}")
+    income_stmt = get_income_stmt(ticker)
+    balance_sheet = get_balance_sheet(ticker)
+    ratio = get_ratios(ticker)
+    pattern = r"^Q[1-4] \d{4}$"
+    matching_columns = [
+        col
+        for col in income_stmt.columns
+        if pd.Series(col).str.match(pattern, na=False).any()
+    ]
+    for time in matching_columns:
+        date = date_format(time[1])
+        eps = get_data_cell(income_stmt, "EPS (Basic)", time)
+        total_assets = get_data_cell(balance_sheet, "Total Assets", time)
+        total_debt = get_data_cell(balance_sheet, "Total Liabilities", time)
+        bvps = get_data_cell(balance_sheet, "Book Value Per Share", time)
+        roa = get_data_cell(ratio, "Return on Assets (ROA)", time)
+        roe = get_data_cell(ratio, "Return on Equity (ROE)", time)
+        div = get_data_cell(ratio, "Dividend Yield", time)
+        price = get_price_at_time(f"{ticker}.SS", date)
+        data = pd.DataFrame(
+            {
+                "Company": ticker,
+                "Date": date,
+                "Total Assets": total_assets,
+                "Total Debt": total_debt,
+                "EPS": eps,
+                "BVPS": bvps,
+                "ROA": roa,
+                "ROE": roe,
+                "DIV": div,
+                "Price": price,
+            }
+        )
+        print(data)
+        data.to_csv("shanghai2.csv", mode="a", header=False, index=False)
+    print(f"Successfully Write {ticker} to CSV")
+
+
+# except Exception as e:
+#     print(f"Indicator error: {e}")
 
 
 if __name__ == "__main__":
-    for comp_code in range(600000, 604000):
-        get_company_ratio(comp_code)
-    with ThreadPoolExecutor(max_workers=5) as executor:
-        executor.map(get_company_ratio, comp_code)
+    for comp_code in range(603814, 604000):
+        get_company_ratio(603986)
