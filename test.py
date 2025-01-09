@@ -93,50 +93,52 @@ def get_data_cell(source, row_name, column_name):
 
 
 def get_company_ratio(ticker):
-    # try:
-    print(f"System is getting company: {ticker}")
-    income_stmt = get_income_stmt(ticker)
-    balance_sheet = get_balance_sheet(ticker)
-    ratio = get_ratios(ticker)
-    pattern = r"^Q[1-4] \d{4}$"
-    matching_columns = [
-        col
-        for col in income_stmt.columns
-        if pd.Series(col).str.match(pattern, na=False).any()
-    ]
-    for time in matching_columns:
-        date = date_format(time[1])
-        eps = get_data_cell(income_stmt, "EPS (Basic)", time)
-        total_assets = get_data_cell(balance_sheet, "Total Assets", time)
-        total_debt = get_data_cell(balance_sheet, "Total Liabilities", time)
-        bvps = get_data_cell(balance_sheet, "Book Value Per Share", time)
-        roa = get_data_cell(ratio, "Return on Assets (ROA)", time)
-        roe = get_data_cell(ratio, "Return on Equity (ROE)", time)
-        div = get_data_cell(ratio, "Dividend Yield", time)
-        price = get_price_at_time(f"{ticker}.SS", date)
-        data = pd.DataFrame(
-            {
-                "Company": ticker,
-                "Date": date,
-                "Total Assets": total_assets,
-                "Total Debt": total_debt,
-                "EPS": eps,
-                "BVPS": bvps,
-                "ROA": roa,
-                "ROE": roe,
-                "DIV": div,
-                "Price": price,
-            }
-        )
-        print(data)
-        data.to_csv("shanghai2.csv", mode="a", header=False, index=False)
-    print(f"Successfully Write {ticker} to CSV")
-
-
-# except Exception as e:
-#     print(f"Indicator error: {e}")
+    try:
+        print(f"System is getting company: {ticker}")
+        income_stmt = get_income_stmt(ticker)
+        balance_sheet = get_balance_sheet(ticker)
+        ratio = get_ratios(ticker)
+        pattern = r"^Q[1-4] \d{4}$"
+        matching_columns = [
+            col
+            for col in income_stmt.columns
+            if pd.Series(col).str.match(pattern, na=False).any()
+        ]
+        for time in matching_columns:
+            date = date_format(time[1])
+            eps = get_data_cell(income_stmt, "EPS (Basic)", time)
+            total_assets = get_data_cell(balance_sheet, "Total Assets", time)
+            total_debt = get_data_cell(balance_sheet, "Total Liabilities", time)
+            bvps = get_data_cell(balance_sheet, "Book Value Per Share", time)
+            roa = get_data_cell(ratio, "Return on Assets (ROA)", time)
+            roe = get_data_cell(ratio, "Return on Equity (ROE)", time)
+            dy = get_data_cell(ratio, "Dividend Yield", time)
+            div = get_data_cell(income_stmt, "Dividend Per Share", time)
+            market_cap = get_data_cell(ratio, "Market Capitalization", time)
+            price = get_price_at_time(f"{ticker}.SS", date)
+            data = pd.DataFrame(
+                {
+                    "Company": ticker,
+                    "Date": date,
+                    "Total Assets": total_assets,
+                    "Total Debt": total_debt,
+                    "EPS": eps,
+                    "BVPS": bvps,
+                    "ROA": roa,
+                    "ROE": roe,
+                    "DY": dy,
+                    "Price": price,
+                    "DIV": div,
+                    "Market Cap": market_cap,
+                }
+            )
+            print(data)
+            data.to_csv("shanghai.csv", mode="a", header=False, index=False)
+        print(f"Successfully Write {ticker} to CSV")
+    except Exception as e:
+        print(f"Indicator error: {e}")
 
 
 if __name__ == "__main__":
-    for comp_code in range(603814, 604000):
-        get_company_ratio(603986)
+    for comp_code in range(601038, 602000):
+        get_company_ratio(comp_code)
