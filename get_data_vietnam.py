@@ -188,9 +188,10 @@ def write_to_csv(fin_data):
 if __name__ == "__main__":
     isFetch = True
     stock = Vnstock().stock(source="VCI")
-    stock_list = stock.listing.symbols_by_group("HNX")
+    stock_list = stock.listing.symbols_by_group("UPCOM")
+    print(stock_list)
     for stock in stock_list.values:
-        fetch_indicator(stock, "AAV")
+        fetch_indicator(stock, "A32")
     with ThreadPoolExecutor(max_workers=5) as executor:
         executor.map(fetch_indicator, stock)
     # test()

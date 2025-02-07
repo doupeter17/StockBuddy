@@ -140,5 +140,5 @@ def get_company_ratio(ticker):
 
 
 if __name__ == "__main__":
-    for comp_code in range(601038, 602000):
+    for comp_code in range(900000, 900999):
         get_company_ratio(comp_code)

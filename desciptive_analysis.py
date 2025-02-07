@@ -4,7 +4,7 @@ from linearmodels.panel import PanelOLS, RandomEffects
 import numpy as np
 
 # Load the dataset
-df = pd.read_csv("VN_data2.csv")
+df = pd.read_csv("large_cap_companies.csv")
 df["time"] = pd.to_datetime(df["Time"])
 # Ensure there is an entity and time index for panel models
 df["entity"] = df[
@@ -13,7 +13,7 @@ df["entity"] = df[
 df = df.set_index(["entity", "time"])
 
 # Define dependent variable (Year End Price) and independent variables
-y = df["Price"]  # Dependent variable
+y = df["Stock Price"]  # Dependent variable
 x = df[
     [
         "EPS",
@@ -21,8 +21,12 @@ x = df[
         "ROA",
         "ROE",
         "DAR",
-        "DIV",
+        "DY",
         "SIZE",
+        # "MB",
+        # "P/E Ratio",
+        "Market Cap",
+        "Total Assets",
     ]
 ]  # Independent variables
 x = sm.add_constant(x)  # Add constant for intercept
