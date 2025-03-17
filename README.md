@@ -47,6 +47,15 @@ The project relies on **StockAnalysis** as the primary data source. Their financ
 - Perform **data preprocessing**: handle missing values, normalize data, and transform variables.
 - Apply **OLS, GLS, PanelOLS, and Random Effects models** to estimate financial trends.
 - Visualize **R², MSE, and RMSE** to evaluate model accuracy.
+## Data Visualization
+Here are some key visualizations generated from the analysis:
+
+### Financial Trends Over Time
+![Financial Trends](images/financial_trends.png)
+
+### Model Performance Evaluation
+#### R², MSE, and RMSE Comparison
+![Model Evaluation](images/model_evaluation.png)
 
 ## Contribution
 Contributions are welcome! Feel free to fork the repository, submit pull requests, or suggest improvements.
