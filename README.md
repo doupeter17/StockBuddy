@@ -49,6 +49,8 @@ The project relies on **StockAnalysis** as the primary data source. Their financ
 - Visualize **R², MSE, and RMSE** to evaluate model accuracy.
 ## Data Visualization
 Here are some key visualizations generated from the analysis:
+### Stock Price Distribution
+![Financial Trends](images/stock_distribution.png)
 
 ### Financial Trends Over Time
 ![Financial Trends](images/financial_trends.png)
