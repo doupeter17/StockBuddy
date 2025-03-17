@@ -22,10 +22,8 @@ The project relies on **StockAnalysis** as the primary data source. Their financ
 - **Python**: Core programming language
 - **Pandas**: Data manipulation and analysis
 - **Requests/BeautifulSoup**: Web scraping (if applicable)
-- **SQL/NoSQL Databases**: Data storage solutions
 - **Statsmodels & Linearmodels**: OLS, GLS, PanelOLS, and Random Effects estimation
 - **Seaborn & Matplotlib**: Data visualization and model performance evaluation
-- **Machine Learning (optional)**: For predictive financial modeling
 
 ## Installation & Setup
 1. Clone the repository:
