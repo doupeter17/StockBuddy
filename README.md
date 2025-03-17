@@ -36,9 +36,9 @@ The project relies on **StockAnalysis** as the primary data source. Their financ
    ```
 3. Run the script:
    - **Please follow the instruction in notebook file as order:**
-     -- fetch_data.ipynb
-     -- combine_data.ipynb
-     -- data_analysis.ipynb
+     - `fetch_data.ipynb`
+     - `combine_data.ipynb`
+     - `data_analysis.ipynb`
 ## Usage
 - Modify the configuration file to specify stock exchanges and companies of interest.
 - Execute the script to fetch and process financial data.
