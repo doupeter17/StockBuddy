@@ -1,0 +1,38 @@
+,Fiscal Quarter,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022
+,Period Ending,"Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022"
+0,Revenue,1037,1153,984.66,1200,1012
+1,Revenue Growth (YoY),5.35%,-3.89%,-2.67%,-,-
+2,Cost of Revenue,560.02,615.21,560.99,712.91,598.27
+3,Gross Profit,477.32,537.97,423.67,486.94,413.44
+4,"Selling, General & Admin",475.79,481.63,452.58,590.53,502.85
+5,Research & Development,195.69,206.33,243.37,288.31,248.57
+6,Other Operating Expenses,-3.39,-35.27,-11.18,-36.55,28.66
+7,Operating Expenses,668.09,652.69,684.77,842.29,780.08
+8,Operating Income,-190.76,-114.71,-261.1,-355.35,-366.64
+9,Interest Expense,-1.37,-2.04,-3.25,-3.37,-3.95
+10,Interest & Investment Income,25.83,29.76,24.76,19.38,8.16
+11,Currency Exchange Gain (Loss),-0.78,1.1,0.3,1.92,-2.5
+12,Other Non Operating Income (Expenses),-,-,-,36.73,628.24
+13,EBT Excluding Unusual Items,-167.08,-85.89,-239.29,-300.69,263.31
+14,Gain (Loss) on Sale of Investments,4.6,-2.68,2.74,-65.42,-0.69
+15,Gain (Loss) on Sale of Assets,-0.88,-0.65,-0.59,-0.07,-
+16,Other Unusual Items,-,-,1432,-,-
+17,Pretax Income,-163.35,-89.22,1195,-366.17,262.62
+18,Income Tax Expense,-,-,-,-,1
+19,Net Income,-163.35,-89.22,1195,-366.17,261.62
+20,Net Income to Common,-163.35,-89.22,1195,-366.17,261.62
+21,Net Income Growth,-,-,356.82%,-,-
+22,Shares Outstanding (Basic),469,446,138,138,138
+23,Shares Outstanding (Diluted),469,446,454,138,454
+24,Shares Change (YoY),3.28%,222.51%,-,-,-
+25,EPS (Basic),-0.35,-0.20,8.64,-2.65,1.89
+26,EPS (Diluted),-0.35,-0.20,-0.52,-2.65,-0.81
+27,Free Cash Flow,-199.24,-144.47,-177.92,-309.08,-160.1
+28,Free Cash Flow Per Share,-0.42,-0.32,-0.39,-2.23,-0.35
+29,Operating Margin,-18.39%,-9.95%,-26.52%,-29.62%,-36.24%
+30,Profit Margin,-15.75%,-7.74%,121.37%,-30.52%,25.86%
+31,Free Cash Flow Margin,-19.21%,-12.53%,-18.07%,-25.76%,-15.82%
+32,EBITDA,-185.08,-108.1,-253.88,-347.56,-359.91
+33,D&A For EBITDA,5.69,6.62,7.22,7.79,6.73
+34,EBIT,-190.76,-114.71,-261.1,-355.35,-366.64
+35,Advertising Expenses,-,-,-,-,215.68

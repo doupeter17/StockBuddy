@@ -1,0 +1,56 @@
+,Fiscal Quarter,Q3 2024,Q2 2024,Q1 2024,Q4 2023,Q3 2023,Q2 2023,Q1 2023,Q4 2022
+,Period Ending,"Sep '24 Sep 30, 2024","Jun '24 Jun 30, 2024","Mar '24 Mar 31, 2024","Dec '23 Dec 31, 2023","Sep '23 Sep 30, 2023","Jun '23 Jun 30, 2023","Mar '23 Mar 31, 2023","Dec '22 Dec 31, 2022"
+0,Cash & Equivalents,397.63,350.78,430.78,267.7,195.56,-,-,67.84
+1,Short-Term Investments,-,145.63,-,-,-,-,-,-
+2,Trading Asset Securities,176.61,170,210,0.2,-,-,-,-
+3,Cash & Short-Term Investments,574.24,666.41,640.78,267.9,195.56,-,67.84,67.84
+4,Cash Growth,193.64%,-,844.56%,294.90%,-,-,-,-
+5,Accounts Receivable,437.36,480.73,435.24,699.84,746.97,-,-,820.49
+6,Other Receivables,3.33,1.52,1.02,0.81,-0.18,-,-,0.51
+7,Receivables,440.68,482.25,436.27,700.65,746.79,-,-,821
+8,Inventory,194.98,167.06,204.05,148.35,156.56,-,-,138.01
+9,Prepaid Expenses,-,-,-,-,4.1,-,-,-
+10,Other Current Assets,152.47,12.17,74.66,23.51,4.81,-,-,15.23
+11,Total Current Assets,1362,1328,1356,1140,1108,-,-,1042
+12,"Property, Plant & Equipment",542.38,518.58,505.6,512.26,487.89,-,-,465.53
+13,Long-Term Investments,12.6,12.67,12.39,12.07,11.79,-,-,11.04
+14,Other Intangible Assets,30.68,30.57,30.59,30.87,30.82,-,-,31.85
+15,Long-Term Accounts Receivable,-,2.32,-,-,3.25,-,-,-
+16,Long-Term Deferred Tax Assets,2,0.45,0.52,0.3,9.06,-,-,0.23
+17,Long-Term Deferred Charges,0.26,-,-,-,-,-,-,-
+18,Other Long-Term Assets,2.75,1.92,4.01,3.58,6,-,-,4.33
+19,Total Assets,1953,1894,1909,1699,1657,-,-,1555
+20,Accounts Payable,612.48,573.13,585.07,709.53,681.28,-,-,618.32
+21,Accrued Expenses,17.3,13.27,8.8,24.75,39.72,-,-,20.26
+22,Short-Term Debt,12.31,-,-,8.01,8.01,-,-,10.01
+23,Current Portion of Long-Term Debt,-,-,-,4.95,-,-,-,2.7
+24,Current Portion of Leases,47.34,4.48,5.38,-,4.37,-,-,-
+25,Current Income Taxes Payable,4.78,3.79,2.09,8.74,1.82,-,-,1.61
+26,Current Unearned Revenue,17.4,18.18,9.33,10.37,9.15,-,-,9.88
+27,Other Current Liabilities,14.55,72.71,62.17,171.61,186.3,-,-,278.1
+28,Total Current Liabilities,726.16,685.57,672.84,937.96,930.66,-,-,940.9
+29,Long-Term Leases,1.99,2.72,3.33,2.93,2.98,-,-,2.89
+30,Long-Term Unearned Revenue,21.73,22.71,21.41,22.33,21.43,-,-,21.13
+31,Long-Term Deferred Tax Liabilities,6.02,6.45,8.47,8.6,18.14,-,-,7.46
+32,Total Liabilities,755.9,717.46,706.05,971.82,973.21,-,-,972.38
+33,Common Stock,177.79,177.79,136.76,102.57,102.57,-,-,102.57
+34,Additional Paid-In Capital,722.64,722.64,763.67,340.42,340.42,-,-,340.42
+35,Retained Earnings,273.35,257.77,284.22,266.64,222.07,-,-,125.4
+36,Comprehensive Income & Other,2.21,2.27,2.03,1.76,1.53,-,-,0.89
+37,Total Common Equity,1176,1160,1187,711.39,666.58,-,569.27,569.27
+38,Minority Interest,21.16,16.48,16.14,16.28,16.84,-,-,13.41
+39,Shareholders' Equity,1197,1177,1203,727.67,683.42,-,582.68,582.68
+40,Total Liabilities & Equity,1953,1894,1909,1699,1657,-,-,1555
+41,Total Debt,61.64,7.2,8.71,15.89,15.36,-,15.6,15.6
+42,Net Cash (Debt),512.6,659.21,632.07,252.01,180.2,-,52.24,52.24
+43,Net Cash Growth,184.46%,-,1110.02%,382.45%,-,-,-,-
+44,Net Cash Per Share,2.88,3.64,3.87,1.92,1.25,-,0.39,0.39
+45,Filing Date Shares Outstanding,177.79,177.79,177.79,131.17,133.34,154.08,133.13,177.79
+46,Total Common Shares Outstanding,177.79,177.79,177.79,131.17,133.34,154.08,133.13,133.34
+47,Working Capital,636.22,642.33,682.92,202.45,177.16,-,-,-
+48,Book Value Per Share,6.61,6.53,6.67,5.42,5.00,-,4.27,4.27
+49,Tangible Book Value,1145,1130,1156,680.52,635.76,-,537.42,-
+50,Tangible Book Value Per Share,6.44,6.36,6.50,5.19,4.77,-,4.03,4.03
+51,Buildings,-,266.46,-,-,234.08,-,-,-
+52,Machinery,-,629.06,-,-,559.65,-,-,-
+53,Construction In Progress,-,14.06,-,-,36.03,-,-,-

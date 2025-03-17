@@ -1,0 +1,42 @@
+,Fiscal Quarter,H1 2025,H2 2024,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,+2 Quarters
+,Period Ending,"Sep '24 Sep 30, 2024","Mar '24 Mar 31, 2024","Sep '23 Sep 30, 2023","Mar '23 Mar 31, 2023","Sep '22 Sep 30, 2022","Mar '22 Mar 31, 2022","Sep '21 Sep 30, 2021","Mar '21 Mar 31, 2021","Sep '20 Sep 30, 2020","Mar '20 Mar 31, 2020",+2 Quarters
+0,Interest and Dividend Income,2.98,-0.01,0.01,-0.37,0.37,0.41,2.42,3.21,1,-1.41,Upgrade
+1,Total Interest Expense,2.87,2.99,4.93,3.39,0.71,51.36,328.37,319.16,314.8,309.2,Upgrade
+2,Net Interest Income,0.11,-2.99,-4.92,-3.76,-0.34,-50.94,-325.95,-315.95,-313.8,-310.6,Upgrade
+3,Brokerage Commission,1.31,23.13,0.2,12.25,0.55,1.39,9.84,3.75,4.26,22.07,Upgrade
+4,Asset Management Fee,5.15,-,-,-0.17,0.17,0.89,3.06,0.03,-,-,Upgrade
+5,Underwriting & Investment Banking Fee,1.28,-5.54,5.54,-5.31,5.31,9.84,11.5,0.01,0.41,-,Upgrade
+6,Gain on Sale of Investments (Rev),0.59,0.62,0.18,0.14,-0.44,-0,-0.03,11.14,-0.02,-0.02,Upgrade
+7,Other Revenue,9.15,-1.3,1.3,-3.43,3.43,1.39,2.93,0.7,1.69,3.35,Upgrade
+8,Revenue Before Loan Losses,17.59,13.92,2.29,-0.28,8.68,-37.43,-298.64,-300.32,-307.47,-285.2,Upgrade
+9,Provision for Loan Losses,-,0.04,1.3,0.48,-,-,-,-,-,12.71,Upgrade
+10,Revenue,17.59,13.88,0.99,-0.75,8.68,-37.43,-298.64,-300.32,-307.47,-297.9,Upgrade
+11,Revenue Growth (YoY),1673.49%,-,-88.57%,-,-,-,-,-,-,-,Upgrade
+12,Salaries & Employee Benefits,13.74,16.24,22.34,27.23,27.59,50.28,-,-,-,-,Upgrade
+13,Cost of Services Provided,10.24,6.66,16.05,8.85,8.14,-32.2,50.43,27.48,44.43,78.6,Upgrade
+14,Other Operating Expenses,9.29,3.2,7.47,7.52,8.1,19.42,0.97,0.97,0.97,-56.76,Upgrade
+15,Total Operating Expenses,35.68,28.71,48.03,50.35,46.77,41.72,50.85,29.1,45.4,21.57,Upgrade
+16,Operating Income,-18.09,-14.82,-47.03,-51.1,-38.08,-79.15,-349.49,-329.42,-352.87,-319.47,Upgrade
+17,Currency Exchange Gains,-,-,-,-,-,0.19,0.54,1.07,0.9,0.66,Upgrade
+18,Other Non-Operating Income (Expenses),-,-0.05,-,-0.06,-0.3,-5.92,3.9,5.91,3.69,-110.88,Upgrade
+19,EBT Excluding Unusual Items,-19.4,-14.87,-47.03,-51.15,-38.38,-84.89,-345.05,-322.44,-348.28,-400.21,Upgrade
+20,Merger & Restructuring Charges,-,-,-,-,-,-13.19,-,-,-,-,Upgrade
+21,Gain (Loss) on Sale of Investments,-,-1.53,-,-0.62,0.22,-0.14,-0.29,-11.35,11.45,-352.33,Upgrade
+22,Other Unusual Items,-,-,-,-,-,3233,-12.93,-16.46,-13.53,-,Upgrade
+23,Pretax Income,-19.4,-15.91,-47.03,-51.75,-38.17,3135,-358.48,-350.25,-351.53,-752.57,Upgrade
+24,Income Tax Expense,-,-0.02,-,-,-,-,7.09,-0.66,0.56,-1.86,Upgrade
+25,Earnings From Continuing Ops.,-19.4,-15.89,-47.03,-51.75,-38.17,3135,-365.57,-349.6,-352.09,-750.72,Upgrade
+26,Minority Interest in Earnings,-2.37,-,-,-,-0.01,0,-,0,-,-,Upgrade
+27,Net Income,-21.76,-15.89,-47.03,-51.75,-38.17,3135,-365.57,-349.6,-352.09,-750.72,Upgrade
+28,Preferred Dividends & Other Adjustments,-,0.92,-,-,-,-,-,-,-,-,Upgrade
+29,Net Income to Common,-21.76,-16.8,-47.03,-51.75,-38.17,3135,-365.57,-349.6,-352.09,-750.72,Upgrade
+30,Shares Outstanding (Basic),19143,19143,19143,18878,18682,16056,1868,1868,1868,1868,Upgrade
+31,Shares Outstanding (Diluted),19143,19143,19143,18878,18682,19533,1868,1868,1868,1868,Upgrade
+32,Shares Change (YoY),-,1.41%,2.47%,-3.35%,900.00%,945.57%,-,-0.00%,12.43%,19.13%,Upgrade
+33,EPS (Basic),-0.00,-0.00,-0.00,-0.00,-0.00,0.20,-0.20,-0.19,-0.19,-0.40,Upgrade
+34,EPS (Diluted),-0.00,-0.00,-0.00,-0.00,-0.00,0.16,-0.20,-0.19,-0.19,-0.41,Upgrade
+35,Free Cash Flow,-15.88,-5.64,-48.1,-21.1,-45.75,-34.81,143.36,124.65,-298.97,-36.61,Upgrade
+36,Free Cash Flow Per Share,-0.00,-0.00,-0.00,-0.00,-0.00,-0.00,0.08,0.07,-0.16,-0.02,Upgrade
+37,Operating Margin,-102.82%,-106.77%,-4741.33%,-,-438.64%,-,-,-,-,-,Upgrade
+38,Profit Margin,-123.70%,-121.03%,-4741.33%,-,-439.65%,-,-,-,-,-,Upgrade
+39,Free Cash Flow Margin,-90.23%,-40.64%,-4848.69%,-,-526.98%,-,-,-,-,-,Upgrade

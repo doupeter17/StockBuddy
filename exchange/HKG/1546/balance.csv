@@ -1,0 +1,46 @@
+,Fiscal Quarter,H1 2025,H2 2024,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,+1 Quarters
+,Period Ending,"Sep '24 Sep 30, 2024","Mar '24 Mar 31, 2024","Sep '23 Sep 30, 2023","Mar '23 Mar 31, 2023","Sep '22 Sep 30, 2022","Mar '22 Mar 31, 2022","Sep '21 Sep 30, 2021","Mar '21 Mar 31, 2021","Sep '20 Sep 30, 2020","Mar '20 Mar 31, 2020",+1 Quarters
+0,Cash & Equivalents,30.05,32.07,30.31,66.03,13.14,56.56,59.25,91.3,102.18,54.87,Upgrade
+1,Short-Term Investments,-,-,-,-,-,-,-,-,1.38,-,Upgrade
+2,Cash & Short-Term Investments,30.05,32.07,30.31,66.03,13.14,56.56,59.25,91.3,103.56,54.87,Upgrade
+3,Cash Growth,-0.84%,-51.44%,130.69%,16.75%,-77.83%,-38.06%,-42.78%,66.39%,-34.52%,-80.13%,Upgrade
+4,Accounts Receivable,120.38,88.04,70.62,84.56,70.85,26.06,34.17,15.92,41.37,49.93,Upgrade
+5,Other Receivables,11.1,10.58,3.81,3.79,6.3,7.43,3.1,3.64,1.59,12.34,Upgrade
+6,Receivables,131.47,98.62,74.43,88.35,107.15,33.5,37.27,19.56,42.96,62.26,Upgrade
+7,Prepaid Expenses,0.75,0.76,0.62,2.23,4.74,2.02,1.04,0.54,0.4,0.6,Upgrade
+8,Other Current Assets,4.09,3.61,4.96,5.18,4.68,2.47,3.54,2.01,1.04,7.13,Upgrade
+9,Total Current Assets,166.37,135.05,110.32,161.79,129.7,94.54,101.1,113.42,147.95,124.86,Upgrade
+10,"Property, Plant & Equipment",94.69,97.46,91.19,93.41,96.58,92.98,88.32,44.87,44.83,30.78,Upgrade
+11,Long-Term Investments,121.23,119.79,102.52,85.55,83.91,81.9,78.4,74.57,-,-,Upgrade
+12,Other Long-Term Assets,0.55,0.55,0.52,0.52,0.96,2.93,-,43.68,46.45,63.32,Upgrade
+13,Total Assets,382.83,352.85,304.55,341.27,311.15,272.35,267.82,276.54,239.23,218.97,Upgrade
+14,Accounts Payable,86.71,65.65,53.15,75.2,72.29,56.1,14.12,18.51,7.78,29.62,Upgrade
+15,Accrued Expenses,3.08,7.22,2.75,4.83,4.51,3.01,37.42,3.44,18.39,13.93,Upgrade
+16,Short-Term Debt,102.9,71,60,60,54,15,20,30,10,-,Upgrade
+17,Current Portion of Leases,2.13,2.19,2.29,2.85,3.44,3.41,2.45,1.72,0.64,1.45,Upgrade
+18,Current Income Taxes Payable,-,-,2.36,1.49,-,-,1.61,2.27,4.67,-,Upgrade
+19,Current Unearned Revenue,1,3.48,2.44,13.78,9.23,27.24,40.35,56.38,26.04,10.89,Upgrade
+20,Other Current Liabilities,28.85,31.24,18.48,19.18,12.67,14.19,15.26,19.56,39.31,39.72,Upgrade
+21,Total Current Liabilities,224.66,180.77,141.47,177.32,156.14,118.95,131.2,131.88,106.84,95.62,Upgrade
+22,Long-Term Leases,0.51,0.64,1.44,2.54,3.73,4.66,1.12,0.19,-,-,Upgrade
+23,Long-Term Unearned Revenue,1.26,1.26,-,-,-,-,-,-,-,-,Upgrade
+24,Long-Term Deferred Tax Liabilities,0.51,0.51,-,-,-,-,-,-,-,-,Upgrade
+25,Total Liabilities,226.95,183.17,142.91,179.87,159.87,123.61,132.32,132.07,106.84,95.62,Upgrade
+26,Common Stock,8,8,8,8,8,8,8,8,8,8,Upgrade
+27,Additional Paid-In Capital,42.49,42.49,42.49,42.49,42.49,42.49,42.49,42.49,42.49,42.49,Upgrade
+28,Retained Earnings,86.6,100.39,92.35,92.11,81.99,79.45,66.21,75.19,63.11,54.06,Upgrade
+29,Comprehensive Income & Other,18.8,18.8,18.8,18.8,18.8,18.8,18.8,18.8,18.8,18.8,Upgrade
+30,Shareholders' Equity,155.89,169.68,161.64,161.4,151.28,148.74,135.5,144.48,132.4,123.35,Upgrade
+31,Total Liabilities & Equity,382.83,352.85,304.55,341.27,311.15,272.35,267.82,276.54,239.23,218.97,Upgrade
+32,Total Debt,105.55,73.82,63.73,65.39,61.17,23.07,23.57,31.91,10.64,1.45,Upgrade
+33,Net Cash (Debt),-75.49,-41.75,-33.42,0.64,-48.04,33.49,35.68,59.39,92.92,53.42,Upgrade
+34,Net Cash Growth,-,-,-,-98.10%,-,-43.62%,-61.60%,11.18%,-40.39%,-80.30%,Upgrade
+35,Net Cash Per Share,-0.09,-0.05,-0.04,0.00,-0.06,0.04,0.04,0.07,0.12,0.07,Upgrade
+36,Filing Date Shares Outstanding,800,800,800,800,800,800,800,800,800,800,Upgrade
+37,Total Common Shares Outstanding,800,800,800,800,800,800,800,800,800,800,Upgrade
+38,Working Capital,-58.3,-45.72,-31.15,-15.54,-26.43,-24.41,-30.1,-18.46,41.12,29.25,Upgrade
+39,Book Value Per Share,0.19,0.21,0.20,0.20,0.19,0.19,0.17,0.18,0.17,0.15,Upgrade
+40,Tangible Book Value,155.89,169.68,161.64,161.4,151.28,148.74,135.5,144.48,132.4,123.35,Upgrade
+41,Tangible Book Value Per Share,0.19,0.21,0.20,0.20,0.19,0.19,0.17,0.18,0.17,0.15,Upgrade
+42,Machinery,-,11.32,-,5.87,-,5.51,-,3.29,-,3.08,Upgrade
+43,Leasehold Improvements,-,6.34,-,6.34,-,0.56,-,0.29,-,0.35,Upgrade

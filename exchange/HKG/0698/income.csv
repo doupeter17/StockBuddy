@@ -1,0 +1,45 @@
+,Fiscal Quarter,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,H1 2020,H2 2019,+2 Quarters
+,Period Ending,"Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022","Dec '21 Dec 31, 2021","Jun '21 Jun 30, 2021","Dec '20 Dec 31, 2020","Jun '20 Jun 30, 2020","Dec '19 Dec 31, 2019",+2 Quarters
+0,Revenue,2986,3690,2976,3933,4039,-,5115,5769,3990,5277,Upgrade
+1,Revenue Growth (YoY),0.35%,-6.17%,-26.33%,-,-21.04%,-,28.19%,9.32%,2.08%,11.12%,Upgrade
+2,Cost of Revenue,2361,3918,2387,3426,3316,-,4346,4665,3383,4426,Upgrade
+3,Gross Profit,624.84,-228.15,588.24,506.52,723.22,-,769.52,1103,607.22,851.04,Upgrade
+4,"Selling, General & Admin",687.79,789.62,533.69,688.45,544.08,-,676.24,672.27,513.58,593.37,Upgrade
+5,Other Operating Expenses,27.75,99.98,7.08,13.24,-0.61,-,13.2,8.49,18.47,-5.23,Upgrade
+6,Operating Expenses,715.53,889.6,540.77,701.69,543.47,-,689.44,680.76,532.05,588.15,Upgrade
+7,Operating Income,-90.7,-1118,47.47,-195.17,179.75,-,80.08,422.34,75.16,262.89,Upgrade
+8,Interest Expense,-75,-117.12,-86.65,-110.03,-55.15,-,-65.4,-86.68,-88.38,-104.64,Upgrade
+9,Interest & Investment Income,-,21.97,-,19.86,-,-,-,13.46,-,11.49,Upgrade
+10,Earnings From Equity Investments,-5.86,-1.15,1.66,-13.49,-16.77,-,-17.37,-3.73,-1.65,0.4,Upgrade
+11,Currency Exchange Gain (Loss),11.54,-14.95,4.37,-28.37,-33.68,-,0.09,31.93,-11.18,-85.83,Upgrade
+12,Other Non Operating Income (Expenses),70.58,32.15,79.76,33.11,62.01,-,92.86,30.52,63.71,17.79,Upgrade
+13,EBT Excluding Unusual Items,-89.44,-1197,46.6,-294.08,136.16,-,90.27,407.83,37.66,102.09,Upgrade
+14,Gain (Loss) on Sale of Investments,-,10.72,-,-,-,-,-,-,-,-,Upgrade
+15,Gain (Loss) on Sale of Assets,146.42,-11.08,-,402.03,-,-,-,-15.84,-,-5.37,Upgrade
+16,Asset Writedown,-,-5.34,-,-2.33,-,-,-,-,-,-,Upgrade
+17,Other Unusual Items,-,-25.46,-,-22.78,-,-,-,-,-,-,Upgrade
+18,Pretax Income,56.98,-1228,46.6,82.84,136.16,-,90.27,391.99,37.66,96.72,Upgrade
+19,Income Tax Expense,20.68,37.55,14.22,26.69,40.61,-,28.1,63.28,6.85,11.84,Upgrade
+20,Earnings From Continuing Operations,36.3,-1266,32.38,56.15,95.55,-,62.17,328.72,30.81,84.88,Upgrade
+21,Earnings From Discontinued Operations,-,28.25,-,52.65,-52.65,-,-,-,-,-,Upgrade
+22,Net Income to Company,36.3,-1237,32.38,108.8,42.9,-,62.17,328.72,30.81,84.88,Upgrade
+23,Minority Interest in Earnings,-23.45,-11.74,-13,-4.73,-9.69,-,-7.93,-6.4,-1.79,0.87,Upgrade
+24,Net Income,12.84,-1249,19.38,104.07,33.22,-,54.24,322.32,29.03,85.74,Upgrade
+25,Net Income to Common,12.84,-1249,19.38,104.07,33.22,-,54.24,322.32,29.03,85.74,Upgrade
+26,Net Income Growth,-33.73%,-,-41.67%,-,-38.76%,-,86.88%,275.90%,-90.81%,-30.78%,Upgrade
+27,Shares Outstanding (Basic),9736,9736,9724,9719,9719,-,6480,6480,6480,6480,Upgrade
+28,Shares Outstanding (Diluted),9736,9736,9724,9719,9719,-,6480,6480,6480,6480,Upgrade
+29,Shares Change (YoY),0.12%,0.17%,0.05%,-,50.00%,-,-,-,-,2.43%,Upgrade
+30,EPS (Basic),0.00,-0.13,0.00,0.01,0.00,-,0.01,0.05,0.00,0.01,Upgrade
+31,EPS (Diluted),0.00,-0.13,0.00,0.01,0.00,-,0.01,0.05,0.00,0.01,Upgrade
+32,EPS Growth,-34.79%,-,-41.12%,-,-59.59%,-,86.89%,275.75%,-90.80%,-32.42%,Upgrade
+33,Free Cash Flow,272.87,-436.26,-32.33,250.06,-165.82,-,-438.06,893.9,-197.01,1331,Upgrade
+34,Free Cash Flow Per Share,0.03,-0.04,-0.00,0.03,-0.02,-,-0.07,0.14,-0.03,0.21,Upgrade
+35,Dividend Per Share,-,-,-,-,-,-,-,-,-,0.001,Upgrade
+36,Dividend Growth,-,-,-,-,-,-,-,-,-,-93.75%,Upgrade
+37,Operating Margin,-3.04%,-30.29%,1.60%,-4.96%,4.45%,-,1.57%,7.32%,1.88%,4.98%,Upgrade
+38,Profit Margin,0.43%,-33.85%,0.65%,2.65%,0.82%,-,1.06%,5.59%,0.73%,1.62%,Upgrade
+39,Free Cash Flow Margin,9.14%,-11.82%,-1.09%,6.36%,-4.11%,-,-8.56%,15.50%,-4.94%,25.23%,Upgrade
+40,EBITDA,228.89,-742.46,462.45,284.69,586.73,-,478.75,774.59,341.6,489.66,Upgrade
+41,D&A For EBITDA,319.58,375.29,414.98,479.85,406.98,425.84,398.67,352.26,266.44,226.77,Upgrade
+42,EBIT,-90.7,-1118,47.47,-195.17,179.75,-,80.08,422.34,75.16,262.89,Upgrade

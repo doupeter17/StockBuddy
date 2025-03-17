@@ -1,0 +1,56 @@
+,Fiscal Quarter,H2 2024,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,H1 2020,+2 Quarters
+,Period Ending,"Dec '24 Dec 31, 2024","Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022","Dec '21 Dec 31, 2021","Jun '21 Jun 30, 2021","Dec '20 Dec 31, 2020","Jun '20 Jun 30, 2020",+2 Quarters
+0,Cash & Equivalents,659,544,865,432,596,911,1516,4098,1202,1873,Upgrade
+1,Short-Term Investments,-,-,-,-,90,-,1942,-,-,-,Upgrade
+2,Trading Asset Securities,-,-,-,-,-,-,-,1,2,1,Upgrade
+3,Cash & Short-Term Investments,659,544,865,432,686,911,3458,4099,1204,1874,Upgrade
+4,Cash Growth,-23.82%,25.93%,26.09%,-52.58%,-80.16%,-77.78%,187.21%,118.73%,-12.94%,165.82%,Upgrade
+5,Accounts Receivable,100,41,101,27,63,17,39,20,34,17,Upgrade
+6,Other Receivables,-,-,11,-,19,-,20,-,21,-,Upgrade
+7,Receivables,100,41,112,27,82,17,59,20,55,17,Upgrade
+8,Inventory,3572,3400,3341,2825,269,247,277,286,296,283,Upgrade
+9,Prepaid Expenses,127,125,91,101,115,116,437,428,427,471,Upgrade
+10,Restricted Cash,71,56,43,136,153,119,119,114,113,121,Upgrade
+11,Other Current Assets,8,8,9,506,506,504,504,504,504,506,Upgrade
+12,Total Current Assets,4537,4174,4461,4027,1811,1914,4854,5451,2599,3272,Upgrade
+13,"Property, Plant & Equipment",2228,2101,2374,2395,2563,2739,3122,3128,3367,3490,Upgrade
+14,Long-Term Investments,1,1,1,1,1,10,8,4,1,-,Upgrade
+15,Goodwill,3,3,4,3,4,4,4,5,5,5,Upgrade
+16,Long-Term Deferred Tax Assets,34,-,-,-,-,-,-,-,-,-,Upgrade
+17,Other Long-Term Assets,4064,3963,4185,4608,6911,6912,7058,6966,7021,6923,Upgrade
+18,Total Assets,10867,10242,11025,11034,11290,11579,15046,15554,12993,13690,Upgrade
+19,Accounts Payable,53,17,51,12,20,5,15,4,14,37,Upgrade
+20,Accrued Expenses,303,263,321,350,342,337,473,497,713,1027,Upgrade
+21,Short-Term Debt,-,-,497,-,615,597,2417,2449,807,805,Upgrade
+22,Current Portion of Long-Term Debt,835,624,34,1254,9,9,10,11,11,11,Upgrade
+23,Current Portion of Leases,24,21,25,30,22,22,25,21,27,42,Upgrade
+24,Current Income Taxes Payable,25,24,14,8,8,5,11,9,11,9,Upgrade
+25,Current Unearned Revenue,300,148,230,119,144,91,78,84,90,89,Upgrade
+26,Other Current Liabilities,-,-,-,339,335,334,334,334,330,327,Upgrade
+27,Total Current Liabilities,1540,1097,1172,2112,1495,1400,3363,3409,2003,2347,Upgrade
+28,Long-Term Debt,9006,8858,8910,7686,8350,8253,8880,8886,7385,7361,Upgrade
+29,Long-Term Leases,24,26,13,21,17,27,34,28,7,14,Upgrade
+30,Long-Term Unearned Revenue,12,20,30,-,-,6,16,26,34,46,Upgrade
+31,Long-Term Deferred Tax Liabilities,36,34,33,32,30,29,28,27,39,47,Upgrade
+32,Other Long-Term Liabilities,183,183,185,187,185,184,181,179,178,186,Upgrade
+33,Total Liabilities,10801,10218,10343,10038,10077,9899,12502,12555,9646,10001,Upgrade
+34,Common Stock,3802,3802,3802,3802,3802,3802,3802,3802,3438,2846,Upgrade
+35,Retained Earnings,-,-,-1040,-795,-574,-312,24,432,849,1345,Upgrade
+36,Comprehensive Income & Other,-3869,-3911,-2213,-2144,-2148,-1943,-1415,-1368,-1073,-635,Upgrade
+37,Total Common Equity,-67,-109,549,863,1080,1547,2411,2866,3214,3556,Upgrade
+38,Minority Interest,133,133,133,133,133,133,133,133,133,133,Upgrade
+39,Shareholders' Equity,66,24,682,996,1213,1680,2544,2999,3347,3689,Upgrade
+40,Total Liabilities & Equity,10867,10242,11025,11034,11290,11579,15046,15554,12993,13690,Upgrade
+41,Total Debt,9889,9529,9479,8991,9013,8908,11366,11395,8237,8233,Upgrade
+42,Net Cash (Debt),-9230,-8985,-8614,-8559,-8327,-7997,-7908,-7296,-7033,-6359,Upgrade
+43,Net Cash Per Share,-4.53,-4.41,-4.23,-4.20,-4.09,-3.92,-3.88,-3.95,-2.54,-15.81,Upgrade
+44,Filing Date Shares Outstanding,2038,2038,2038,2038,2038,2038,2038,2038,1587,402.19,Upgrade
+45,Total Common Shares Outstanding,2038,2038,2038,2038,2038,2038,2038,2038,1587,402.19,Upgrade
+46,Working Capital,2997,3077,3289,1915,316,514,1491,2042,596,925,Upgrade
+47,Book Value Per Share,-0.03,-0.05,0.27,0.42,0.53,0.76,1.18,1.41,2.02,8.84,Upgrade
+48,Tangible Book Value,-70,-112,545,860,1076,1543,2407,2861,3209,3551,Upgrade
+49,Tangible Book Value Per Share,-0.03,-0.05,0.27,0.42,0.53,0.76,1.18,1.40,2.02,8.83,Upgrade
+50,Land,-,-,237,-,239,-,256,-,276,-,Upgrade
+51,Buildings,-,-,2230,-,2336,-,2549,-,2558,-,Upgrade
+52,Machinery,-,-,599,-,607,-,663,-,579,-,Upgrade
+53,Construction In Progress,-,-,54,-,13,-,155,-,340,-,Upgrade

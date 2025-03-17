@@ -1,0 +1,36 @@
+,Fiscal Quarter,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022
+,Period Ending,"Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022"
+0,Revenue,106.09,142.12,113.84,123.28,103.24
+1,Revenue Growth (YoY),-6.80%,15.29%,10.27%,-,-
+2,Cost of Revenue,8.85,28.52,14.65,20.65,17.57
+3,Gross Profit,97.24,113.6,99.19,102.63,85.67
+4,"Selling, General & Admin",9.73,5.35,9.11,7.51,12.68
+5,Other Operating Expenses,2.66,3.38,0.91,0.5,1.22
+6,Operating Expenses,16.75,8.77,12.52,11.48,16.82
+7,Operating Income,80.49,104.83,86.67,91.15,68.84
+8,Interest Expense,-0.45,-0.55,-0.54,-0.57,-0.33
+9,Interest & Investment Income,1.68,0.06,0.15,0.05,0.05
+10,Currency Exchange Gain (Loss),1.39,-0.29,0.24,0,-0.05
+11,Other Non Operating Income (Expenses),-5.97,-7.98,-5.66,-3.14,-5.16
+12,EBT Excluding Unusual Items,77.13,96.07,80.86,87.48,63.36
+13,Merger & Restructuring Charges,-64.98,-90.65,-63.2,-71.51,-50.09
+14,Gain (Loss) on Sale of Assets,-,-,-,0.02,0
+15,Pretax Income,12.15,5.42,17.66,16,13.27
+16,Income Tax Expense,1.43,-0.32,3,1.11,3.9
+17,Net Income,10.72,5.74,14.66,14.89,9.37
+18,Net Income to Common,10.72,5.74,14.66,14.89,9.37
+19,Net Income Growth,-26.86%,-61.45%,56.42%,-,-
+20,Shares Outstanding (Basic),492,375,375,-,-
+21,Shares Outstanding (Diluted),492,375,375,-,-
+22,Shares Change (YoY),31.32%,-,-,-,-
+23,EPS (Basic),0.02,0.02,0.04,-,-
+24,EPS (Diluted),0.02,0.02,0.04,-,-
+25,EPS Growth,-44.31%,-,-,-,-
+26,Free Cash Flow,-23.48,-0.47,6.43,20.06,-4.34
+27,Free Cash Flow Per Share,-0.05,-0.00,0.02,-,-
+28,Operating Margin,75.86%,73.76%,76.13%,73.94%,66.68%
+29,Profit Margin,10.11%,4.04%,12.88%,12.08%,9.08%
+30,Free Cash Flow Margin,-22.14%,-0.33%,5.65%,16.27%,-4.20%
+31,EBITDA,81.49,105.43,87.89,91.92,69.62
+32,D&A For EBITDA,1.01,0.59,1.22,0.77,0.78
+33,EBIT,80.49,104.83,86.67,91.15,68.84

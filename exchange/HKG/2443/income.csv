@@ -1,0 +1,34 @@
+,Fiscal Quarter,Q2 2024,Q1 2024,Q2 2023,Q1 2023
+,Period Ending,"Jun '24 Jun 30, 2024","Mar '24 Mar 31, 2024","Jun '23 Jun 30, 2023","Mar '23 Mar 31, 2023"
+0,Revenue,95.65,95.65,113.14,113.14
+1,Cost of Revenue,33.8,33.8,40.54,40.54
+2,Gross Profit,61.85,61.85,72.6,72.6
+3,"Selling, General & Admin",58.4,58.4,56.96,56.96
+4,Operating Expenses,58.4,58.4,56.96,56.96
+5,Operating Income,3.45,3.45,15.65,15.65
+6,Interest Expense,-1.64,-1.64,-1.37,-1.37
+7,Earnings From Equity Investments,-,-,0.15,0.15
+8,Other Non Operating Income (Expenses),-69.69,-69.69,-28.11,-28.11
+9,EBT Excluding Unusual Items,-67.89,-67.89,-13.68,-13.68
+10,Gain (Loss) on Sale of Investments,0.02,0.02,-,-
+11,Pretax Income,-67.86,-67.86,-13.68,-13.68
+12,Income Tax Expense,3.25,3.25,3.75,3.75
+13,Earnings From Continuing Operations,-71.12,-71.12,-17.44,-17.44
+14,Minority Interest in Earnings,-2.69,-2.69,-7.51,-7.51
+15,Net Income,-73.8,-73.8,-24.94,-24.94
+16,Net Income to Common,-73.8,-73.8,-24.94,-24.94
+17,Shares Outstanding (Basic),774,774,372,372
+18,Shares Outstanding (Diluted),774,774,372,372
+19,EPS (Basic),-0.10,-0.10,-0.07,-0.07
+20,EPS (Diluted),-0.10,-0.10,-0.07,-0.07
+21,Free Cash Flow,-32.24,-32.24,14.67,14.67
+22,Free Cash Flow Per Share,-0.04,-0.04,0.04,0.04
+23,Gross Margin,64.66%,64.66%,64.17%,64.17%
+24,Operating Margin,3.60%,3.60%,13.83%,13.83%
+25,Profit Margin,-77.16%,-77.16%,-22.05%,-22.05%
+26,Free Cash Flow Margin,-33.71%,-33.71%,12.97%,12.97%
+27,EBITDA,4.89,4.89,16.6,16.6
+28,EBITDA Margin,5.11%,5.11%,14.67%,14.67%
+29,D&A For EBITDA,1.44,1.44,0.95,0.95
+30,EBIT,3.45,3.45,15.65,15.65
+31,EBIT Margin,3.60%,3.60%,13.83%,13.83%

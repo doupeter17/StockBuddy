@@ -1,0 +1,50 @@
+,Fiscal Quarter,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,H1 2020,H2 2019,+2 Quarters
+,Period Ending,"Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022","Dec '21 Dec 31, 2021","Jun '21 Jun 30, 2021","Dec '20 Dec 31, 2020","Jun '20 Jun 30, 2020","Dec '19 Dec 31, 2019",+2 Quarters
+0,Cash & Equivalents,844,1910,814,3087,560,1414,5106,5251,5536,5416,Upgrade
+1,Short-Term Investments,2786,1774,2904,613,3199,2561,-,-,-,-,Upgrade
+2,Cash & Short-Term Investments,3630,3684,3718,3700,3759,3975,5106,5251,5536,5416,Upgrade
+3,Cash Growth,-2.37%,-0.43%,-1.09%,-6.92%,-26.38%,-24.30%,-7.77%,-3.05%,3.42%,-43.32%,Upgrade
+4,Accounts Receivable,565,546,499,511,471,466,385,482,482,501,Upgrade
+5,Other Receivables,118,104,113,75,61,35,59,75,97,101,Upgrade
+6,Receivables,683,650,612,586,532,501,444,557,579,602,Upgrade
+7,Inventory,72,103,69,100,59,96,102,92,69,55,Upgrade
+8,Prepaid Expenses,454,408,458,391,450,405,456,523,345,202,Upgrade
+9,Total Current Assets,4839,4845,4857,4777,4800,4977,6108,6423,6529,6275,Upgrade
+10,"Property, Plant & Equipment",3414,3495,3478,3498,3419,3468,3194,3091,2816,2761,Upgrade
+11,Long-Term Investments,102,109,135,157,185,215,257,282,307,336,Upgrade
+12,Goodwill,2155,2155,2155,2155,2155,2155,2155,2155,2155,2155,Upgrade
+13,Other Intangible Assets,3247,3452,3656,3852,4029,4065,2672,2319,2459,2380,Upgrade
+14,Long-Term Accounts Receivable,115,149,134,152,153,159,129,148,159,173,Upgrade
+15,Long-Term Deferred Tax Assets,1,1,4,4,3,4,43,86,129,169,Upgrade
+16,Other Long-Term Assets,355,354,331,361,387,403,328,310,243,227,Upgrade
+17,Total Assets,14228,14560,14750,14956,15131,15446,14886,14814,14797,14476,Upgrade
+18,Accounts Payable,142,174,197,197,158,133,177,221,303,325,Upgrade
+19,Accrued Expenses,186,184,181,144,177,131,95,60,88,73,Upgrade
+20,Current Portion of Leases,334,312,316,305,310,289,336,335,342,300,Upgrade
+21,Current Income Taxes Payable,3,2,3,1,-,-,-,-,3,24,Upgrade
+22,Current Unearned Revenue,232,212,185,162,157,163,164,183,175,142,Upgrade
+23,Other Current Liabilities,1205,1279,1249,1308,1234,1429,1126,1214,1148,1111,Upgrade
+24,Total Current Liabilities,2102,2163,2131,2117,2036,2145,1898,2013,2059,1975,Upgrade
+25,Long-Term Leases,168,170,210,151,150,128,171,189,221,129,Upgrade
+26,Long-Term Deferred Tax Liabilities,150,120,73,48,22,-,-,-,-,-,Upgrade
+27,Other Long-Term Liabilities,2211,2247,2338,2371,2455,2358,990,565,589,409,Upgrade
+28,Total Liabilities,4633,4702,4752,4687,4663,4631,3059,2767,2869,2513,Upgrade
+29,Common Stock,1205,1205,1205,1205,1205,1205,1205,1205,1205,1205,Upgrade
+30,Additional Paid-In Capital,11185,11185,11185,11185,11185,11185,11185,11185,11185,11185,Upgrade
+31,Retained Earnings,-2746,-2483,-2340,-2071,-1899,-1552,-461,-241,-346,-286,Upgrade
+32,Comprehensive Income & Other,-49,-49,-52,-50,-23,-23,-102,-102,-116,-141,Upgrade
+33,Total Common Equity,9595,9858,9998,10269,10468,10815,11827,12047,11928,11963,Upgrade
+34,Shareholders' Equity,9595,9858,9998,10269,10468,10815,11827,12047,11928,11963,Upgrade
+35,Total Liabilities & Equity,14228,14560,14750,14956,15131,15446,14886,14814,14797,14476,Upgrade
+36,Total Debt,502,482,526,456,460,417,507,524,563,429,Upgrade
+37,Net Cash (Debt),3128,3202,3192,3244,3299,3558,4599,4727,4973,4987,Upgrade
+38,Net Cash Growth,-2.01%,-1.29%,-3.24%,-8.83%,-28.27%,-24.73%,-7.52%,-5.21%,1.93%,-47.81%,Upgrade
+39,Net Cash Per Share,0.65,0.66,0.66,0.67,0.68,0.74,0.95,0.98,1.03,1.03,Upgrade
+40,Filing Date Shares Outstanding,4819,4819,4819,4819,4819,4819,4819,4819,4819,4819,Upgrade
+41,Total Common Shares Outstanding,4819,4819,4819,4819,4819,4819,4819,4819,4819,4819,Upgrade
+42,Working Capital,2737,2682,2726,2660,2764,2832,4210,4410,4470,4300,Upgrade
+43,Book Value Per Share,1.99,2.05,2.07,2.13,2.17,2.24,2.45,2.50,2.48,2.48,Upgrade
+44,Tangible Book Value,4193,4251,4187,4262,4284,4595,7000,7573,7314,7428,Upgrade
+45,Tangible Book Value Per Share,0.87,0.88,0.87,0.88,0.89,0.95,1.45,1.57,1.52,1.54,Upgrade
+46,Buildings,-,87,-,87,-,87,-,87,-,87,Upgrade
+47,Construction In Progress,-,280,-,253,-,330,-,305,-,260,Upgrade

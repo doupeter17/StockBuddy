@@ -1,0 +1,51 @@
+,Fiscal Quarter,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,H1 2020,H2 2019,+2 Quarters
+,Period Ending,"Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022","Dec '21 Dec 31, 2021","Jun '21 Jun 30, 2021","Dec '20 Dec 31, 2020","Jun '20 Jun 30, 2020","Dec '19 Dec 31, 2019",+2 Quarters
+0,Cash & Equivalents,997.33,1779,1750,1004,920.53,741.32,596.98,386.47,583.03,448.55,Upgrade
+1,Short-Term Investments,-,6.31,-,6.66,-,11.76,-,28.17,-,28.54,Upgrade
+2,Cash & Short-Term Investments,997.33,1786,1750,1011,920.53,753.08,596.98,414.64,583.03,477.1,Upgrade
+3,Cash Growth,-43.00%,76.70%,90.08%,34.19%,54.20%,81.62%,2.39%,-13.09%,46.75%,9.67%,Upgrade
+4,Accounts Receivable,1824,1840,2544,2420,3176,3253,2833,2718,2422,2497,Upgrade
+5,Other Receivables,-,302.01,-,130.37,-,252.7,-,297.99,-,226.33,Upgrade
+6,Receivables,1937,2257,2713,2791,3347,3667,2992,3117,2440,2739,Upgrade
+7,Inventory,-,-,-,-,-,-,3,176.1,7.63,4.88,Upgrade
+8,Prepaid Expenses,724.96,380.08,909.71,841.41,736.08,403.14,725.42,26.53,747.42,503.55,Upgrade
+9,Other Current Assets,179.57,374.59,472.2,1299,1324,495.59,382.69,549.76,529.48,481.72,Upgrade
+10,Total Current Assets,3839,4797,5844,5941,6328,5319,4700,4284,4307,4206,Upgrade
+11,"Property, Plant & Equipment",6607,6084,3342,3286,2888,2319,2402,2451,1469,974.51,Upgrade
+12,Long-Term Investments,51.32,46.03,43.77,36.79,36.86,35.53,167.65,161.9,140.84,138.87,Upgrade
+13,Long-Term Accounts Receivable,227.47,240.5,168.05,15.26,118.59,142.64,160.17,239.1,245.82,333.93,Upgrade
+14,Other Long-Term Assets,157.03,259.14,98.8,111.77,-,153.24,-,117.88,-,-,Upgrade
+15,Total Assets,10891,11437,9508,9419,9385,7984,7448,7273,6191,5686,Upgrade
+16,Accounts Payable,1392,1526,1467,1530,2306,2651,2284,2295,1438,1890,Upgrade
+17,Accrued Expenses,-,41.18,-,31.48,-,30.04,-,26.02,-,37.92,Upgrade
+18,Short-Term Debt,1344,1667,2371,2221,1803,1000,1135,1004,1454,906.68,Upgrade
+19,Current Portion of Long-Term Debt,317.89,399.48,499.78,425.63,512.17,617.29,654.71,610.98,833.01,893.69,Upgrade
+20,Current Portion of Leases,23.28,22.95,17.13,14.93,7.2,5.05,4.89,5.46,5.22,4.34,Upgrade
+21,Current Income Taxes Payable,8.83,13.61,9.1,15.51,8.28,15.16,8.81,5.64,7.88,13.12,Upgrade
+22,Current Unearned Revenue,104.78,235.43,388.74,614.95,325.38,114.8,85.47,84.74,72.62,45.38,Upgrade
+23,Other Current Liabilities,111.81,66.22,159.34,313.18,269.15,272.45,230.21,226.73,270.04,171.34,Upgrade
+24,Total Current Liabilities,3302,3972,4912,5166,5231,4706,4403,4259,4081,3963,Upgrade
+25,Long-Term Debt,5436,5384,2719,2390,2400,1994,1857,1880,1162,784.72,Upgrade
+26,Long-Term Leases,313.34,305.67,212.72,168.76,25.42,5.75,0.18,1.78,4.35,2.23,Upgrade
+27,Long-Term Deferred Tax Liabilities,3.91,1.8,-,-,-,-,5.75,5.69,-,-,Upgrade
+28,Total Liabilities,9056,9663,7844,7725,7656,6706,6266,6146,5247,4749,Upgrade
+29,Common Stock,185.2,185.2,185.2,185.2,185.2,131.31,131.31,131.31,131.31,131.31,Upgrade
+30,Additional Paid-In Capital,415.09,415.09,415.09,415.09,415.09,1527,1527,1527,1527,1527,Upgrade
+31,Retained Earnings,1325,1254,1207,1146,1099,-473.38,-543.07,-579.28,-608.01,-636.35,Upgrade
+32,Comprehensive Income & Other,-131.19,-116.06,-163.36,-86.37,-15.91,49.54,42.6,27.53,-119.41,-93.49,Upgrade
+33,Total Common Equity,1794,1738,1644,1660,1683,1235,1158,1107,931.18,928.76,Upgrade
+34,Minority Interest,40.92,35.74,20.35,33.35,45.65,42.9,23.77,19.98,12.51,8.12,Upgrade
+35,Shareholders' Equity,1835,1774,1664,1693,1729,1278,1182,1127,943.69,936.88,Upgrade
+36,Total Liabilities & Equity,10891,11437,9508,9419,9385,7984,7448,7273,6191,5686,Upgrade
+37,Total Debt,7435,7780,5820,5221,4748,3622,3652,3502,3459,2592,Upgrade
+38,Net Cash (Debt),-6437,-5994,-4070,-4210,-3827,-2869,-3055,-3087,-2876,-2115,Upgrade
+39,Net Cash Per Share,-3.48,-3.24,-2.20,-2.27,-2.61,-,-2.33,-,-2.19,-1.61,Upgrade
+40,Filing Date Shares Outstanding,1852,1852,1852,1852,1852,1313,1313,1313,1313,1313,Upgrade
+41,Total Common Shares Outstanding,1852,1852,1852,1852,1852,1313,1313,1313,1313,1313,Upgrade
+42,Working Capital,536.91,825.19,932.33,775.04,1097,612.54,296.91,25.74,226.65,243.56,Upgrade
+43,Book Value Per Share,0.97,0.94,0.89,0.90,0.91,0.94,0.88,0.84,0.71,0.71,Upgrade
+44,Tangible Book Value,1794,1738,1644,1660,1683,1235,1158,1107,931.18,928.76,Upgrade
+45,Tangible Book Value Per Share,0.97,0.94,0.89,0.90,0.91,0.94,0.88,0.84,0.71,0.71,Upgrade
+46,Buildings,-,-,-,-,-,-,-,42.97,-,21.01,Upgrade
+47,Machinery,-,4506,-,3544,-,2705,-,2292,-,1041,Upgrade
+48,Construction In Progress,-,1977,-,123.31,-,43.55,-,395.66,-,46.06,Upgrade

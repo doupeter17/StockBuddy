@@ -1,0 +1,38 @@
+,Fiscal Quarter,Q1 2022,Q4 2021,Q1 2021,Q4 2020
+,Period Ending,"Mar '22 Mar 31, 2022","Dec '21 Dec 31, 2021","Mar '21 Mar 31, 2021","Dec '20 Dec 31, 2020"
+0,Revenue,863478,1306747,1040619,1349751
+1,Cost of Revenue,246504,578374,354371,439197
+2,Gross Profit,616974,728373,686248,910554
+3,"Selling, General & Admin",323006,623133,239272,387251
+4,Operating Expenses,323006,623133,239272,387251
+5,Operating Income,293968,105240,446976,523303
+6,Interest Expense,-26856,-22862,-11959,-7728
+7,Interest & Investment Income,10252,14012,7919,7421
+8,Other Non Operating Income (Expenses),13277,-49162,572.37,-34516
+9,EBT Excluding Unusual Items,290640,47229,443509,488480
+10,Other Unusual Items,-,402.22,-,43015
+11,Pretax Income,290640,47631,443509,531495
+12,Income Tax Expense,71973,68168,100752,115166
+13,Earnings From Continuing Operations,218667,-20537,342757,416329
+14,Minority Interest in Earnings,-94912,-8229,-140848,-85384
+15,Net Income,123756,-28765,201909,330946
+16,Preferred Dividends & Other Adjustments,-,-,-,20281
+17,Net Income to Common,123756,-28765,201909,310665
+18,Shares Outstanding (Basic),574,574,517,517
+19,Shares Outstanding (Diluted),574,574,517,517
+20,EPS (Basic),215.56,-50.10,390.66,601.08
+21,EPS (Diluted),215.25,-50.10,390.57,600.84
+22,Free Cash Flow,-552640,-,145222,-
+23,Free Cash Flow Per Share,-962.60,-,280.98,-
+24,Gross Margin,71.45%,55.74%,65.95%,67.46%
+25,Operating Margin,34.04%,8.05%,42.95%,38.77%
+26,Profit Margin,14.33%,-2.20%,19.40%,23.02%
+27,Free Cash Flow Margin,-64.00%,-,13.96%,-
+28,EBITDA,304828,115163,457056,529640
+29,EBITDA Margin,35.30%,8.81%,43.92%,39.24%
+30,D&A For EBITDA,10860,9923,10080,6337
+31,EBIT,293968,105240,446976,523303
+32,EBIT Margin,34.04%,8.05%,42.95%,38.77%
+33,Effective Tax Rate,24.76%,143.12%,22.72%,21.67%
+34,Revenue as Reported,863478,1306747,1040619,1349751
+35,Advertising Expenses,47614,-,21.65,-

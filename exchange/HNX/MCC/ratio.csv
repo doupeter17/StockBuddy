@@ -1,0 +1,16 @@
+,Fiscal Quarter,Current,Q4 2024,Q3 2024,Q4 2023,Q3 2023,Q4 2020,Q4 2019,Q4 2017,Q4 2016
+,Period Ending,"Dec '24 Dec 23, 2024","Dec '24 Dec 31, 2024","Sep '24 Sep 30, 2024","Dec '23 Dec 31, 2023","Sep '23 Sep 30, 2023","Dec '20 Dec 31, 2020","Dec '19 Dec 31, 2019","Dec '17 Dec 31, 2017","Dec '16 Dec 31, 2016"
+0,Last Close Price,12500.00,12500.00,11520.00,11520.00,11616.00,12790.02,10080.07,10536.68,11336.47
+1,Debt / Equity Ratio,0.05,0.05,0.07,0.06,-,0.05,-,0.12,-
+2,Debt / FCF Ratio,0.73,0.59,-,1.57,-,-,-,-,-
+3,Asset Turnover,0.23,-,-,-,-,-,-,-,
+4,Inventory Turnover,1.31,1.19,-,-,-,-,-,-,-
+5,Quick Ratio,0.48,0.48,0.50,0.41,-,0.22,-,0.45,-
+6,Current Ratio,1.14,1.14,1.22,1.20,-,1.45,-,1.22,-
+7,Return on Equity (ROE),4.19%,-,-,-,-,-,-,-,
+8,Return on Assets (ROA),3.12%,-,-,-,-,-,-,-,
+9,Return on Capital (ROIC),3.48%,-,-,-,-,-,-,-,
+10,Return on Capital Employed (ROCE),4.57%,2.12%,1.20%,-,-,8.98%,-,5.04%,-
+11,Payout Ratio,165.62%,347.19%,-,-,-,-,-,-,-
+12,Buyback Yield / Dilution,52.09%,10.16%,4.25%,4.15%,-,-,-,-,
+13,Total Shareholder Return,3.84%,52.09%,10.16%,4.25%,4.15%,-,-,-,-

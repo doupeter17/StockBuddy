@@ -1,0 +1,36 @@
+,Fiscal Quarter,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H1 2021
+,Period Ending,"Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022","May '21 May 31, 2021"
+0,Revenue,31.05,263.81,176.74,239.65,84.32,53.1
+1,Revenue Growth (YoY),-82.43%,10.08%,109.62%,351.36%,-,-
+2,Cost of Revenue,29.73,207.18,149.54,174,54.41,35.81
+3,Gross Profit,1.33,56.62,27.2,65.65,29.9,17.29
+4,"Selling, General & Admin",26.97,26.43,15.26,31.15,20.58,8.09
+5,Other Operating Expenses,-,-,-,-,-,0.31
+6,Operating Expenses,33.45,34.69,17,39.27,24.65,10.9
+7,Operating Income,-32.12,21.93,10.2,26.38,5.25,6.39
+8,Interest Expense,-0.12,-0.1,-0.13,-,-0.27,-0.23
+9,Interest & Investment Income,0.29,0.15,0.56,0.38,0.16,0.1
+10,Currency Exchange Gain (Loss),0.05,-1,1.52,-0.02,0.33,-0.64
+11,Other Non Operating Income (Expenses),1.17,1.4,-0.2,0.51,0.44,1.27
+12,EBT Excluding Unusual Items,-30.74,22.38,11.95,27.26,5.92,6.88
+13,Gain (Loss) on Sale of Assets,-,-,-,-,0.06,-
+14,Other Unusual Items,-,0.02,0.1,-,-,-
+15,Pretax Income,-30.74,22.41,12.05,27.26,5.98,6.88
+16,Income Tax Expense,-,7.21,1.76,4.77,-0.04,0.56
+17,Net Income,-30.74,15.2,10.29,22.49,6.02,6.32
+18,Net Income to Common,-30.74,15.2,10.29,22.49,6.02,6.32
+19,Net Income Growth,-,-32.40%,71.06%,255.99%,-,-
+20,Shares Outstanding (Basic),214,214,225,193,189,632
+21,Shares Outstanding (Diluted),214,215,226,193,189,632
+22,Shares Change (YoY),-5.25%,11.52%,19.69%,-69.46%,-,-
+23,EPS (Basic),-0.14,0.07,0.05,0.12,0.03,0.01
+24,EPS (Diluted),-0.14,0.07,0.05,0.12,0.03,0.01
+25,EPS Growth,-,-39.40%,43.08%,1065.51%,-,-
+26,Free Cash Flow,-18.13,-8.62,-33.35,-3.01,2.51,-0.67
+27,Free Cash Flow Per Share,-0.08,-0.04,-0.15,-0.02,0.01,-0.00
+28,Operating Margin,-103.46%,8.31%,5.77%,11.01%,6.23%,12.03%
+29,Profit Margin,-99.01%,5.76%,5.82%,9.38%,7.14%,11.90%
+30,Free Cash Flow Margin,-58.40%,-3.27%,-18.87%,-1.25%,2.98%,-1.27%
+31,EBITDA,-31.32,22.78,10.94,27.02,5.96,6.81
+32,D&A For EBITDA,0.81,0.85,0.73,0.64,0.71,0.42
+33,EBIT,-32.12,21.93,10.2,26.38,5.25,6.39

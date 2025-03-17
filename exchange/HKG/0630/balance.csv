@@ -1,0 +1,47 @@
+,Fiscal Quarter,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,H1 2020,H2 2019,+2 Quarters
+,Period Ending,"Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022","Dec '21 Dec 31, 2021","Jun '21 Jun 30, 2021","Dec '20 Dec 31, 2020","Jun '20 Jun 30, 2020","Dec '19 Dec 31, 2019",+2 Quarters
+0,Cash & Equivalents,4.59,7.72,10.84,3.72,1.31,4.72,3.83,4.13,27.66,12.29,Upgrade
+1,Short-Term Investments,5.18,8.81,0.33,1.64,4.47,0.29,6.88,0.38,-,0.59,Upgrade
+2,Trading Asset Securities,25.32,45.47,23.89,36.03,28.3,42.59,36.12,23.97,12.67,14.28,Upgrade
+3,Cash & Short-Term Investments,35.08,61.99,35.06,41.39,34.07,47.6,46.83,28.48,40.33,27.15,Upgrade
+4,Cash Growth,0.07%,49.78%,2.91%,-13.05%,-27.24%,67.15%,16.10%,4.88%,20.74%,-38.53%,Upgrade
+5,Accounts Receivable,14.7,18.19,26.3,34.99,3.45,10,15.92,29.86,12.63,12.75,Upgrade
+6,Other Receivables,-,-,-,-,-,0.49,-,5.67,-,6.67,Upgrade
+7,Receivables,89.41,99.46,120.58,125.1,117.83,110.67,125.82,144.75,123.22,152.12,Upgrade
+8,Inventory,9.04,7.26,0.43,0,0,0,-,0.03,0.03,0.03,Upgrade
+9,Prepaid Expenses,-,-,-,-,-,1.84,-,0.83,-,1.07,Upgrade
+10,Other Current Assets,-,-,-,-,-,1.89,-,2.54,7.17,6.78,Upgrade
+11,Total Current Assets,133.53,168.72,156.07,166.49,151.91,162,172.65,176.63,170.75,187.15,Upgrade
+12,"Property, Plant & Equipment",-,-,0.93,1.07,1.11,1.36,-,0.28,1.32,2.19,Upgrade
+13,Long-Term Investments,-,-,5.27,5.27,21.42,21.42,35.85,35.85,-,-,Upgrade
+14,Other Intangible Assets,-,-,-,-,-,-,-,-,1.41,3.47,Upgrade
+15,Total Assets,133.53,168.72,162.27,172.84,174.44,184.78,208.5,212.76,173.48,192.82,Upgrade
+16,Accounts Payable,46.8,53.67,58.42,61.01,4.45,10.8,28.15,28.97,5.5,6.89,Upgrade
+17,Accrued Expenses,9.74,12.63,21.83,22.84,8.14,9.11,16.1,6.54,5.2,5.72,Upgrade
+18,Current Portion of Long-Term Debt,-,-,-,-,1.67,33.67,32.15,-,-,-,Upgrade
+19,Current Portion of Leases,-,-,0.22,0.22,0.22,0.22,0.29,0.41,1.32,1.35,Upgrade
+20,Current Unearned Revenue,-,0.01,5,5.01,5.01,5.01,-,-,-,0.05,Upgrade
+21,Other Current Liabilities,10.16,10.16,10.16,10.16,10.72,10.72,1.72,11.06,11.45,40.56,Upgrade
+22,Total Current Liabilities,66.7,76.46,95.63,99.23,30.19,69.51,78.41,46.99,23.47,54.57,Upgrade
+23,Long-Term Debt,30.9,30.9,30,30.9,50,-,-,33.67,32.16,30.67,Upgrade
+24,Long-Term Leases,-,-,0.1,0.22,0.33,0.44,-,0.01,0.2,0.72,Upgrade
+25,Long-Term Deferred Tax Liabilities,-,-,-,-,-,-,-,-,0.23,0.57,Upgrade
+26,Other Long-Term Liabilities,-,-,-,23.9,-,-,-,-,-,-,Upgrade
+27,Total Liabilities,97.6,107.36,125.74,154.25,80.52,69.95,78.41,80.66,56.06,86.53,Upgrade
+28,Common Stock,48.38,48.38,48.38,24.19,24.19,24.19,24.19,24.19,20.49,18.63,Upgrade
+29,Additional Paid-In Capital,480.64,480.64,480.64,457.23,457.23,457.23,457.23,457.23,423.93,402.91,Upgrade
+30,Retained Earnings,-507.36,-481.93,-508.85,-479.18,-405.13,-378.68,-361.82,-360.57,-337.41,-325.6,Upgrade
+31,Comprehensive Income & Other,14.28,14.28,16.37,16.35,17.62,12.08,10.48,11.24,10.41,10.35,Upgrade
+32,Shareholders' Equity,35.93,61.36,36.54,18.59,93.92,114.82,130.09,132.09,117.42,106.29,Upgrade
+33,Total Liabilities & Equity,133.53,168.72,162.27,172.84,174.44,184.78,208.5,212.76,173.48,192.82,Upgrade
+34,Total Debt,30.9,30.9,30.33,31.34,52.21,34.32,32.44,34.09,33.68,32.74,Upgrade
+35,Net Cash (Debt),4.18,31.09,4.73,10.05,-18.14,13.28,14.38,-5.61,6.66,-5.59,Upgrade
+36,Net Cash Growth,-11.62%,209.33%,-,-24.31%,-,-,116.08%,-,-,-,Upgrade
+37,Net Cash Per Share,0.00,-,0.01,-,-0.04,0.03,0.03,-0.01,0.02,-0.02,Upgrade
+38,Filing Date Shares Outstanding,967.55,967.55,967.55,483.78,483.78,483.78,483.78,483.78,409.78,372.54,Upgrade
+39,Total Common Shares Outstanding,967.55,967.55,967.55,483.78,483.78,483.78,483.78,483.78,409.78,372.54,Upgrade
+40,Working Capital,66.83,92.26,60.44,67.26,121.72,92.49,94.24,129.64,147.28,132.59,Upgrade
+41,Book Value Per Share,0.04,0.06,0.04,0.04,0.19,0.24,0.27,0.27,0.29,0.29,Upgrade
+42,Tangible Book Value,35.93,61.36,36.54,18.59,93.92,114.82,130.09,132.09,116.01,102.82,Upgrade
+43,Tangible Book Value Per Share,0.04,0.06,0.04,0.04,0.19,0.24,0.27,0.27,0.28,0.28,Upgrade
+44,Machinery,-,9.93,-,9.93,-,9.93,-,10.55,-,10.55,Upgrade

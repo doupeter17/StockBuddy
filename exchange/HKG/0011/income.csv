@@ -1,0 +1,40 @@
+,Fiscal Quarter,H2 2024,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,H1 2020,+2 Quarters
+,Period Ending,"Dec '24 Dec 31, 2024","Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022","Dec '21 Dec 31, 2021","Jun '21 Jun 30, 2021","Dec '20 Dec 31, 2020","Jun '20 Jun 30, 2020",+2 Quarters
+0,Interest Income on Loans,30451,30826,30932,28507,21874,12908,14085,13945,14990,20020,Upgrade
+1,Interest Income on Investments,201,6,237,16,200,25,419,234,430,414,Upgrade
+2,Total Interest Income,30652,30832,31169,28523,22074,12933,14504,14179,15420,20434,Upgrade
+3,Interest Paid on Deposits,15150,15343,13828,13316,7015,2216,2394,2291,3155,5636,Upgrade
+4,Net Interest Income,15502,15489,17341,15207,15059,10717,12110,11888,12265,14798,Upgrade
+5,Net Interest Income Growth (YoY),-10.60%,1.85%,15.15%,41.90%,24.35%,-9.85%,-1.26%,-19.66%,-25.25%,-7.45%,Upgrade
+6,Gain (Loss) on Sale of Assets,-4,-5,-6,-1,-12,-3,-38,-10,-13,-6,Upgrade
+7,Gain (Loss) on Sale of Investments,39,14,-5,2,43,42,58,148,-30,20,Upgrade
+8,Other Non-Interest Income,5569,4933,3552,4732,5235,3318,4045,5169,4683,2269,Upgrade
+9,Total Non-Interest Income,5604,4942,3541,4733,5266,3357,4065,5307,4640,2283,Upgrade
+10,Non-Interest Income Growth (YoY),58.26%,4.42%,-32.76%,40.99%,29.54%,-36.74%,-12.39%,132.46%,61.06%,-37.89%,Upgrade
+11,Revenues Before Loan Losses,21106,20431,20882,19940,20325,14074,16175,17195,16905,17081,Upgrade
+12,Provision for Loan Losses,3273,1500,4324,1924,5594,2100,2468,339,978,1760,Upgrade
+13,Revenue,17833,18931,16558,18016,14731,11974,13707,16856,15927,15321,Upgrade
+14,Revenue Growth (YoY),7.70%,5.08%,12.40%,50.46%,7.47%,-28.96%,-13.94%,10.02%,-11.33%,-20.02%,Upgrade
+15,Salaries and Employee Benefits,2859,3024,2807,2952,2931,2943,3110,3165,2974,3090,Upgrade
+16,Occupancy Expenses,1001,962,961,954,965,1009,1036,1030,1047,1039,Upgrade
+17,Amortization of Goodwill & Intangibles,608,562,496,438,380,322,262,210,166,131,Upgrade
+18,"Selling, General & Administrative",3202,2975,3204,2812,2703,2542,2972,2349,2725,2033,Upgrade
+19,Total Non-Interest Expense,7681,7473,7379,7052,6954,6851,7344,6718,6900,6380,Upgrade
+20,EBT Excluding Unusual Items,10152,11458,9179,10964,7777,5123,6363,10138,9027,8941,Upgrade
+21,Asset Writedown,-445,-151,-35,-3,-1393,1274,-276,160,-232,1678,Upgrade
+22,Pretax Income,9707,11307,9144,10961,6384,6397,6087,10298,8795,10619,Upgrade
+23,Income Tax Expense,1226,1419,1128,1139,609,900,902,1537,1260,1484,Upgrade
+24,Earnings From Continuing Operations,8481,9888,8016,9822,5775,5497,5185,8761,7535,9135,Upgrade
+25,Minority Interest in Earnings,5,5,5,5,6,8,8,6,9,8,Upgrade
+26,Net Income,8486,9893,8021,9827,5781,5505,5193,8767,7544,9143,Upgrade
+27,Preferred Dividends & Other Adjustments,417,282,426,282,427,283,423,280,421,279,Upgrade
+28,Net Income to Common,8069,9611,7595,9545,5354,5222,4770,8487,7123,8864,Upgrade
+29,Net Income Growth,5.80%,0.67%,38.75%,78.51%,11.32%,-37.21%,-31.16%,-4.11%,-32.55%,-33.05%,Upgrade
+30,Basic Shares Outstanding,1884,1907,1912,1912,1912,1912,1912,1912,1912,1912,Upgrade
+31,Diluted Shares Outstanding,1884,1907,1912,1912,1912,1912,1912,1912,1912,1912,Upgrade
+32,Shares Change (YoY),-1.44%,-0.26%,-,-,-,-,-,-,-,-,Upgrade
+33,EPS (Basic),4.28,5.04,3.97,4.99,2.80,2.73,2.49,4.44,3.73,4.64,Upgrade
+34,EPS (Diluted),4.28,5.04,3.97,4.99,2.80,2.73,2.49,4.44,3.73,4.64,Upgrade
+35,EPS Growth,7.80%,0.96%,41.86%,82.78%,12.24%,-38.47%,-33.03%,-4.25%,-35.68%,-33.59%,Upgrade
+36,Dividend Per Share,4.400,2.400,4.300,2.200,2.700,1.400,2.900,2.200,3.600,1.900,Upgrade
+37,Dividend Growth,2.33%,9.09%,59.26%,57.14%,-6.90%,-36.36%,-19.44%,15.79%,-33.33%,-32.14%,Upgrade

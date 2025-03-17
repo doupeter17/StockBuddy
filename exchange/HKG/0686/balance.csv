@@ -1,0 +1,49 @@
+,Fiscal Quarter,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,H1 2020,H2 2019,+2 Quarters
+,Period Ending,"Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022","Dec '21 Dec 31, 2021","Jun '21 Jun 30, 2021","Dec '20 Dec 31, 2020","Jun '20 Jun 30, 2020","Dec '19 Dec 31, 2019",+2 Quarters
+0,Cash & Equivalents,8539,6187,2748,5247,4338,4814,4953,1577,2026,239,Upgrade
+1,Trading Asset Securities,57,57,34,34,35,35,38,38,38,38,Upgrade
+2,Accounts Receivable,10328,8218,7716,8296,9077,7552,6326,4372,4319,3823,Upgrade
+3,Other Receivables,4187,1682,4407,560,4911,952,2474,1797,1777,2341,Upgrade
+4,Restricted Cash,-,-,10,-,-,-,12,42,16,20,Upgrade
+5,Other Current Assets,24,1574,3314,4728,26,2318,150,1896,1457,1444,Upgrade
+6,Total Current Assets,23135,17718,18229,18865,18387,15671,13953,9722,9633,7905,Upgrade
+7,"Property, Plant & Equipment",73470,66616,43131,34054,28314,27255,18866,14422,14485,14553,Upgrade
+8,Goodwill,-,297,-,297,-,103,-,-,-,-,Upgrade
+9,Other Intangible Assets,1166,869,1166,869,972,869,869,869,869,869,Upgrade
+10,Long-Term Investments,1037,1020,1475,736,300,279,272,263,257,297,Upgrade
+11,Long-Term Deferred Tax Assets,69,70,19,12,5,5,27,27,27,27,Upgrade
+12,Other Long-Term Assets,2925,3446,4706,5495,1794,1977,1662,785,1114,1805,Upgrade
+13,Total Assets,101802,90036,68726,60328,49772,46159,35649,26088,26385,25456,Upgrade
+14,Accrued Expenses,-,44,-,35,-,20,-,473,-,472,Upgrade
+15,Current Portion of Long-Term Debt,22817,21088,11179,14205,11634,7778,7767,5305,5404,7624,Upgrade
+16,Current Unearned Revenue,-,2,-,1,-,1,-,-,-,-,Upgrade
+17,Current Portion of Leases,106,151,72,71,49,38,12,10,10,14,Upgrade
+18,Other Current Liabilities,8882,7112,4738,4298,3134,3486,2664,1969,2642,2652,Upgrade
+19,Total Current Liabilities,31805,28397,15989,18610,14817,11323,10443,7757,8056,10762,Upgrade
+20,Long-Term Debt,46849,41961,38366,29940,24574,24607,15802,12284,12678,10677,Upgrade
+21,Long-Term Leases,1410,1287,1064,1068,829,563,134,123,121,107,Upgrade
+22,Long-Term Unearned Revenue,15,25,26,26,15,16,1,1,1,5,Upgrade
+23,Long-Term Deferred Tax Liabilities,1117,1135,843,482,357,366,301,268,256,256,Upgrade
+24,Other Long-Term Liabilities,168,168,81,19,-,-,-,-,8,8,Upgrade
+25,Total Liabilities,81364,72973,56369,50145,40592,36875,26681,20433,21120,21815,Upgrade
+26,Common Stock,1915,1921,1921,1924,1924,1924,1924,1924,1924,1285,Upgrade
+27,Additional Paid-In Capital,-,-,9125,9128,9128,9128,9128,9128,9128,8194,Upgrade
+28,Retained Earnings,2329,2290,-702,-4839,-4927,-5167,-5360,-5735,-5918,-6063,Upgrade
+29,Treasury Stock,-27,-14,-,-6,-,-,-,-,-,-,Upgrade
+30,Comprehensive Income & Other,7030,5052,-4598,-216,-62,208,49,-,-194,-92,Upgrade
+31,Total Common Equity,11247,9249,5746,5991,6063,6093,5741,5317,4940,3324,Upgrade
+32,Minority Interest,9191,7814,6611,4192,3117,3191,3227,338,325,317,Upgrade
+33,Shareholders' Equity,20438,17063,12357,10183,9180,9284,8968,5655,5265,3641,Upgrade
+34,Total Liabilities & Equity,101802,90036,68726,60328,49772,46159,35649,26088,26385,25456,Upgrade
+35,Total Debt,71182,64487,50681,45284,37086,32986,23715,17722,18213,18422,Upgrade
+36,Net Cash (Debt),-62586,-58243,-47899,-40003,-32713,-28137,-18724,-16107,-16149,-18145,Upgrade
+37,Net Cash Per Share,-27.99,-26.03,-21.38,-17.84,-14.59,-12.55,-8.35,-7.18,-7.86,-11.88,Upgrade
+38,Filing Date Shares Outstanding,2220,2233,2240,2240,2243,2243,2243,2243,2243,2243,Upgrade
+39,Total Common Shares Outstanding,2220,2233,2240,2240,2243,2243,2243,2243,2243,1525,Upgrade
+40,Working Capital,-8670,-10679,2240,255,3570,4348,3510,1965,1577,-2857,Upgrade
+41,Book Value Per Share,2.46,2.58,2.57,2.67,2.70,2.72,2.56,2.37,2.20,2.18,Upgrade
+42,Tangible Book Value,10081,8083,4580,4825,5091,5121,4872,4448,4071,2455,Upgrade
+43,Tangible Book Value Per Share,1.93,2.05,2.04,2.15,2.27,2.28,2.17,1.98,1.82,1.61,Upgrade
+44,Buildings,-,4508,-,227,-,122,-,47,-,47,Upgrade
+45,Machinery,-,52381,-,35312,-,25507,-,16626,-,15502,Upgrade
+46,Construction In Progress,-,18219,-,3043,-,4944,-,198,-,883,Upgrade

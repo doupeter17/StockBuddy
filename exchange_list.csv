@@ -1,0 +1,116 @@
+,Exchange Name,Country,Code,Currency,Stocks,Url
+0,US OTC,United States,OTC,USD,7591,/list/otc-stocks/
+1,Bombay Stock Exchange,India,BOM,INR,4253,/list/bse-india/
+2,Tokyo Stock Exchange,Japan,TYO,JPY,3892,/list/tokyo-stock-exchange/
+3,Nasdaq Stock Market,United States,NASDAQ,USD,3316,/list/nasdaq-stocks/
+4,London Stock Exchange,United Kingdom,LON,GBP,3305,/list/london-stock-exchange/
+5,Shenzhen Stock Exchange,China,SHE,CNY,2819,/list/shenzhen-stock-exchange/
+6,Hong Kong Stock Exchange,Hong Kong,HKG,HKD,2554,/list/hong-kong-stock-exchange/
+7,National Stock Exchange of India,India,NSE,INR,2549,/list/nse-india/
+8,Shanghai Stock Exchange,China,SHA,CNY,2267,/list/shanghai-stock-exchange/
+9,New York Stock Exchange,United States,NYSE,USD,1943,/list/nyse-stocks/
+10,Australian Securities Exchange,Australia,ASX,AUD,1791,/list/australian-securities-exchange/
+11,KOSDAQ,South Korea,KOSDAQ,KRW,1670,/list/kosdaq-korea/
+12,TSX Venture Exchange,Canada,TSXV,CAD,1402,/list/tsx-venture-exchange/
+13,Taipei Exchange,Taiwan,TPEX,TWD,1116,/list/taipei-exchange/
+14,Taiwan Stock Exchange,Taiwan,TPE,TWD,1033,/list/taiwan-stock-exchange/
+15,Bursa Malaysia,Malaysia,KLSE,MYR,1026,/list/bursa-malaysia/
+16,Indonesia Stock Exchange,Indonesia,IDX,IDR,888,/list/indonesia-stock-exchange/
+17,Stock Exchange of Thailand,Thailand,BKK,THB,881,/list/stock-exchange-of-thailand/
+18,Korea Stock Exchange,South Korea,KRX,KRW,814,/list/korea-stock-exchange/
+19,Nasdaq Stockholm,Sweden,STO,SEK,776,/list/nasdaq-stockholm/
+20,Euronext Paris,France,EPA,EUR,754,/list/euronext-paris/
+21,Warsaw Stock Exchange,Poland,WSE,PLN,718,/list/warsaw-stock-exchange/
+22,Toronto Stock Exchange,Canada,TSX,CAD,716,/list/toronto-stock-exchange/
+23,Deutsche BÃ¶rse Xetra,Germany,ETR,EUR,688,/list/deutsche-boerse-xetra/
+24,London Stock Exchange AIM,United Kingdom,AIM,GBP,643,/list/london-stock-exchange-aim/
+25,Canadian Securities Exchange,Canada,CSE,CAD,593,/list/canadian-securities-exchange/
+26,Istanbul Stock Exchange,Turkey,IST,TRY,549,/list/borsa-istanbul/
+27,Tel Aviv Stock Exchange,Israel,TLV,ILS,486,/list/tel-aviv-stock-exchange/
+28,Pakistan Stock Exchange,Pakistan,PSX,PKR,465,/list/pakistan-stock-exchange/
+29,Ho Chi Minh Stock Exchange,Vietnam,HOSE,VND,383,/list/ho-chi-minh-stock-exchange/
+30,Singapore Exchange,Singapore,SGX,SGD,355,/list/singapore-exchange/
+31,Dhaka Stock Exchange,Bangladesh,DSE,BDT,353,/list/dhaka-stock-exchange/
+32,Borsa Italiana,Italy,BIT,EUR,335,/list/borsa-italiana/
+33,Brazil Stock Exchange,Brazil,BVMF,BRL,320,/list/brazil-stock-exchange/
+34,Saudi Stock Exchange,Saudi Arabia,TADAWUL,SAR,317,/list/saudi-stock-exchange/
+35,Oslo BÃ¸rs,Norway,OSL,NOK,308,/list/oslo-bors/
+36,Colombo Stock Exchange,Sri Lanka,COSE,LKR,291,/list/colombo-stock-exchange/
+37,Philippine Stock Exchange,Philippines,PSE,PHP,275,/list/philippine-stock-exchange/
+38,Johannesburg Stock Exchange,South Africa,JSE,ZAR,272,/list/johannesburg-stock-exchange/
+39,Hanoi Stock Exchange,Vietnam,HNX,VND,250,/list/hanoi-stock-exchange/
+40,Frankfurt Stock Exchange,Germany,FRA,EUR,245,/list/frankfurt-stock-exchange/
+41,NYSE American,United States,AMEX,USD,234,/list/nyseamerican-stocks/
+42,SIX Swiss Exchange,Switzerland,SWX,CHF,218,/list/six-swiss-exchange/
+43,Egyptian Stock Exchange,Egypt,EGX,EGP,213,/list/egyptian-stock-exchange/
+44,Moscow Stock Exchange,Russia,MOEX,RUB,188,/list/moscow-stock-exchange/
+45,Nasdaq Helsinki,Finland,HEL,EUR,187,/list/nasdaq-helsinki/
+46,Bucharest Stock Exchange,Romania,BVB,RON,176,/list/bucharest-stock-exchange/
+47,Copenhagen Stock Exchange,Denmark,CPH,DKK,162,/list/copenhagen-stock-exchange/
+48,Singapore Exchange - Catalist,Singapore,SGXC,SGD,161,/list/singapore-exchange/
+49,Santiago Stock Exchange,Chile,SNSE,CLP,154,/list/santiago-stock-exchange/
+50,Madrid Stock Exchange,Spain,BME,EUR,154,/list/madrid-stock-exchange/
+51,Nigerian Stock Exchange,Nigeria,NGX,NGN,146,/list/nigerian-stock-exchange/
+52,Nordic Growth Market,Sweden,NGM,SEK,144,/list/nordic-growth-market/
+53,Kuwait Stock Exchange,Kuwait,KWSE,KWD,141,/list/kuwait-stock-exchange/
+54,Athens Stock Exchange,Greece,ATH,EUR,130,/list/athens-stock-exchange/
+55,Vienna Stock Exchange,Austria,VIE,EUR,127,/list/vienna-stock-exchange/
+56,Euronext Amsterdam,Netherlands,AMS,EUR,116,/list/euronext-amsterdam/
+57,New Zealand Stock Exchange,New Zealand,NZE,NZD,116,/list/new-zealand-stock-exchange/
+58,Amman Stock Exchange,Jordan,ASE,JOD,116,/list/amman-stock-exchange/
+59,Euronext Brussels,Belgium,EBR,EUR,115,/list/euronext-brussels/
+60,Mexican Stock Exchange,Mexico,BMV,MXN,111,/list/mexican-stock-exchange/
+61,Korea New Exchange,South Korea,XKON,KRW,110,/list/korea-new-exchange/
+62,Lima Stock Exchange,Peru,BVL,PEN,107,/list/lima-stock-exchange/
+63,Luxembourg Stock Exchange,Luxembourg,LUX,EUR,104,/list/luxembourg-stock-exchange/
+64,Muscat Securities Market,Oman,MSM,OMR,101,/list/muscat-securities-market/
+65,Abu Dhabi Securities Exchange,United Arab Emirates,ADX,AED,100,/list/abu-dhabi-securities-exchange/
+66,Jamaica Stock Exchange,Jamaica,JMSE,JMD,94,/list/jamaica-stock-exchange/
+67,Cboe Canada,Canada,NEO,CAD,90,/list/cboe-canada/
+68,Mauritius Stock Exchange,Mauritius,MUSE,MUR,88,/list/mauritius-stock-exchange/
+69,Aquis Exchange,United Kingdom,AQU,GBP,80,/list/aquis-exchange/
+70,Bulgarian Stock Exchange,Bulgaria,BUL,BGN,76,/list/bulgarian-stock-exchange/
+71,Buenos Aires Stock Exchange,Argentina,BCBA,ARS,74,/list/buenos-aires-stock-exchange/
+72,Casablanca Stock Exchange,Morocco,CBSE,MAD,73,/list/casablanca-stock-exchange/
+73,Hamburg Stock Exchange,Germany,HAM,EUR,67,/list/hamburg-stock-exchange/
+74,Tunis Stock Exchange,Tunisia,BVMT,TND,65,/list/tunis-stock-exchange/
+75,Colombia Stock Exchange,Colombia,BVC,COP,58,/list/colombia-stock-exchange/
+76,Dubai Financial Market,United Arab Emirates,DFM,AED,56,/list/dubai-financial-market/
+77,Nairobi Stock Exchange,Kenya,NASE,KES,56,/list/nairobi-stock-exchange/
+78,Nagoya Stock Exchange,Japan,XNGO,JPY,55,/list/nagoya-stock-exchange/
+79,Qatar Stock Exchange,Qatar,QSE,QAR,53,/list/qatar-stock-exchange/
+80,Zagreb Stock Exchange,Croatia,ZSE,HRK,51,/list/zagreb-stock-exchange/
+81,Prague Stock Exchange,Czech Republic,PRA,CZK,46,/list/prague-stock-exchange/
+82,Budapest Stock Exchange,Hungary,BUD,HUF,45,/list/budapest-stock-exchange/
+83,Ivory Coast Stock Exchange,Ivory Coast,BRVM,XOF,44,/list/ivory-coast-stock-exchange/
+84,Euronext Lisbon,Portugal,ELI,EUR,41,/list/euronext-lisbon/
+85,Dusseldorf Stock Exchange,Germany,DUSE,EUR,38,/list/dusseldorf-stock-exchange/
+86,Munich Stock Exchange,Germany,MUN,EUR,32,/list/munich-stock-exchange/
+87,Nasdaq Iceland,Iceland,ICE,ISK,32,/list/nasdaq-iceland/
+88,Namibian Stock Exchange,Namibia,NMSE,NAD,31,/list/namibian-stock-exchange/
+89,Cyprus Stock Exchange,Cyprus,CYS,EUR,30,/list/cyprus-stock-exchange/
+90,Nasdaq Tallinn,Estonia,TAL,EUR,29,/list/nasdaq-tallinn/
+91,Stuttgart Stock Exchange,Germany,BST,EUR,28,/list/stuttgart-stock-exchange/
+92,Tanzania Stock Exchange,Tanzania,DAR,TZS,28,/list/tanzania-stock-exchange/
+93,Nasdaq Vilnius,Lithuania,VSE,EUR,26,/list/nasdaq-vilnius/
+94,Euronext Dublin,Ireland,ISE,EUR,25,/list/euronext-dublin/
+95,Fukuoka Stock Exchange,Japan,FKSE,JPY,25,/list/fukuoka-stock-exchange/
+96,Palestine Stock Exchange,Palestine,PEX,JOD,24,/list/palestine-stock-exchange/
+97,Malta Stock Exchange,Malta,MSE,EUR,23,/list/malta-stock-exchange/
+98,Bahrain Stock Exchange,Bahrain,BAX,BHD,23,/list/bahrain-stock-exchange/
+99,Ghana Stock Exchange,Ghana,GHSE,GHS,20,/list/ghana-stock-exchange/
+100,Kazakhstan Stock Exchange,Kazakhstan,KASE,KZT,19,/list/kazakhstan-stock-exchange/
+101,Lusaka Stock Exchange,Zambia,LUSE,ZMW,19,/list/lusaka-stock-exchange/
+102,Caracas Stock Exchange,Venezuela,CCSE,VES,18,/list/caracas-stock-exchange/
+103,Belgrade Stock Exchange,Serbia,BELEX,EUR,18,/list/belgrade-stock-exchange/
+104,Botswana Stock Exchange,Botswana,BSM,BWP,18,/list/botswana-stock-exchange/
+105,Sapporo Stock Exchange,Japan,SPSE,JPY,17,/list/sapporo-stock-exchange/
+106,Uganda Securities Exchange,Uganda,UGSE,UGX,17,/list/uganda-securities-exchange/
+107,Ljubljana Stock Exchange,Slovenia,LJSE,EUR,14,/list/ljubljana-stock-exchange/
+108,Malawi Stock Exchange,Malawi,MAL,MWK,13,/list/malawi-stock-exchange/
+109,Nasdaq Riga,Latvia,RSE,EUR,10,/list/nasdaq-riga/
+110,Beirut Stock Exchange,Lebanon,BDB,LBP,8,/list/beirut-stock-exchange/
+111,CBOE Europe,Europe,CHIX,EUR,6,/list/cboe-europe/
+112,Bratislava Stock Exchange,Slovakia,BSSE,EUR,6,/list/bratislava-stock-exchange/
+113,Zimbabwe Stock Exchange,Zimbabwe,ZMSE,ZWL,5,/list/zimbabwe-stock-exchange/
+114,PFTS Stock Exchange,Ukraine,UKR,UAH,2,/list/pfts-stock-exchange/
