@@ -25,20 +25,6 @@ The project relies on **StockAnalysis** as the primary data source. Their financ
 - **Statsmodels & Linearmodels**: OLS, GLS, PanelOLS, and Random Effects estimation
 - **Seaborn & Matplotlib**: Data visualization and model performance evaluation
 
-## Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/doupeter17/StockBuddy.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the script:
-   - **Please follow the instruction in notebook file as order:**
-     - `fetch_data.ipynb`
-     - `combine_data.ipynb`
-     - `data_analysis.ipynb`
 ## Usage
 - Modify the configuration file to specify stock exchanges and companies of interest.
 - Execute the script to fetch and process financial data.
